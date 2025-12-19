@@ -1,0 +1,647 @@
+year,registry_group_number,registry_group_name,region,prov_terr,district,pop_on_reserve_crown_land_men,pop_on_reserve_crown_land_women,pop_on_reserve_crown_land_total,pop_off_reserve_men,pop_off_reserve_women,pop_off_reserve_total,pop_total_men,pop_total_women,pop_total_total
+2022,1,Abegweit,Atlantic,Prince Edward Island,NA,118,115,233,75,94,169,193,209,402
+2022,2,Lennox Island,Atlantic,Prince Edward Island,NA,216,207,423,300,352,652,516,559,1075
+2022,3,Elsipogtog First Nation,Atlantic,New Brunswick,NA,1413,1361,2774,354,434,788,1767,1795,3562
+2022,4,Buctouche MicMac,Atlantic,New Brunswick,NA,48,32,80,21,27,48,69,59,128
+2022,5,Esgenoopetitj First Nation,Atlantic,New Brunswick,NA,682,697,1379,259,310,569,941,1007,1948
+2022,6,Madawaska Maliseet First Nation,Atlantic,New Brunswick,NA,79,80,159,108,110,218,187,190,377
+2022,7,Natoaganeg,Atlantic,New Brunswick,NA,300,292,592,249,253,502,549,545,1094
+2022,8,Eel River Bar First Nation,Atlantic,New Brunswick,NA,171,186,357,217,250,467,388,436,824
+2022,9,Fort Folly,Atlantic,New Brunswick,NA,11,24,35,52,53,105,63,77,140
+2022,10,Indian Island,Atlantic,New Brunswick,NA,54,61,115,43,58,101,97,119,216
+2022,11,Bilijk,Atlantic,New Brunswick,NA,347,392,739,158,172,330,505,564,1069
+2022,12,Oromocto First Nation,Atlantic,New Brunswick,NA,181,171,352,235,282,517,416,453,869
+2022,13,Pabineau,Atlantic,New Brunswick,NA,57,48,105,129,129,258,186,177,363
+2022,14,Metepenagiag Mi'kmaq Nation,Atlantic,New Brunswick,NA,234,230,464,109,142,251,343,372,715
+2022,15,Saint Mary's,Atlantic,New Brunswick,NA,475,490,965,561,639,1200,1036,1129,2165
+2022,16,Tobique,Atlantic,New Brunswick,NA,796,803,1599,481,534,1015,1277,1337,2614
+2022,17,Woodstock,Atlantic,New Brunswick,NA,173,126,299,392,497,889,565,623,1188
+2022,18,Acadia,Atlantic,Nova Scotia,NA,115,127,242,816,838,1654,931,965,1896
+2022,19,Paqtnkek Mi'kmaw Nation,Atlantic,Nova Scotia,NA,205,252,457,66,89,155,271,341,612
+2022,20,Annapolis Valley,Atlantic,Nova Scotia,NA,65,56,121,81,116,197,146,172,318
+2022,21,Bear River,Atlantic,Nova Scotia,NA,50,67,117,125,136,261,175,203,378
+2022,22,Potlotek First Nation,Atlantic,Nova Scotia,NA,343,323,666,75,87,162,418,410,828
+2022,23,Eskasoni,Atlantic,Nova Scotia,NA,2008,2043,4051,312,361,673,2320,2404,4724
+2022,24,Pictou Landing,Atlantic,Nova Scotia,NA,255,269,524,85,79,164,340,348,688
+2022,25,Sipekne'katik,Atlantic,Nova Scotia,NA,668,764,1432,726,826,1552,1394,1590,2984
+2022,26,Membertou,Atlantic,Nova Scotia,NA,509,493,1002,314,303,617,823,796,1619
+2022,27,Millbrook,Atlantic,Nova Scotia,NA,488,489,977,619,652,1271,1107,1141,2248
+2022,28,Wagmatcook,Atlantic,Nova Scotia,NA,360,366,726,87,111,198,447,477,924
+2022,29,We'koqma'q First Nation,Atlantic,Nova Scotia,NA,491,511,1002,37,49,86,528,560,1088
+2022,30,Glooscap First Nation,Atlantic,Nova Scotia,NA,35,66,101,157,163,320,192,229,421
+2022,32,Mushuau Innu First Nation,Atlantic,Newfoundland and Labrador,NA,528,562,1090,37,50,87,565,612,1177
+2022,33,Sheshatshiu Innu First Nation,Atlantic,Newfoundland and Labrador,NA,874,869,1743,74,122,196,948,991,1939
+2022,34,Qalipu Mi'kmaq First Nation,Atlantic,Newfoundland and Labrador,NA,X,X,16,X,X,25072,12408,12680,25088
+2022,47,Miawpukek,Atlantic,Newfoundland and Labrador,NA,445,386,831,1128,1131,2259,1573,1517,3090
+2022,50,Nation Huronne Wendat,Quebec,Quebec,Quebec District,727,757,1484,1568,1719,3287,2295,2476,4771
+2022,51,Listuguj Mi'gmaq Government,Quebec,Quebec,Quebec District,1072,1046,2118,997,1186,2183,2069,2232,4301
+2022,52,Micmacs of Gesgapegiag,Quebec,Quebec,Quebec District,387,353,740,422,488,910,809,841,1650
+2022,53,La Nation Micmac de Gespeg,Quebec,Quebec,Quebec District,0,0,0,796,852,1648,796,852,1648
+2022,54,PremiËre Nation Wolastoqiyik (MalÈcite) Wahsipekuk,Quebec,Quebec,Quebec District,X,X,X,X,X,X,858,875,1733
+2022,55,Conseil de la PremiËre Nation Abitibiwinni,Quebec,Quebec,Quebec District,285,332,617,241,244,485,526,576,1102
+2022,56,Waswanipi,Quebec,Quebec,Quebec District,960,866,1826,223,281,504,1183,1147,2330
+2022,57,Eastmain,Quebec,Quebec,Quebec District,465,437,902,21,30,51,486,467,953
+2022,58,Cree Nation of Chisasibi,Quebec,Quebec,Quebec District,2340,2313,4653,78,102,180,2418,2415,4833
+2022,59,Cree Nation of Nemaska,Quebec,Quebec,Quebec District,X,X,826,X,X,24,425,425,850
+2022,60,Cree Nation of Wemindji,Quebec,Quebec,Quebec District,742,777,1519,62,80,142,804,857,1661
+2022,61,The Crees of the Waskaganish First Nation,Quebec,Quebec,Quebec District,1217,1210,2427,240,236,476,1457,1446,2903
+2022,62,CommunautÈ anicinape de Kitcisakik,Quebec,Quebec,Quebec District,202,201,403,62,63,125,264,264,528
+2022,63,Nation Anishnabe du Lac Simon,Quebec,Quebec,Quebec District,947,917,1864,206,232,438,1153,1149,2302
+2022,64,Timiskaming First Nation,Quebec,Quebec,Quebec District,334,335,669,957,1092,2049,1291,1427,2718
+2022,65,Kebaowek First Nation,Quebec,Quebec,Quebec District,145,150,295,433,442,875,578,592,1170
+2022,67,Long Point First Nation,Quebec,Quebec,Quebec District,263,264,527,207,226,433,470,490,960
+2022,68,Wolf Lake,Quebec,Quebec,Quebec District,X,X,X,X,X,X,135,136,271
+2022,69,Mohawks of Kanesatake,Quebec,Quebec,Montreal District,647,736,1383,704,817,1521,1351,1553,2904
+2022,70,Mohawks of Kahnaw·:ke,Quebec,Quebec,Montreal District,3999,4109,8108,1616,1832,3448,5615,5941,11556
+2022,71,PremiËre Nation des AbÈnakis de WÙlinak,Quebec,Quebec,Quebec District,51,74,125,239,274,513,290,348,638
+2022,72,Odanak,Quebec,Quebec,Quebec District,142,144,286,1242,1399,2641,1384,1543,2927
+2022,73,Kitigan Zibi Anishinabeg,Quebec,Quebec,Quebec District,841,834,1675,1013,1172,2185,1854,2006,3860
+2022,74,Algonquins of Barriere Lake,Quebec,Quebec,Quebec District,311,304,615,85,93,178,396,397,793
+2022,75,Cree Nation of Mistissini,Quebec,Quebec,Quebec District,1975,1991,3966,119,138,257,2094,2129,4223
+2022,76,PremiËre Nation des Pekuakamiulnuatsh,Quebec,Quebec,Pointe-Bleue District,1076,1049,2125,3624,3803,7427,4700,4852,9552
+2022,77,Conseil des Atikamekw de Wemotaci,Quebec,Quebec,Pointe-Bleue District,813,759,1572,250,258,508,1063,1017,2080
+2022,78,Les Atikamekw de Manawan,Quebec,Quebec,Pointe-Bleue District,1335,1281,2616,190,261,451,1525,1542,3067
+2022,79,Atikamekw d'Opitciwan,Quebec,Quebec,Pointe-Bleue District,1413,1170,2583,264,308,572,1677,1478,3155
+2022,80,Innu Takuaikan Uashat Mak Mani-Utenam,Quebec,Quebec,Quebec District,1844,1858,3702,617,672,1289,2461,2530,4991
+2022,81,Naskapi Nation of Kawawachikamach,Quebec,Quebec,Quebec District,361,363,724,33,40,73,394,403,797
+2022,82,Les Innus de Ekuanitshit,Quebec,Quebec,Quebec District,312,346,658,22,22,44,334,368,702
+2022,83,PremiËre Nation de Whapmagoostui,Quebec,Quebec,Quebec District,585,562,1147,38,67,105,623,629,1252
+2022,84,Montagnais de Unamen Shipu,Quebec,Quebec,Quebec District,625,573,1198,30,30,60,655,603,1258
+2022,85,Bande des Innus de Pessamit,Quebec,Quebec,Quebec District,1425,1503,2928,548,652,1200,1973,2155,4128
+2022,86,Innue Essipit,Quebec,Quebec,Quebec District,131,120,251,563,609,1172,694,729,1423
+2022,87,La Nation Innu Matimekush-Lac John,Quebec,Quebec,Quebec District,454,457,911,70,64,134,524,521,1045
+2022,88,Montagnais de Pakua Shipi,Quebec,Quebec,Quebec District,X,X,391,X,X,10,207,194,401
+2022,89,OujÈ-Bougoumou Cree Nation,Quebec,Quebec,Quebec District,415,399,814,45,74,119,460,473,933
+2022,95,PremiËre Nation de Whapmagoostui,Quebec,Quebec,Quebec District,482,462,944,46,40,86,528,502,1030
+2022,120,Mississaugas of the Credit,Ontario,Ontario,Southern District,479,521,1000,842,914,1756,1321,1435,2756
+2022,122,Chippewas of Nawash First Nation,Ontario,Ontario,Southern District,353,378,731,983,1108,2091,1336,1486,2822
+2022,123,Saugeen,Ontario,Ontario,Southern District,435,419,854,528,575,1103,963,994,1957
+2022,124,Big Grassy,Ontario,Ontario,Western District,161,139,300,260,315,575,421,454,875
+2022,125,Anishnaabeg of Naongashiing,Ontario,Ontario,Western District,104,106,210,123,128,251,227,234,461
+2022,126,Couchiching First Nation,Ontario,Ontario,Western District,380,387,767,1044,1093,2137,1424,1480,2904
+2022,127,Lac La Croix,Ontario,Ontario,Western District,175,153,328,82,98,180,257,251,508
+2022,128,Naicatchewenin,Ontario,Ontario,Western District,168,159,327,121,108,229,289,267,556
+2022,129,Nigigoonsiminikaaning First Nation,Ontario,Ontario,Western District,92,91,183,110,133,243,202,224,426
+2022,130,Rainy River First Nations,Ontario,Ontario,Western District,217,271,488,402,434,836,619,705,1324
+2022,131,Ojibways of Onigaming First Nation,Ontario,Ontario,Western District,269,229,498,157,214,371,426,443,869
+2022,132,Seine River First Nation,Ontario,Ontario,Western District,166,203,369,212,230,442,378,433,811
+2022,133,Mitaanjigamiing First Nation,Ontario,Ontario,Western District,69,67,136,35,28,63,104,95,199
+2022,134,Wahta Mohawk,Ontario,Ontario,Southern District,81,66,147,345,406,751,426,472,898
+2022,135,Moose Deer Point,Ontario,Ontario,Southern District,68,76,144,186,202,388,254,278,532
+2022,136,Wasauksing First Nation,Ontario,Ontario,Southern District,212,203,415,466,506,972,678,709,1387
+2022,137,Shawanaga First Nation,Ontario,Ontario,Sudbury District,82,101,183,259,303,562,341,404,745
+2022,138,Chippewas of Georgina Island,Ontario,Ontario,Southern District,97,113,210,359,381,740,456,494,950
+2022,139,Chippewas of Rama First Nation,Ontario,Ontario,Southern District,390,371,761,666,695,1361,1056,1066,2122
+2022,140,Mississaugas of Scugog Island First Nation,Ontario,Ontario,Southern District,30,24,54,103,104,207,133,128,261
+2022,141,Beausoleil,Ontario,Ontario,Southern District,340,355,695,1132,1274,2406,1472,1629,3101
+2022,142,Albany,Ontario,Ontario,Western District,1667,1648,3315,985,1031,2016,2652,2679,5331
+2022,143,Attawapiskat,Ontario,Ontario,Western District,1086,1023,2109,742,857,1599,1828,1880,3708
+2022,144,Moose Cree First Nation,Ontario,Ontario,Western District,1029,909,1938,1480,1596,3076,2509,2505,5014
+2022,145,Taykwa Tagamou Nation,Ontario,Ontario,Western District,85,76,161,243,261,504,328,337,665
+2022,146,Weenusk,Ontario,Ontario,Western District,161,133,294,167,146,313,328,279,607
+2022,147,Niisaachewan Anishinaabe Nation,Ontario,Ontario,Western District,99,84,183,151,169,320,250,253,503
+2022,148,Eagle Lake,Ontario,Ontario,Western District,196,181,377,134,145,279,330,326,656
+2022,149,Grassy Narrows First Nation,Ontario,Ontario,Western District,505,509,1014,287,305,592,792,814,1606
+2022,150,Wabaseemoong Independent Nations,Ontario,Ontario,Western District,494,516,1010,500,529,1029,994,1045,2039
+2022,151,Northwest Angle No.33,Ontario,Ontario,Western District,139,127,266,142,203,345,281,330,611
+2022,152,Animakee Wa Zhing #37,Ontario,Ontario,Western District,95,103,198,195,213,408,290,316,606
+2022,153,Anishinabe of Wauzhushk Onigum,Ontario,Ontario,Western District,218,185,403,205,243,448,423,428,851
+2022,154,Iskatewizaagegan #39 Independent First Nation,Ontario,Ontario,Western District,191,180,371,169,158,327,360,338,698
+2022,155,Shoal Lake No.40,Ontario,Ontario,Western District,160,146,306,171,206,377,331,352,683
+2022,156,Wabauskang First Nation,Ontario,Ontario,Western District,71,72,143,111,123,234,182,195,377
+2022,157,Wabigoon Lake Ojibway Nation,Ontario,Ontario,Western District,102,92,194,414,396,810,516,488,1004
+2022,158,Naotkamegwanning,Ontario,Ontario,Western District,391,371,762,298,265,563,689,636,1325
+2022,159,Mohawks of Akwesasne,Ontario,Ontario,Southern District,4997,5252,10249,1431,1572,3003,6428,6824,13252
+2022,160,Alderville First Nation,Ontario,Ontario,Southern District,148,167,315,513,542,1055,661,709,1370
+2022,161,Curve Lake,Ontario,Ontario,Southern District,406,418,824,945,1021,1966,1351,1439,2790
+2022,162,Hiawatha First Nation,Ontario,Ontario,Southern District,91,119,210,371,439,810,462,558,1020
+2022,163,Algonquins of Pikwakanagan First Nation,Ontario,Ontario,Southern District,228,236,464,1574,1668,3242,1802,1904,3706
+2022,164,Mohawks of the Bay of Quinte,Ontario,Ontario,Southern District,1022,1110,2132,4092,4563,8655,5114,5673,10787
+2022,165,Caldwell,Ontario,Ontario,Southern District,X,X,X,X,X,X,224,274,498
+2022,166,Chippewas of the Thames First Nation,Ontario,Ontario,Southern District,512,506,1018,934,1118,2052,1446,1624,3070
+2022,167,Moravian of the Thames,Ontario,Ontario,Southern District,301,300,601,327,417,744,628,717,1345
+2022,168,Munsee-Delaware Nation,Ontario,Ontario,Southern District,89,89,178,247,273,520,336,362,698
+2022,169,Oneida Nation of the Thames,Ontario,Ontario,Southern District,1108,1134,2242,1959,2237,4196,3067,3371,6438
+2022,170,Walpole Island,Ontario,Ontario,Southern District,1199,1152,2351,1228,1395,2623,2427,2547,4974
+2022,171,Chippewas of Kettle and Stony Point,Ontario,Ontario,Southern District,723,677,1400,557,680,1237,1280,1357,2637
+2022,172,Aamjiwnaang,Ontario,Ontario,Southern District,485,497,982,716,828,1544,1201,1325,2526
+2022,173,Zhiibaahaasing First Nation,Ontario,Ontario,Sudbury District,32,33,65,59,59,118,91,92,183
+2022,174,Magnetawan,Ontario,Ontario,Sudbury District,47,33,80,123,131,254,170,164,334
+2022,175,Wikwemikong,Ontario,Ontario,Sudbury District,1633,1637,3270,2434,2873,5307,4067,4510,8577
+2022,176,Sheguiandah,Ontario,Ontario,Sudbury District,91,87,178,123,151,274,214,238,452
+2022,178,Sheshegwaning,Ontario,Ontario,Sudbury District,56,62,118,163,185,348,219,247,466
+2022,179,Sagamok Anishnawbek,Ontario,Ontario,Sudbury District,836,792,1628,732,831,1563,1568,1623,3191
+2022,180,Aundeck-Omni-Kaning,Ontario,Ontario,Sudbury District,211,185,396,245,277,522,456,462,918
+2022,181,M'Chigeeng First Nation,Ontario,Ontario,Sudbury District,478,474,952,856,932,1788,1334,1406,2740
+2022,182,Constance Lake,Ontario,Ontario,Western District,466,421,887,452,465,917,918,886,1804
+2022,183,Eabametoong First Nation,Ontario,Ontario,Western District,905,753,1658,571,596,1167,1476,1349,2825
+2022,184,Long Lake No.58 First Nation,Ontario,Ontario,Western District,275,272,547,644,653,1297,919,925,1844
+2022,185,Ginoogaming First Nation,Ontario,Ontario,Western District,117,104,221,366,393,759,483,497,980
+2022,186,Martin Falls,Ontario,Ontario,Western District,211,185,396,213,244,457,424,429,853
+2022,187,Fort William,Ontario,Ontario,Western District,514,511,1025,851,922,1773,1365,1433,2798
+2022,188,Gull Bay,Ontario,Ontario,Western District,223,179,402,576,605,1181,799,784,1583
+2022,189,Lac Des Mille Lacs,Ontario,Ontario,Western District,X,X,X,X,X,X,314,323,637
+2022,190,Whitesand,Ontario,Ontario,Western District,213,193,406,458,464,922,671,657,1328
+2022,191,Pays Plat,Ontario,Ontario,Western District,47,36,83,98,111,209,145,147,292
+2022,192,Biigtigong Nishnaabeg,Ontario,Ontario,Western District,251,280,531,363,385,748,614,665,1279
+2022,193,Red Rock,Ontario,Ontario,Western District,147,151,298,954,1010,1964,1101,1161,2262
+2022,194,Animbiigoo Zaagi'igan Anishinaabek,Ontario,Ontario,Western District,45,39,84,216,256,472,261,295,556
+2022,195,Pic Mobert,Ontario,Ontario,Western District,186,163,349,374,369,743,560,532,1092
+2022,196,Bingwi Neyaashi Anishinaabek,Ontario,Ontario,Western District,43,38,81,146,131,277,189,169,358
+2022,197,Biinjitiwaabik Zaaging Anishinaabek,Ontario,Ontario,Western District,171,166,337,229,237,466,400,403,803
+2022,198,Batchewana First Nation,Ontario,Ontario,Sudbury District,392,425,817,1079,1253,2332,1471,1678,3149
+2022,199,Garden River First Nation,Ontario,Ontario,Sudbury District,676,667,1343,947,1069,2016,1623,1736,3359
+2022,200,Mississauga,Ontario,Ontario,Sudbury District,186,206,392,519,563,1082,705,769,1474
+2022,201,Serpent River,Ontario,Ontario,Sudbury District,185,209,394,547,608,1155,732,817,1549
+2022,202,Thessalon,Ontario,Ontario,Sudbury District,60,57,117,459,500,959,519,557,1076
+2022,203,Mishkeegogamang,Ontario,Ontario,Sioux Lookout District,653,611,1264,355,433,788,1008,1044,2052
+2022,204,North Caribou Lake,Ontario,Ontario,Sioux Lookout District,438,521,959,121,146,267,559,667,1226
+2022,205,Lac Seul,Ontario,Ontario,Sioux Lookout District,523,469,992,1317,1406,2723,1840,1875,3715
+2022,206,Wapekeka,Ontario,Ontario,Sioux Lookout District,X,X,505,X,X,14,248,271,519
+2022,207,Bearskin Lake,Ontario,Ontario,Sioux Lookout District,264,229,493,209,252,461,473,481,954
+2022,208,Pikangikum,Ontario,Ontario,Sioux Lookout District,1661,1530,3191,68,56,124,1729,1586,3315
+2022,209,Kitchenuhmaykoosib Inninuwug,Ontario,Ontario,Sioux Lookout District,604,602,1206,279,258,537,883,860,1743
+2022,210,Kasabonika Lake,Ontario,Ontario,Sioux Lookout District,576,586,1162,29,34,63,605,620,1225
+2022,211,Sandy Lake,Ontario,Ontario,Sioux Lookout District,1396,1305,2701,247,252,499,1643,1557,3200
+2022,212,Kingfisher,Ontario,Ontario,Sioux Lookout District,292,281,573,32,28,60,324,309,633
+2022,213,Muskrat Dam Lake,Ontario,Ontario,Sioux Lookout District,136,148,284,106,117,223,242,265,507
+2022,214,Sachigo Lake,Ontario,Ontario,Sioux Lookout District,290,290,580,181,209,390,471,499,970
+2022,215,Fort Severn,Ontario,Ontario,Sioux Lookout District,278,281,559,75,92,167,353,373,726
+2022,216,Cat Lake,Ontario,Ontario,Sioux Lookout District,362,328,690,67,80,147,429,408,837
+2022,217,Wunnumin,Ontario,Ontario,Sioux Lookout District,304,291,595,58,59,117,362,350,712
+2022,218,Dokis,Ontario,Ontario,Sudbury District,110,94,204,617,588,1205,727,682,1409
+2022,219,Matachewan,Ontario,Ontario,Western District,37,23,60,441,496,937,478,519,997
+2022,220,Nipissing First Nation,Ontario,Ontario,Sudbury District,517,504,1021,999,1179,2178,1516,1683,3199
+2022,221,Chapleau Cree First Nation,Ontario,Ontario,Western District,34,31,65,343,294,637,377,325,702
+2022,222,Temagami First Nation,Ontario,Ontario,Sudbury District,132,122,254,381,391,772,513,513,1026
+2022,223,Missanabie Cree,Ontario,Ontario,Western District,X,X,X,X,X,X,308,293,601
+2022,224,Atikameksheng Anishnawbek,Ontario,Ontario,Sudbury District,217,226,443,497,568,1065,714,794,1508
+2022,225,Michipicoten,Ontario,Ontario,Western District,35,30,65,604,662,1266,639,692,1331
+2022,226,Mattagami,Ontario,Ontario,Western District,97,81,178,229,267,496,326,348,674
+2022,227,Flying Post,Ontario,Ontario,Western District,X,X,X,X,X,X,148,166,314
+2022,228,Brunswick House,Ontario,Ontario,Western District,116,99,215,359,352,711,475,451,926
+2022,229,Chapleau Ojibway,Ontario,Ontario,Western District,X,X,31,X,X,10,20,21,41
+2022,230,Whitefish River,Ontario,Ontario,Sudbury District,223,227,450,492,548,1040,715,775,1490
+2022,231,Henvey Inlet First Nation,Ontario,Ontario,Sudbury District,109,98,207,482,492,974,591,590,1181
+2022,232,Wahnapitae,Ontario,Ontario,Sudbury District,45,38,83,271,337,608,316,375,691
+2022,233,Apitipi Anicinapek Nation,Ontario,Ontario,Western District,91,70,161,127,130,257,218,200,418
+2022,234,Wawakapewin,Ontario,Ontario,Sioux Lookout District,26,21,47,13,14,27,39,35,74
+2022,235,Washagamis Bay,Ontario,Ontario,Western District,95,88,183,78,90,168,173,178,351
+2022,236,Poplar Hill,Ontario,Ontario,Sioux Lookout District,X,X,695,X,X,20,377,338,715
+2022,237,Deer Lake,Ontario,Ontario,Sioux Lookout District,572,564,1136,123,135,258,695,699,1394
+2022,238,North Spirit Lake,Ontario,Ontario,Sioux Lookout District,210,199,409,25,42,67,235,241,476
+2022,239,Neskantaga First Nation,Ontario,Ontario,Western District,191,186,377,57,65,122,248,251,499
+2022,240,Webequie,Ontario,Ontario,Western District,396,433,829,70,71,141,466,504,970
+2022,241,Nibinamik First Nation,Ontario,Ontario,Western District,204,204,408,56,90,146,260,294,554
+2022,242,Aroland,Ontario,Ontario,Western District,225,203,428,165,162,327,390,365,755
+2022,244,Bay of Quinte Mohawk,Ontario,Ontario,Southern District,180,191,371,216,250,466,396,441,837
+2022,245,Tuscarora,Ontario,Ontario,Southern District,494,484,978,671,774,1445,1165,1258,2423
+2022,246,Oneida,Ontario,Ontario,Southern District,387,389,776,655,783,1438,1042,1172,2214
+2022,247,Onondaga Clear Sky,Ontario,Ontario,Southern District,220,234,454,206,213,419,426,447,873
+2022,248,Bearfoot Onondaga,Ontario,Ontario,Southern District,128,124,252,203,232,435,331,356,687
+2022,249,Upper Cayuga,Ontario,Ontario,Southern District,790,749,1539,1160,1283,2443,1950,2032,3982
+2022,250,Lower Cayuga,Ontario,Ontario,Southern District,1205,1212,2417,657,800,1457,1862,2012,3874
+2022,251,Konadaha Seneca,Ontario,Ontario,Southern District,100,108,208,188,224,412,288,332,620
+2022,252,Niharondasa Seneca,Ontario,Ontario,Southern District,90,91,181,116,136,252,206,227,433
+2022,253,Delaware,Ontario,Ontario,Southern District,109,122,231,229,282,511,338,404,742
+2022,254,Lower Mohawk,Ontario,Ontario,Southern District,1091,1083,2174,1052,1217,2269,2143,2300,4443
+2022,255,Walker Mohawk,Ontario,Ontario,Southern District,158,160,318,94,109,203,252,269,521
+2022,257,Upper Mohawk,Ontario,Ontario,Southern District,1500,1487,2987,1698,2098,3796,3198,3585,6783
+2022,258,Ojibway Nation of Saugeen,Ontario,Ontario,Sioux Lookout District,57,45,102,69,73,142,126,118,244
+2022,259,Slate Falls Nation,Ontario,Ontario,Sioux Lookout District,117,99,216,43,41,84,160,140,300
+2022,260,Black River First Nation,Manitoba,Manitoba,NA,502,500,1002,276,260,536,778,760,1538
+2022,261,Brokenhead Ojibway Nation,Manitoba,Manitoba,NA,361,324,685,727,811,1538,1088,1135,2223
+2022,262,Fort Alexander,Manitoba,Manitoba,NA,1909,1793,3702,2295,2430,4725,4204,4223,8427
+2022,263,Hollow Water,Manitoba,Manitoba,NA,524,560,1084,504,538,1042,1028,1098,2126
+2022,264,Fisher River,Manitoba,Manitoba,NA,770,744,1514,1372,1337,2709,2142,2081,4223
+2022,265,Buffalo Point First Nation,Manitoba,Manitoba,NA,27,30,57,37,42,79,64,72,136
+2022,266,Berens River,Manitoba,Manitoba,NA,1191,1042,2233,691,783,1474,1882,1825,3707
+2022,267,Bloodvein,Manitoba,Manitoba,NA,609,595,1204,400,414,814,1009,1009,2018
+2022,268,Kinonjeoshtegon First Nation,Manitoba,Manitoba,NA,181,182,363,233,240,473,414,422,836
+2022,269,Peguis,Manitoba,Manitoba,NA,1896,1833,3729,3627,3863,7490,5523,5696,11219
+2022,270,Little Grand Rapids,Manitoba,Manitoba,NA,756,658,1414,193,218,411,949,876,1825
+2022,271,Lake Manitoba,Manitoba,Manitoba,NA,628,605,1233,492,503,995,1120,1108,2228
+2022,272,Pinaymootang First Nation,Manitoba,Manitoba,NA,722,736,1458,957,1063,2020,1679,1799,3478
+2022,273,Roseau River Anishinabe First Nation Government,Manitoba,Manitoba,NA,640,588,1228,719,782,1501,1359,1370,2729
+2022,274,Little Saskatchewan,Manitoba,Manitoba,NA,326,310,636,350,415,765,676,725,1401
+2022,275,Lake St. Martin,Manitoba,Manitoba,NA,859,834,1693,582,634,1216,1441,1468,2909
+2022,276,Cross Lake Band of Indians,Manitoba,Manitoba,NA,3307,3228,6535,1335,1371,2706,4642,4599,9241
+2022,277,Poplar River First Nation,Manitoba,Manitoba,NA,649,638,1287,364,392,756,1013,1030,2043
+2022,278,Norway House Cree Nation,Manitoba,Manitoba,NA,3291,3311,6602,992,1113,2105,4283,4424,8707
+2022,279,O-Chi-Chak-Ko-Sipi First Nation,Manitoba,Manitoba,NA,254,251,505,348,416,764,602,667,1269
+2022,280,Ebb and Flow,Manitoba,Manitoba,NA,957,1026,1983,666,681,1347,1623,1707,3330
+2022,281,Skownan First Nation,Manitoba,Manitoba,NA,374,388,762,436,421,857,810,809,1619
+2022,282,Pine Creek,Manitoba,Manitoba,NA,594,546,1140,1576,1622,3198,2170,2168,4338
+2022,283,Sandy Bay,Manitoba,Manitoba,NA,2245,2014,4259,1403,1470,2873,3648,3484,7132
+2022,284,Birdtail Sioux,Manitoba,Manitoba,NA,238,250,488,208,240,448,446,490,936
+2022,285,Waywayseecappo First Nation Treaty Four - 1874,Manitoba,Manitoba,NA,870,888,1758,679,703,1382,1549,1591,3140
+2022,286,Keeseekoowenin,Manitoba,Manitoba,NA,248,242,490,430,440,870,678,682,1360
+2022,287,Long Plain,Manitoba,Manitoba,NA,1354,1232,2586,1086,1156,2242,2440,2388,4828
+2022,288,Dakota Plains,Manitoba,Manitoba,NA,91,85,176,37,58,95,128,143,271
+2022,289,Canupawakpa Dakota First Nation,Manitoba,Manitoba,NA,158,151,309,161,194,355,319,345,664
+2022,290,Sioux Valley Dakota Nation,Manitoba,Manitoba,NA,724,675,1399,573,716,1289,1297,1391,2688
+2022,291,Rolling River,Manitoba,Manitoba,NA,182,169,351,389,384,773,571,553,1124
+2022,292,Tootinaowaziibeeng Treaty Reserve,Manitoba,Manitoba,NA,349,366,715,412,457,869,761,823,1584
+2022,293,Swan Lake,Manitoba,Manitoba,NA,205,227,432,505,558,1063,710,785,1495
+2022,294,Gambler First Nation,Manitoba,Manitoba,NA,29,31,60,133,191,324,162,222,384
+2022,295,Dakota Tipi,Manitoba,Manitoba,NA,160,113,273,88,75,163,248,188,436
+2022,296,God's Lake First Nation,Manitoba,Manitoba,NA,785,697,1482,686,695,1381,1471,1392,2863
+2022,297,Garden Hill First Nations,Manitoba,Manitoba,NA,2075,1961,4036,363,401,764,2438,2362,4800
+2022,298,St. Theresa Point,Manitoba,Manitoba,NA,2076,1978,4054,166,205,371,2242,2183,4425
+2022,299,Wasagamack First Nation,Manitoba,Manitoba,NA,1033,996,2029,105,135,240,1138,1131,2269
+2022,300,Red Sucker Lake,Manitoba,Manitoba,NA,499,508,1007,58,83,141,557,591,1148
+2022,301,Bunibonibee Cree Nation,Manitoba,Manitoba,NA,1407,1317,2724,252,344,596,1659,1661,3320
+2022,302,Manto Sipi Cree Nation,Manitoba,Manitoba,NA,411,426,837,59,64,123,470,490,960
+2022,303,Sayisi Dene First Nation,Manitoba,Manitoba,NA,176,142,318,268,314,582,444,456,900
+2022,304,York Factory First Nation,Manitoba,Manitoba,NA,232,213,445,530,553,1083,762,766,1528
+2022,305,Fox Lake,Manitoba,Manitoba,NA,101,122,223,532,581,1113,633,703,1336
+2022,306,Tataskweyak Cree Nation,Manitoba,Manitoba,NA,1234,1240,2474,783,836,1619,2017,2076,4093
+2022,307,Shamattawa First Nation,Manitoba,Manitoba,NA,725,723,1448,96,87,183,821,810,1631
+2022,308,Barren Lands,Manitoba,Manitoba,NA,281,256,537,321,369,690,602,625,1227
+2022,309,Chemawawin Cree Nation,Manitoba,Manitoba,NA,804,756,1560,241,308,549,1045,1064,2109
+2022,310,Misipawistik Cree Nation,Manitoba,Manitoba,NA,690,720,1410,396,421,817,1086,1141,2227
+2022,311,Mathias Colomb,Manitoba,Manitoba,NA,1334,1149,2483,669,798,1467,2003,1947,3950
+2022,312,Mosakahiken Cree Nation,Manitoba,Manitoba,NA,831,804,1635,287,331,618,1118,1135,2253
+2022,313,Nisichawayasihk Cree Nation,Manitoba,Manitoba,NA,1562,1436,2998,1145,1380,2525,2707,2816,5523
+2022,314,Sapotaweyak Cree Nation,Manitoba,Manitoba,NA,542,469,1011,884,878,1762,1426,1347,2773
+2022,315,Opaskwayak Cree Nation,Manitoba,Manitoba,NA,1702,1703,3405,1546,1637,3183,3248,3340,6588
+2022,316,Dauphin River,Manitoba,Manitoba,NA,127,154,281,63,71,134,190,225,415
+2022,317,Northlands Denesuline First Nation,Manitoba,Manitoba,NA,491,511,1002,94,90,184,585,601,1186
+2022,318,O-Pipon-Na-Piwin Cree Nation,Manitoba,Manitoba,NA,595,518,1113,321,300,621,916,818,1734
+2022,323,War Lake First Nation,Manitoba,Manitoba,NA,78,53,131,85,116,201,163,169,332
+2022,324,Wuskwi Sipihk First Nation,Manitoba,Manitoba,NA,139,104,243,201,248,449,340,352,692
+2022,325,Kee-Way-Win,Ontario,Ontario,Sioux Lookout District,315,298,613,103,129,232,418,427,845
+2022,326,McDowell Lake,Ontario,Ontario,Sioux Lookout District,X,X,23,X,X,36,32,27,59
+2022,327,Pauingassi First Nation,Manitoba,Manitoba,NA,338,298,636,36,44,80,374,342,716
+2022,328,Marcel Colomb First Nation,Manitoba,Manitoba,NA,169,157,326,67,51,118,236,208,444
+2022,340,Little Pine,Saskatchewan,Saskatchewan,North Central District,546,537,1083,540,607,1147,1086,1144,2230
+2022,341,Lucky Man,Saskatchewan,Saskatchewan,North Central District,14,11,25,43,47,90,57,58,115
+2022,342,Moosomin,Saskatchewan,Saskatchewan,North Central District,637,680,1317,410,448,858,1047,1128,2175
+2022,343,"Mosquito, Grizzly Bear's Head, Lean Man First Nations",Saskatchewan,Saskatchewan,North Central District,448,424,872,353,375,728,801,799,1600
+2022,344,Onion Lake Cree Nation,Saskatchewan,Saskatchewan,North Central District,2162,2226,4388,1191,1267,2458,3353,3493,6846
+2022,345,Poundmaker,Saskatchewan,Saskatchewan,North Central District,512,500,1012,371,499,870,883,999,1882
+2022,346,Red Pheasant,Saskatchewan,Saskatchewan,North Central District,432,403,835,847,938,1785,1279,1341,2620
+2022,347,Saulteaux,Saskatchewan,Saskatchewan,North Central District,389,362,751,326,347,673,715,709,1424
+2022,348,Sweetgrass,Saskatchewan,Saskatchewan,North Central District,440,415,855,612,677,1289,1052,1092,2144
+2022,349,Thunderchild First Nation,Saskatchewan,Saskatchewan,North Central District,701,677,1378,797,828,1625,1498,1505,3003
+2022,350,Cumberland House Cree Nation,Saskatchewan,Saskatchewan,North Central District,546,536,1082,445,491,936,991,1027,2018
+2022,351,Fond du Lac,Saskatchewan,Saskatchewan,North Central District,591,591,1182,495,549,1044,1086,1140,2226
+2022,352,Hatchet Lake,Saskatchewan,Saskatchewan,North Central District,755,750,1505,216,231,447,971,981,1952
+2022,353,Lac La Ronge,Saskatchewan,Saskatchewan,North Central District,3745,3722,7467,2126,2304,4430,5871,6026,11897
+2022,354,Montreal Lake,Saskatchewan,Saskatchewan,North Central District,1327,1212,2539,846,935,1781,2173,2147,4320
+2022,355,Peter Ballantyne Cree Nation,Saskatchewan,Saskatchewan,North Central District,3836,3662,7498,2174,2330,4504,6010,5992,12002
+2022,356,Red Earth,Saskatchewan,Saskatchewan,North Central District,867,876,1743,147,149,296,1014,1025,2039
+2022,357,Shoal Lake Cree Nation,Saskatchewan,Saskatchewan,North Central District,514,484,998,120,111,231,634,595,1229
+2022,358,Wahpeton Dakota Nation,Saskatchewan,Saskatchewan,North Central District,185,191,376,93,101,194,278,292,570
+2022,359,Black Lake,Saskatchewan,Saskatchewan,North Central District,848,840,1688,285,325,610,1133,1165,2298
+2022,360,Sturgeon Lake First Nation,Saskatchewan,Saskatchewan,North Central District,1015,935,1950,532,604,1136,1547,1539,3086
+2022,361,Cowessess,Saskatchewan,Saskatchewan,South District,458,451,909,1658,1868,3526,2116,2319,4435
+2022,362,Kahkewistahaw,Saskatchewan,Saskatchewan,South District,370,378,748,704,792,1496,1074,1170,2244
+2022,363,Ochapowace,Saskatchewan,Saskatchewan,South District,354,349,703,589,663,1252,943,1012,1955
+2022,364,Zagime Anishinabek,Saskatchewan,Saskatchewan,South District,162,142,304,744,786,1530,906,928,1834
+2022,365,White Bear,Saskatchewan,Saskatchewan,South District,461,494,955,934,974,1908,1395,1468,2863
+2022,366,Cote First Nation 366,Saskatchewan,Saskatchewan,South District,594,578,1172,1426,1654,3080,2020,2232,4252
+2022,367,Keeseekoose,Saskatchewan,Saskatchewan,South District,423,380,803,871,966,1837,1294,1346,2640
+2022,368,The Key First Nation,Saskatchewan,Saskatchewan,South District,167,167,334,574,594,1168,741,761,1502
+2022,369,Beardy's and Okemasis,Saskatchewan,Saskatchewan,North Central District,732,748,1480,1117,1129,2246,1849,1877,3726
+2022,370,James Smith,Saskatchewan,Saskatchewan,North Central District,1073,1013,2086,821,933,1754,1894,1946,3840
+2022,371,Muskoday First Nation,Saskatchewan,Saskatchewan,North Central District,340,308,648,681,803,1484,1021,1111,2132
+2022,372,Whitecap Dakota First Nation,Saskatchewan,Saskatchewan,North Central District,154,182,336,161,195,356,315,377,692
+2022,373,One Arrow First Nation,Saskatchewan,Saskatchewan,North Central District,453,442,895,611,648,1259,1064,1090,2154
+2022,374,Mistawasis N√™hiyawak,Saskatchewan,Saskatchewan,North Central District,658,617,1275,832,881,1713,1490,1498,2988
+2022,375,Muskeg Lake Cree Nation #102,Saskatchewan,Saskatchewan,North Central District,230,208,438,932,1043,1975,1162,1251,2413
+2022,376,Yellow Quill,Saskatchewan,Saskatchewan,North Central District,532,465,997,1031,1086,2117,1563,1551,3114
+2022,377,Kinistin Saulteaux Nation,Saskatchewan,Saskatchewan,North Central District,225,195,420,331,380,711,556,575,1131
+2022,378,Carry The Kettle,Saskatchewan,Saskatchewan,South District,485,481,966,985,1104,2089,1470,1585,3055
+2022,379,Little Black Bear,Saskatchewan,Saskatchewan,South District,124,113,237,203,211,414,327,324,651
+2022,380,Nekaneet,Saskatchewan,Saskatchewan,South District,127,129,256,168,165,333,295,294,589
+2022,381,Muscowpetung,Saskatchewan,Saskatchewan,South District,232,205,437,569,640,1209,801,845,1646
+2022,382,Okanese,Saskatchewan,Saskatchewan,South District,163,140,303,223,223,446,386,363,749
+2022,383,Pasqua First Nation #79,Saskatchewan,Saskatchewan,South District,413,410,823,879,879,1758,1292,1289,2581
+2022,384,Peepeekisis Cree Nation No. 81,Saskatchewan,Saskatchewan,South District,375,360,735,1211,1349,2560,1586,1709,3295
+2022,385,Piapot,Saskatchewan,Saskatchewan,South District,431,361,792,861,943,1804,1292,1304,2596
+2022,386,Standing Buffalo,Saskatchewan,Saskatchewan,South District,262,265,527,399,398,797,661,663,1324
+2022,387,Star Blanket Cree Nation,Saskatchewan,Saskatchewan,South District,139,149,288,207,229,436,346,378,724
+2022,388,Wood Mountain,Saskatchewan,Saskatchewan,South District,X,X,X,X,X,X,181,185,366
+2022,389,Day Star,Saskatchewan,Saskatchewan,South District,103,84,187,177,165,342,280,249,529
+2022,390,Fishing Lake First Nation,Saskatchewan,Saskatchewan,South District,300,285,585,642,691,1333,942,976,1918
+2022,391,George Gordon First Nation,Saskatchewan,Saskatchewan,South District,714,583,1297,1221,1331,2552,1935,1914,3849
+2022,392,Muskowekwan,Saskatchewan,Saskatchewan,South District,329,320,649,689,734,1423,1018,1054,2072
+2022,393,Kawacatoose,Saskatchewan,Saskatchewan,South District,656,625,1281,998,1050,2048,1654,1675,3329
+2022,394,Canoe Lake Cree First Nation,Saskatchewan,Saskatchewan,North Central District,605,578,1183,881,888,1769,1486,1466,2952
+2022,395,Flying Dust First Nation,Saskatchewan,Saskatchewan,North Central District,318,300,618,492,566,1058,810,866,1676
+2022,396,Makwa Sahgaiehcan First Nation,Saskatchewan,Saskatchewan,North Central District,678,640,1318,253,244,497,931,884,1815
+2022,397,Ministikwan Lake Cree Nation,Saskatchewan,Saskatchewan,North Central District,516,567,1083,129,133,262,645,700,1345
+2022,398,Buffalo River Dene Nation,Saskatchewan,Saskatchewan,North Central District,439,419,858,408,422,830,847,841,1688
+2022,399,Big Island Lake Cree Nation,Saskatchewan,Saskatchewan,North Central District,488,545,1033,109,132,241,597,677,1274
+2022,400,English River First Nation,Saskatchewan,Saskatchewan,North Central District,415,428,843,450,475,925,865,903,1768
+2022,401,Clearwater River Dene,Saskatchewan,Saskatchewan,North Central District,569,584,1153,931,922,1853,1500,1506,3006
+2022,402,Waterhen Lake,Saskatchewan,Saskatchewan,North Central District,519,494,1013,543,590,1133,1062,1084,2146
+2022,403,Birch Narrows First Nation,Saskatchewan,Saskatchewan,North Central District,243,275,518,214,204,418,457,479,936
+2022,404,Big River,Saskatchewan,Saskatchewan,North Central District,1415,1384,2799,519,598,1117,1934,1982,3916
+2022,405,Pelican Lake,Saskatchewan,Saskatchewan,North Central District,692,607,1299,226,197,423,918,804,1722
+2022,406,Ahtahkakoop,Saskatchewan,Saskatchewan,North Central District,996,1018,2014,960,954,1914,1956,1972,3928
+2022,407,Witchekan Lake,Saskatchewan,Saskatchewan,North Central District,317,279,596,99,139,238,416,418,834
+2022,408,Ocean Man,Saskatchewan,Saskatchewan,South District,110,94,204,170,193,363,280,287,567
+2022,409,Pheasant Rump Nakota,Saskatchewan,Saskatchewan,South District,93,100,193,122,144,266,215,244,459
+2022,430,Siksika Nation,Alberta,Alberta,Alberta District,2179,2166,4345,1596,1662,3258,3775,3828,7603
+2022,431,O'Chiese,Alberta,Alberta,Alberta District,489,508,997,235,256,491,724,764,1488
+2022,432,Tsuut'ina Nation,Alberta,Alberta,Alberta District,1102,1205,2307,102,156,258,1204,1361,2565
+2022,433,Chiniki,Alberta,Alberta,Alberta District,837,808,1645,73,84,157,910,892,1802
+2022,434,Sunchild First Nation,Alberta,Alberta,Alberta District,477,474,951,250,272,522,727,746,1473
+2022,435,Blood,Alberta,Alberta,Alberta District,4390,4400,8790,1919,2105,4024,6309,6505,12814
+2022,436,Piikani Nation,Alberta,Alberta,Alberta District,1219,1228,2447,688,774,1462,1907,2002,3909
+2022,437,Alexis Nakota Sioux Nation,Alberta,Alberta,Alberta District,669,635,1304,465,440,905,1134,1075,2209
+2022,438,Alexander,Alberta,Alberta,Alberta District,616,565,1181,650,626,1276,1266,1191,2457
+2022,439,Louis Bull Band,Alberta,Alberta,Alberta District,960,949,1909,242,264,506,1202,1213,2415
+2022,440,Enoch Cree Nation #440,Alberta,Alberta,Alberta District,982,965,1947,479,557,1036,1461,1522,2983
+2022,441,Paul,Alberta,Alberta,Alberta District,730,720,1450,341,388,729,1071,1108,2179
+2022,442,Montana,Alberta,Alberta,Alberta District,398,401,799,138,141,279,536,542,1078
+2022,443,Ermineskin Tribe,Alberta,Alberta,Alberta District,1910,1892,3802,593,645,1238,2503,2537,5040
+2022,444,Samson,Alberta,Alberta,Alberta District,3493,3465,6958,1132,1177,2309,4625,4642,9267
+2022,445,Beaver First Nation,Alberta,Alberta,Alberta District,245,246,491,422,412,834,667,658,1325
+2022,446,Tallcree Tribal Government,Alberta,Alberta,Alberta District,312,292,604,411,448,859,723,740,1463
+2022,447,Little Red River Cree Nation,Alberta,Alberta,Alberta District,2799,2740,5539,337,369,706,3136,3109,6245
+2022,448,Dene Tha',Alberta,Alberta,Alberta District,1080,1061,2141,495,596,1091,1575,1657,3232
+2022,449,Horse Lake First Nation,Alberta,Alberta,Alberta District,276,250,526,385,443,828,661,693,1354
+2022,450,Driftpile Cree Nation,Alberta,Alberta,Alberta District,572,473,1045,1051,1053,2104,1623,1526,3149
+2022,451,Duncan's First Nation,Alberta,Alberta,Alberta District,71,71,142,120,116,236,191,187,378
+2022,452,Kapawe'no First Nation,Alberta,Alberta,Alberta District,74,69,143,149,144,293,223,213,436
+2022,453,Lubicon Lake,Alberta,Alberta,Alberta District,234,207,441,181,173,354,415,380,795
+2022,454,Sawridge First Nation,Alberta,Alberta,Alberta District,29,24,53,274,294,568,303,318,621
+2022,455,Sturgeon Lake Cree Nation,Alberta,Alberta,Alberta District,820,759,1579,979,1163,2142,1799,1922,3721
+2022,456,Sucker Creek,Alberta,Alberta,Alberta District,423,375,798,1100,1247,2347,1523,1622,3145
+2022,457,Swan River First Nation,Alberta,Alberta,Alberta District,238,229,467,519,623,1142,757,852,1609
+2022,458,Bigstone Cree Nation,Alberta,Alberta,Alberta District,1862,1858,3720,2376,2589,4965,4238,4447,8685
+2022,459,Whitefish Lake,Alberta,Alberta,Alberta District,869,848,1717,684,690,1374,1553,1538,3091
+2022,460,Beaver Lake Cree Nation,Alberta,Alberta,St. Paul District,222,208,430,452,468,920,674,676,1350
+2022,461,Mikisew Cree First Nation,Alberta,Alberta,Alberta District,395,396,791,1190,1266,2456,1585,1662,3247
+2022,462,Saddle Lake Cree Nation,Alberta,Alberta,St. Paul District,3536,3465,7001,2086,2326,4412,5622,5791,11413
+2022,463,Athabasca Chipewyan First Nation,Alberta,Alberta,Alberta District,127,126,253,583,595,1178,710,721,1431
+2022,464,Cold Lake First Nations,Alberta,Alberta,St. Paul District,745,636,1381,780,929,1709,1525,1565,3090
+2022,465,Frog Lake,Alberta,Alberta,St. Paul District,1102,1084,2186,642,709,1351,1744,1793,3537
+2022,466,Kehewin Cree Nation,Alberta,Alberta,St. Paul District,692,622,1314,466,559,1025,1158,1181,2339
+2022,467,Fort McKay First Nation,Alberta,Alberta,Alberta District,221,224,445,260,276,536,481,500,981
+2022,468,Fort McMurray #468 First Nation,Alberta,Alberta,Alberta District,132,151,283,326,408,734,458,559,1017
+2022,469,Heart Lake,Alberta,Alberta,St. Paul District,120,109,229,97,89,186,217,198,415
+2022,470,Chipewyan Prairie First Nation,Alberta,Alberta,Alberta District,215,187,402,294,321,615,509,508,1017
+2022,473,Bearspaw,Alberta,Alberta,Alberta District,898,939,1837,89,87,176,987,1026,2013
+2022,474,Woodland Cree First Nation,Alberta,Alberta,Alberta District,444,460,904,184,175,359,628,635,1263
+2022,475,Goodstoney Band,Alberta,Alberta,Alberta District,834,801,1635,102,96,198,936,897,1833
+2022,476,Loon River Cree,Alberta,Alberta,Alberta District,285,286,571,62,59,121,347,345,692
+2022,477,Smith's Landing First Nation,Alberta,Alberta,Alberta District,84,78,162,110,104,214,194,182,376
+2022,478,Peerless Trout First Nation,Alberta,Alberta,Alberta District,448,473,921,72,68,140,520,541,1061
+2022,490,Aishihik,Yukon,Yukon,NA,49,50,99,40,62,102,89,112,201
+2022,491,Carcross/Tagish First Nation,Yukon,Yukon,NA,133,110,243,223,253,476,356,363,719
+2022,492,Little Salmon/Carmacks First Nation,Yukon,Yukon,NA,152,162,314,170,212,382,322,374,696
+2022,493,Champagne,Yukon,Yukon,NA,131,126,257,230,264,494,361,390,751
+2022,494,TríondÎk HwÎchíin,Yukon,Yukon,NA,99,97,196,372,386,758,471,483,954
+2022,495,First Nation of Nacho Nyak Dun,Yukon,Yukon,NA,72,80,152,182,215,397,254,295,549
+2022,496,Vuntut Gwitchin First Nation,Yukon,Yukon,NA,150,126,276,141,186,327,291,312,603
+2022,497,Ross River Dena Council,Yukon,Yukon,NA,192,159,351,85,108,193,277,267,544
+2022,498,Selkirk First Nation,Yukon,Yukon,NA,170,167,337,160,179,339,330,346,676
+2022,499,Teslin Tlingit Council,Yukon,Yukon,NA,135,107,242,183,184,367,318,291,609
+2022,500,Kwanlin Dun First Nation,Yukon,Yukon,NA,312,279,591,219,219,438,531,498,1029
+2022,501,Taku River Tlingit,Yukon,Yukon,NA,48,36,84,163,207,370,211,243,454
+2022,502,Liard First Nation,Yukon,Yukon,NA,296,211,507,368,386,754,664,597,1261
+2022,503,Kluane First Nation,Yukon,Yukon,NA,36,40,76,46,58,104,82,98,180
+2022,504,Dease River,Yukon,Yukon,NA,32,29,61,65,56,121,97,85,182
+2022,506,White River First Nation,Yukon,Yukon,NA,26,25,51,52,65,117,78,90,168
+2022,508,Ta'an Kwach'an,Yukon,Yukon,NA,46,54,100,100,98,198,146,152,298
+2022,530,Witset First Nation,British Columbia,British Columbia,NA,373,342,715,700,706,1406,1073,1048,2121
+2022,531,Gitanmaax,British Columbia,British Columbia,NA,398,394,792,882,898,1780,1280,1292,2572
+2022,532,Kispiox,British Columbia,British Columbia,NA,333,287,620,478,580,1058,811,867,1678
+2022,533,Glen Vowell,British Columbia,British Columbia,NA,121,85,206,107,109,216,228,194,422
+2022,534,Hagwilget Village Council,British Columbia,British Columbia,NA,123,112,235,293,295,588,416,407,823
+2022,535,Gitsegukla,British Columbia,British Columbia,NA,227,217,444,316,311,627,543,528,1071
+2022,536,Gitwangak,British Columbia,British Columbia,NA,255,209,464,490,533,1023,745,742,1487
+2022,537,Gitanyow,British Columbia,British Columbia,NA,182,196,378,269,215,484,451,411,862
+2022,538,Heiltsuk,British Columbia,British Columbia,NA,649,558,1207,637,662,1299,1286,1220,2506
+2022,539,Nuxalk Nation,British Columbia,British Columbia,NA,483,469,952,371,476,847,854,945,1799
+2022,540,Kitasoo Xai'xais Nation,British Columbia,British Columbia,NA,136,114,250,110,139,249,246,253,499
+2022,541,Wuikinuxv Nation,British Columbia,British Columbia,NA,37,41,78,109,104,213,146,145,291
+2022,542,Saulteau First Nations,British Columbia,British Columbia,NA,202,208,410,422,468,890,624,676,1300
+2022,543,Fort Nelson First Nation,British Columbia,British Columbia,NA,230,210,440,265,286,551,495,496,991
+2022,544,Prophet River First Nation,British Columbia,British Columbia,NA,61,49,110,91,93,184,152,142,294
+2022,545,West Moberly First Nations,British Columbia,British Columbia,NA,71,65,136,114,117,231,185,182,367
+2022,546,Halfway River First Nation,British Columbia,British Columbia,NA,79,66,145,81,77,158,160,143,303
+2022,547,Blueberry River First Nations,British Columbia,British Columbia,NA,133,114,247,140,148,288,273,262,535
+2022,548,Doig River First Nation,British Columbia,British Columbia,NA,48,42,90,115,118,233,163,160,323
+2022,549,Tsleil-Waututh Nation,British Columbia,British Columbia,NA,174,165,339,139,189,328,313,354,667
+2022,550,Musqueam,British Columbia,British Columbia,NA,403,407,810,319,359,678,722,766,1488
+2022,551,Sechelt,British Columbia,British Columbia,NA,351,296,647,434,477,911,785,773,1558
+2022,552,Homalco,British Columbia,British Columbia,NA,126,104,230,117,128,245,243,232,475
+2022,553,Klahoose First Nation,British Columbia,British Columbia,NA,42,43,85,171,184,355,213,227,440
+2022,554,Tla'amin Nation,British Columbia,British Columbia,NA,313,315,628,278,299,577,591,614,1205
+2022,555,Squamish,British Columbia,British Columbia,NA,1171,1221,2392,1001,1092,2093,2172,2313,4485
+2022,556,N'Quatqua,British Columbia,British Columbia,NA,105,101,206,82,89,171,187,190,377
+2022,557,Lil'wat Nation,British Columbia,British Columbia,NA,821,757,1578,331,363,694,1152,1120,2272
+2022,558,Aitchelitz,British Columbia,British Columbia,NA,X,X,23,X,X,18,24,17,41
+2022,559,Sts'ailes,British Columbia,British Columbia,NA,292,263,555,268,304,572,560,567,1127
+2022,560,Kwikwetlem First Nation,British Columbia,British Columbia,NA,32,17,49,46,38,84,78,55,133
+2022,561,Douglas,British Columbia,British Columbia,NA,64,58,122,106,139,245,170,197,367
+2022,562,Skatin,British Columbia,British Columbia,NA,81,50,131,149,141,290,230,191,421
+2022,563,Katzie,British Columbia,British Columbia,NA,159,164,323,147,174,321,306,338,644
+2022,564,Kwantlen First Nation,British Columbia,British Columbia,NA,57,49,106,132,137,269,189,186,375
+2022,565,Matsqui First Nation,British Columbia,British Columbia,NA,55,58,113,84,92,176,139,150,289
+2022,566,New Westminster,British Columbia,British Columbia,NA,X,X,X,X,X,X,X,X,X
+2022,567,Samahquam,British Columbia,British Columbia,NA,60,48,108,124,142,266,184,190,374
+2022,568,Sq'Èwlets,British Columbia,British Columbia,NA,70,54,124,86,85,171,156,139,295
+2022,569,Semiahmoo,British Columbia,British Columbia,NA,28,29,57,22,28,50,50,57,107
+2022,570,Shxwh·:y Village,British Columbia,British Columbia,NA,64,63,127,179,169,348,243,232,475
+2022,571,Skowkale,British Columbia,British Columbia,NA,94,113,207,36,44,80,130,157,287
+2022,572,Soowahlie,British Columbia,British Columbia,NA,101,102,203,95,124,219,196,226,422
+2022,573,Skwah,British Columbia,British Columbia,NA,132,131,263,214,241,455,346,372,718
+2022,574,Squiala First Nation,British Columbia,British Columbia,NA,83,64,147,40,31,71,123,95,218
+2022,575,Tzeachten,British Columbia,British Columbia,NA,143,154,297,147,161,308,290,315,605
+2022,576,Yakweakwioose,British Columbia,British Columbia,NA,19,21,40,11,30,41,30,51,81
+2022,577,Tsawwassen First Nation,British Columbia,British Columbia,NA,101,97,198,97,112,209,198,209,407
+2022,578,Sumas First Nation,British Columbia,British Columbia,NA,84,101,185,86,95,181,170,196,366
+2022,579,Leqí·:mel First Nation,British Columbia,British Columbia,NA,70,73,143,168,179,347,238,252,490
+2022,580,Kwaw-kwaw-Apilt,British Columbia,British Columbia,NA,X,X,38,X,X,15,28,25,53
+2022,581,Seabird Island,British Columbia,British Columbia,NA,332,340,672,196,206,402,528,546,1074
+2022,582,Skawahlook First Nation,British Columbia,British Columbia,NA,X,X,14,X,X,79,44,49,93
+2022,583,Chawathil,British Columbia,British Columbia,NA,192,189,381,125,146,271,317,335,652
+2022,584,Cheam,British Columbia,British Columbia,NA,132,125,257,158,162,320,290,287,577
+2022,585,Popkum First Nation,British Columbia,British Columbia,NA,X,X,X,X,X,X,X,X,X
+2022,586,Peters First Nation,British Columbia,British Columbia,NA,25,23,48,65,64,129,90,87,177
+2022,587,Shxw'ow'hamel First Nation,British Columbia,British Columbia,NA,58,58,116,54,52,106,112,110,222
+2022,588,Union Bar First Nation,British Columbia,British Columbia,NA,X,X,X,X,X,X,82,80,162
+2022,589,Yale First Nation,British Columbia,British Columbia,NA,38,40,78,54,64,118,92,104,196
+2022,590,Bridge River,British Columbia,British Columbia,NA,110,129,239,125,125,250,235,254,489
+2022,591,Cayoose Creek,British Columbia,British Columbia,NA,42,47,89,59,63,122,101,110,211
+2022,592,Xaxli'p,British Columbia,British Columbia,NA,210,198,408,336,353,689,546,551,1097
+2022,593,T'it'q'et,British Columbia,British Columbia,NA,104,105,209,133,127,260,237,232,469
+2022,594,Ts'kw'aylaxw First Nation,British Columbia,British Columbia,NA,138,121,259,157,174,331,295,295,590
+2022,595,Tsal'alh,British Columbia,British Columbia,NA,194,182,376,177,169,346,371,351,722
+2022,596,Osoyoos,British Columbia,British Columbia,NA,212,214,426,79,84,163,291,298,589
+2022,597,Penticton,British Columbia,British Columbia,NA,320,310,630,242,258,500,562,568,1130
+2022,598,Lower Similkameen,British Columbia,British Columbia,NA,132,130,262,170,204,374,302,334,636
+2022,599,Upper Similkameen,British Columbia,British Columbia,NA,32,41,73,95,125,220,127,166,293
+2022,600,Splatsin,British Columbia,British Columbia,NA,223,186,409,234,316,550,457,502,959
+2022,601,Westbank First Nation,British Columbia,British Columbia,NA,238,231,469,235,244,479,473,475,948
+2022,602,?aqam,British Columbia,British Columbia,NA,106,111,217,91,91,182,197,202,399
+2022,603,Yaq?it ?a∑knuq?iíit First Nation,British Columbia,British Columbia,NA,59,36,95,76,81,157,135,117,252
+2022,604,?Akisq'nuk First Nation,British Columbia,British Columbia,NA,81,68,149,86,96,182,167,164,331
+2022,605,Shuswap Band,British Columbia,British Columbia,NA,56,55,111,79,98,177,135,153,288
+2022,606,Lower Kootenay,British Columbia,British Columbia,NA,60,62,122,59,69,128,119,131,250
+2022,607,Lake Babine Nation,British Columbia,British Columbia,NA,541,508,1049,706,819,1525,1247,1327,2574
+2022,608,Takla Nation,British Columbia,British Columbia,NA,125,107,232,309,380,689,434,487,921
+2022,609,Tsay Keh Dene,British Columbia,British Columbia,NA,122,126,248,144,133,277,266,259,525
+2022,610,Kwadacha,British Columbia,British Columbia,NA,168,157,325,135,145,280,303,302,605
+2022,611,Lheidli T'enneh,British Columbia,British Columbia,NA,53,52,105,285,286,571,338,338,676
+2022,612,Nadleh Whuten,British Columbia,British Columbia,NA,152,125,277,162,168,330,314,293,607
+2022,613,Stellat'en First Nation,British Columbia,British Columbia,NA,124,104,228,184,197,381,308,301,609
+2022,614,Nak'azdli Whut'en,British Columbia,British Columbia,NA,396,364,760,601,646,1247,997,1010,2007
+2022,615,Saik'uz First Nation,British Columbia,British Columbia,NA,179,163,342,284,372,656,463,535,998
+2022,616,Okanagan,British Columbia,British Columbia,NA,469,439,908,590,677,1267,1059,1116,2175
+2022,617,Tl'azt'en Nation,British Columbia,British Columbia,NA,265,229,494,520,544,1064,785,773,1558
+2022,618,McLeod Lake,British Columbia,British Columbia,NA,70,63,133,192,241,433,262,304,566
+2022,619,Ts'il Kaz Koh,British Columbia,British Columbia,NA,29,20,49,75,61,136,104,81,185
+2022,620,Cheslatta Carrier Nation,British Columbia,British Columbia,NA,84,91,175,91,117,208,175,208,383
+2022,622,Campbell River,British Columbia,British Columbia,NA,209,198,407,230,274,504,439,472,911
+2022,623,Cape Mudge,British Columbia,British Columbia,NA,197,167,364,383,471,854,580,638,1218
+2022,624,KíÛmoks First Nation,British Columbia,British Columbia,NA,46,62,108,123,119,242,169,181,350
+2022,625,Kwikwasut'inuxw Haxwa'mis,British Columbia,British Columbia,NA,42,34,76,122,110,232,164,144,308
+2022,626,Kwakiutl,British Columbia,British Columbia,NA,187,174,361,272,283,555,459,457,916
+2022,627,Gwawaenuk Tribe,British Columbia,British Columbia,NA,X,X,12,X,X,29,24,17,41
+2022,628,Kwiakah,British Columbia,British Columbia,NA,X,X,X,X,X,X,X,X,X
+2022,629,Mamalilikulla First Nation,British Columbia,British Columbia,NA,28,37,65,198,190,388,226,227,453
+2022,630,Mowachaht/Muchalaht,British Columbia,British Columbia,NA,150,107,257,187,171,358,337,278,615
+2022,631,Namgis First Nation,British Columbia,British Columbia,NA,473,473,946,482,524,1006,955,997,1952
+2022,632,Tlatlasikwala,British Columbia,British Columbia,NA,X,X,45,X,X,21,33,33,66
+2022,633,Quatsino,British Columbia,British Columbia,NA,138,126,264,158,179,337,296,305,601
+2022,634,Ehattesaht,British Columbia,British Columbia,NA,82,87,169,191,191,382,273,278,551
+2022,635,Da'naxda'xw First Nation,British Columbia,British Columbia,NA,25,24,49,92,101,193,117,125,242
+2022,636,Dzawada'enuxw First Nation,British Columbia,British Columbia,NA,74,70,144,195,206,401,269,276,545
+2022,637,Tlowitsis Tribe,British Columbia,British Columbia,NA,39,34,73,184,190,374,223,224,447
+2022,638,Ka:'yu:'k't'h'/Che:k'tles7et'h' First Nations,British Columbia,British Columbia,NA,90,95,185,198,202,400,288,297,585
+2022,639,Nuchatlaht,British Columbia,British Columbia,NA,15,18,33,58,78,136,73,96,169
+2022,640,Beecher Bay,British Columbia,British Columbia,NA,55,59,114,67,86,153,122,145,267
+2022,641,Stz'uminus First Nation,British Columbia,British Columbia,NA,455,415,870,242,310,552,697,725,1422
+2022,642,Cowichan,British Columbia,British Columbia,NA,1479,1453,2932,1161,1260,2421,2640,2713,5353
+2022,643,Ts'uubaa-asatx,British Columbia,British Columbia,NA,X,X,X,X,X,X,X,X,X
+2022,644,Esquimalt,British Columbia,British Columbia,NA,97,98,195,61,84,145,158,182,340
+2022,645,Halalt,British Columbia,British Columbia,NA,50,43,93,63,55,118,113,98,211
+2022,646,Lyackson,British Columbia,British Columbia,NA,19,18,37,85,105,190,104,123,227
+2022,647,Malahat Nation,British Columbia,British Columbia,NA,107,89,196,85,77,162,192,166,358
+2022,648,Snuneymuxw First Nation,British Columbia,British Columbia,NA,362,359,721,586,614,1200,948,973,1921
+2022,649,Nanoose First Nation,British Columbia,British Columbia,NA,84,104,188,40,43,83,124,147,271
+2022,650,Penelakut Tribe,British Columbia,British Columbia,NA,298,287,585,293,255,548,591,542,1133
+2022,651,Qualicum First Nation,British Columbia,British Columbia,NA,28,27,55,29,56,85,57,83,140
+2022,652,Pauquachin,British Columbia,British Columbia,NA,136,126,262,51,103,154,187,229,416
+2022,653,W?JO?E?P ,British Columbia,British Columbia,NA,357,315,672,184,195,379,541,510,1051
+2022,654,Tsawout First Nation,British Columbia,British Columbia,NA,328,334,662,138,177,315,466,511,977
+2022,655,Tseycum,British Columbia,British Columbia,NA,67,64,131,35,40,75,102,104,206
+2022,656,Songhees Nation,British Columbia,British Columbia,NA,193,203,396,122,131,253,315,334,649
+2022,657,T'Sou-ke First Nation,British Columbia,British Columbia,NA,59,68,127,88,104,192,147,172,319
+2022,658,Pacheedaht First Nation,British Columbia,British Columbia,NA,57,67,124,67,100,167,124,167,291
+2022,659,Ahousaht,British Columbia,British Columbia,NA,431,422,853,661,718,1379,1092,1140,2232
+2022,660,Tla-o-qui-aht First Nations,British Columbia,British Columbia,NA,225,222,447,364,389,753,589,611,1200
+2022,661,Hesquiaht,British Columbia,British Columbia,NA,84,65,149,266,339,605,350,404,754
+2022,662,Ditidaht,British Columbia,British Columbia,NA,122,106,228,256,289,545,378,395,773
+2022,663,Huu-ay-aht First Nations,British Columbia,British Columbia,NA,63,64,127,275,305,580,338,369,707
+2022,664,Hupacasath First Nation,British Columbia,British Columbia,NA,71,83,154,111,95,206,182,178,360
+2022,665,Tseshaht,British Columbia,British Columbia,NA,243,263,506,347,419,766,590,682,1272
+2022,666,Toquaht,British Columbia,British Columbia,NA,X,X,21,X,X,127,72,76,148
+2022,667,Uchucklesaht,British Columbia,British Columbia,NA,X,X,33,X,X,214,115,132,247
+2022,668,Ucluelet First Nation,British Columbia,British Columbia,NA,122,106,228,218,225,443,340,331,671
+2022,669,Old Massett Village Council,British Columbia,British Columbia,NA,413,354,767,1159,1286,2445,1572,1640,3212
+2022,670,Skidegate,British Columbia,British Columbia,NA,319,349,668,525,530,1055,844,879,1723
+2022,671,Nisga'a Village of Gingolx,British Columbia,British Columbia,NA,259,213,472,776,781,1557,1035,994,2029
+2022,672,Gitxaa?a Nation,British Columbia,British Columbia,NA,267,226,493,761,840,1601,1028,1066,2094
+2022,673,Metlakatla First Nation,British Columbia,British Columbia,NA,51,62,113,456,474,930,507,536,1043
+2022,674,Lax Kw'alaams,British Columbia,British Columbia,NA,409,341,750,1580,1749,3329,1989,2090,4079
+2022,675,Gitga'at First Nation,British Columbia,British Columbia,NA,83,86,169,318,361,679,401,447,848
+2022,676,Haisla Nation,British Columbia,British Columbia,NA,372,302,674,605,744,1349,977,1046,2023
+2022,677,Gitlaxt'aamiks Village Government,British Columbia,British Columbia,NA,496,428,924,459,477,936,955,905,1860
+2022,678,Nisga'a Village of Laxgalt'sap,British Columbia,British Columbia,NA,368,292,660,552,619,1171,920,911,1831
+2022,679,Nisga'a Village of Gitwinksihlkw,British Columbia,British Columbia,NA,89,114,203,91,87,178,180,201,381
+2022,680,Kitselas,British Columbia,British Columbia,NA,147,175,322,204,218,422,351,393,744
+2022,681,Kitsumkalum,British Columbia,British Columbia,NA,130,122,252,269,304,573,399,426,825
+2022,682,Tahltan,British Columbia,British Columbia,NA,176,147,323,840,901,1741,1016,1048,2064
+2022,683,Iskut,British Columbia,British Columbia,NA,207,175,382,212,224,436,419,399,818
+2022,684,Adams Lake,British Columbia,British Columbia,NA,223,207,430,189,230,419,412,437,849
+2022,685,Ashcroft,British Columbia,British Columbia,NA,43,35,78,154,132,286,197,167,364
+2022,686,Bonaparte,British Columbia,British Columbia,NA,101,97,198,405,434,839,506,531,1037
+2022,687,Skeetchestn,British Columbia,British Columbia,NA,129,121,250,151,163,314,280,284,564
+2022,688,Tk'eml˙ps te SecwÈpemc,British Columbia,British Columbia,NA,329,332,661,373,460,833,702,792,1494
+2022,689,Little Shuswap Lake,British Columbia,British Columbia,NA,127,110,237,69,64,133,196,174,370
+2022,690,Neskonlith,British Columbia,British Columbia,NA,170,151,321,176,174,350,346,325,671
+2022,691,Simpcw First Nation,British Columbia,British Columbia,NA,117,113,230,260,292,552,377,405,782
+2022,692,Oregon Jack Creek,British Columbia,British Columbia,NA,X,X,23,X,X,50,31,42,73
+2022,693,Coldwater,British Columbia,British Columbia,NA,190,195,385,254,269,523,444,464,908
+2022,694,Cook's Ferry,British Columbia,British Columbia,NA,42,36,78,141,158,299,183,194,377
+2022,695,Lower Nicola,British Columbia,British Columbia,NA,277,267,544,397,485,882,674,752,1426
+2022,696,Nicomen,British Columbia,British Columbia,NA,35,30,65,60,51,111,95,81,176
+2022,697,Upper Nicola,British Columbia,British Columbia,NA,213,202,415,299,283,582,512,485,997
+2022,698,Shackan,British Columbia,British Columbia,NA,43,29,72,31,29,60,74,58,132
+2022,699,Nooaitch,British Columbia,British Columbia,NA,63,64,127,59,58,117,122,122,244
+2022,700,Boothroyd,British Columbia,British Columbia,NA,49,35,84,118,116,234,167,151,318
+2022,701,Boston Bar First Nation,British Columbia,British Columbia,NA,48,40,88,109,102,211,157,142,299
+2022,702,Whispering Pines/Clinton,British Columbia,British Columbia,NA,26,21,47,79,85,164,105,106,211
+2022,703,High Bar,British Columbia,British Columbia,NA,X,X,X,X,X,X,118,138,256
+2022,704,Kanaka Bar,British Columbia,British Columbia,NA,43,34,77,94,73,167,137,107,244
+2022,705,Lytton,British Columbia,British Columbia,NA,476,441,917,537,632,1169,1013,1073,2086
+2022,706,Siska,British Columbia,British Columbia,NA,57,55,112,108,114,222,165,169,334
+2022,707,Skuppah,British Columbia,British Columbia,NA,34,28,62,31,50,81,65,78,143
+2022,708,Spuzzum,British Columbia,British Columbia,NA,33,21,54,166,180,346,199,201,400
+2022,709,?Esdilagh First Nation,British Columbia,British Columbia,NA,43,18,61,95,111,206,138,129,267
+2022,710,T?ideldel First Nation,British Columbia,British Columbia,NA,174,156,330,165,206,371,339,362,701
+2022,711,Esk'etemc,British Columbia,British Columbia,NA,230,209,439,347,340,687,577,549,1126
+2022,712,Tlíetinqox Government,British Columbia,British Columbia,NA,321,262,583,510,634,1144,831,896,1727
+2022,713,Canim Lake,British Columbia,British Columbia,NA,209,208,417,93,97,190,302,305,607
+2022,714,Xeni Gwet'in First Nations Government,British Columbia,British Columbia,NA,117,129,246,104,113,217,221,242,463
+2022,715,Lhtako Dene Nation,British Columbia,British Columbia,NA,41,56,97,37,61,98,78,117,195
+2022,716,Xat??ll First Nation,British Columbia,British Columbia,NA,85,82,167,136,151,287,221,233,454
+2022,717,Yune≈ùit'in Government,British Columbia,British Columbia,NA,136,138,274,109,112,221,245,250,495
+2022,718,Toosey,British Columbia,British Columbia,NA,86,90,176,114,147,261,200,237,437
+2022,719,Williams Lake First Nation,British Columbia,British Columbia,NA,141,150,291,312,364,676,453,514,967
+2022,720,Nazko First Nation,British Columbia,British Columbia,NA,74,55,129,144,154,298,218,209,427
+2022,721,Lhoosk'uz Dene Nation,British Columbia,British Columbia,NA,26,23,49,76,107,183,102,130,232
+2022,722,Ulkatcho,British Columbia,British Columbia,NA,318,323,641,193,230,423,511,553,1064
+2022,723,Stswecem'c Xgat'tem First Nation,British Columbia,British Columbia,NA,165,130,295,265,251,516,430,381,811
+2022,724,Gwa'Sala-Nakwaxda'xw,British Columbia,British Columbia,NA,337,293,630,214,246,460,551,539,1090
+2022,725,Wet'suwet'en First Nation,British Columbia,British Columbia,NA,36,54,90,86,72,158,122,126,248
+2022,726,Nee-Tahi-Buhn,British Columbia,British Columbia,NA,32,18,50,35,55,90,67,73,140
+2022,728,Yekooche First Nation,British Columbia,British Columbia,NA,57,48,105,59,62,121,116,110,226
+2022,729,Skin Tyee,British Columbia,British Columbia,NA,29,28,57,81,55,136,110,83,193
+2022,730,Binche Whut'en,British Columbia,British Columbia,NA,53,38,91,62,60,122,115,98,213
+2022,750,Tulita Dene,Northwest Territories,Northwest Territories,NA,206,201,407,161,201,362,367,402,769
+2022,751,Teetl'it Gwich'in Band Council,Northwest Territories,Northwest Territories,NA,455,442,897,271,284,555,726,726,1452
+2022,752,Fort Good Hope,Northwest Territories,Northwest Territories,NA,309,296,605,155,194,349,464,490,954
+2022,753,Gwichya Gwich'in,Northwest Territories,Northwest Territories,NA,120,105,225,130,140,270,250,245,495
+2022,754,Deline First Nation,Northwest Territories,Northwest Territories,NA,465,472,937,71,93,164,536,565,1101
+2022,755,Aklavik,Northwest Territories,Northwest Territories,NA,129,124,253,84,103,187,213,227,440
+2022,756,Pehdzeh Ki First Nation,Northwest Territories,Northwest Territories,NA,115,144,259,53,40,93,168,184,352
+2022,757,Liidlii Kue First Nation,Northwest Territories,Northwest Territories,NA,396,377,773,314,314,628,710,691,1401
+2022,758,Acho Dene Koe First Nation,Northwest Territories,Northwest Territories,NA,283,275,558,71,93,164,354,368,722
+2022,759,Salt River First Nation #195,Northwest Territories,Northwest Territories,NA,139,144,283,390,377,767,529,521,1050
+2022,760,Deh G·h Gotí???? First Nation,Northwest Territories,Northwest Territories,NA,405,396,801,140,165,305,545,561,1106
+2022,761,K'atlodeeche First Nation,Northwest Territories,Northwest Territories,NA,197,211,408,134,125,259,331,336,667
+2022,762,Deninu K'ue First Nation,Northwest Territories,Northwest Territories,NA,251,228,479,265,279,544,516,507,1023
+2022,763,Yellowknives Dene First Nation,Northwest Territories,Northwest Territories,NA,406,388,794,376,487,863,782,875,1657
+2022,764,Lutsel K'e Dene First Nation,Northwest Territories,Northwest Territories,NA,275,270,545,134,152,286,409,422,831
+2022,765,Dog Rib Rae,Northwest Territories,Northwest Territories,NA,1327,1235,2562,366,413,779,1693,1648,3341
+2022,766,Nahanni Butte,Northwest Territories,Northwest Territories,NA,56,66,122,10,12,22,66,78,144
+2022,767,Sambaa K'e First Nation,Northwest Territories,Northwest Territories,NA,X,X,103,X,X,17,50,70,120
+2022,768,Ka'a'gee Tu First Nation,Northwest Territories,Northwest Territories,NA,26,22,48,12,11,23,38,33,71
+2022,769,Wha Ti First Nation,Northwest Territories,Northwest Territories,NA,345,308,653,17,23,40,362,331,693
+2022,770,Jean Marie River First Nation,Northwest Territories,Northwest Territories,NA,56,69,125,19,17,36,75,86,161
+2022,771,Behdzi Ahdaí First Nation,Northwest Territories,Northwest Territories,NA,110,107,217,25,19,44,135,126,261
+2022,772,West Point First Nation,Northwest Territories,Northwest Territories,NA,16,23,39,29,23,52,45,46,91
+2022,773,Gameti First Nation,Northwest Territories,Northwest Territories,NA,X,X,350,X,X,18,190,178,368
+2022,774,Dechi Laot'i First Nations,Northwest Territories,Northwest Territories,NA,X,X,176,X,X,21,92,105,197
+2022,780,Inuvik Native,Northwest Territories,Northwest Territories,NA,85,135,220,193,248,441,278,383,661
+2022,804,General list Manitoba region,Manitoba,Manitoba,NA,X,X,X,X,X,X,X,X,X
+2022,808,General list Yukon region,Yukon,Yukon,NA,X,X,X,X,X,X,X,X,X
+2022,809,General list Northwest Territories region,Northwest Territories,Northwest Territories,NA,X,X,X,X,X,X,X,X,X
+2022,810,General list Atlantic region,Atlantic,NA,NA,0,0,0,212,221,433,212,221,433
+2022,816,General list Quebec District,Quebec,Quebec,Quebec District,0,0,0,110,129,239,110,129,239
+2022,817,General list Sudbury District,Ontario,Ontario,Sudbury District,X,X,X,X,X,X,370,433,803
+2022,821,General list Southern District,Ontario,Ontario,Southern District,X,X,X,X,X,X,X,X,X
+2022,826,General list Western District,Ontario,Ontario,Western District,X,X,X,X,X,X,X,X,X
+2022,831,General list North Central District,Saskatchewan,Saskatchewan,North Central District,X,X,X,X,X,X,X,X,X
+2022,834,General list South District,Saskatchewan,Saskatchewan,South District,X,X,X,X,X,X,X,X,X
+2022,838,General list Alberta region,Alberta,Alberta,Alberta District,X,X,X,X,X,X,578,653,1231
+2022,848,General list British Columbia region,British Columbia,British Columbia,NA,X,X,X,X,X,X,191,167,358
