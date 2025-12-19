@@ -1,0 +1,246 @@
+{
+  "timestamp": "2025-12-18T13:02:07.758443",
+  "checks": {
+    "check_completeness": {
+      "status": "passed",
+      "financial_statements_by_year": {
+        "2019-2020": 5,
+        "2020-2021": 5,
+        "2021-2022": 5,
+        "2022-2023": 5,
+        "2023-2024": 5
+      },
+      "remuneration_by_year": {
+        "2021-2022": 1,
+        "2023-2024": 2
+      },
+      "missing_years": []
+    },
+    "check_revenue_expenditure_balance": {
+      "status": "warning",
+      "total_checked": 7,
+      "mismatches_count": 4,
+      "mismatches": [
+        {
+          "band_number": 758,
+          "band_name": "Acho Dene Koe First Nation",
+          "fiscal_year": "2019-2020",
+          "total_revenue": 2655893.0,
+          "total_expenditures": 2584000.0,
+          "net_revenue": 14.0,
+          "difference": 71879.0
+        },
+        {
+          "band_number": 758,
+          "band_name": "Acho Dene Koe First Nation",
+          "fiscal_year": "2022-2023",
+          "total_revenue": 2927888.0,
+          "total_expenditures": 2821003.0,
+          "net_revenue": 14.0,
+          "difference": 106871.0
+        },
+        {
+          "band_number": 659,
+          "band_name": "Ahousaht",
+          "fiscal_year": "2020-2021",
+          "total_revenue": 2248153.0,
+          "total_expenditures": 4.937767,
+          "net_revenue": 31.0,
+          "difference": 2248117.062233
+        },
+        {
+          "band_number": 659,
+          "band_name": "Ahousaht",
+          "fiscal_year": "2021-2022",
+          "total_revenue": 5530888.0,
+          "total_expenditures": 5198440.0,
+          "net_revenue": 11199109.0,
+          "difference": 10866661.0
+        }
+      ]
+    },
+    "check_remuneration_totals": {
+      "status": "warning",
+      "total_checked": 11,
+      "mismatches_count": 7,
+      "mismatches": [
+        {
+          "band_number": 684,
+          "band_name": "Adams Lake",
+          "fiscal_year": "2021-2022",
+          "name": "CliffArnouse Lynn Kenoras",
+          "position": "Chief",
+          "salary": null,
+          "honorarium": null,
+          "travel": null,
+          "contract": null,
+          "other": null,
+          "total_remuneration": 4960.0,
+          "calculated_total": 0,
+          "difference": 4960.0
+        },
+        {
+          "band_number": 684,
+          "band_name": "Adams Lake",
+          "fiscal_year": "2021-2022",
+          "name": "GeorginaJohnny",
+          "position": "Councillor",
+          "salary": null,
+          "honorarium": null,
+          "travel": null,
+          "contract": null,
+          "other": null,
+          "total_remuneration": 392.0,
+          "calculated_total": 0,
+          "difference": 392.0
+        },
+        {
+          "band_number": 684,
+          "band_name": "Adams Lake",
+          "fiscal_year": "2021-2022",
+          "name": "StevenTeed Shelley Witzky",
+          "position": "Councillor",
+          "salary": null,
+          "honorarium": null,
+          "travel": null,
+          "contract": null,
+          "other": null,
+          "total_remuneration": 6814.0,
+          "calculated_total": 0,
+          "difference": 6814.0
+        },
+        {
+          "band_number": 684,
+          "band_name": "Adams Lake",
+          "fiscal_year": "2021-2022",
+          "name": "BrandyJules",
+          "position": "Councillor",
+          "salary": 116339.0,
+          "honorarium": null,
+          "travel": null,
+          "contract": null,
+          "other": null,
+          "total_remuneration": 7177.0,
+          "calculated_total": 116339.0,
+          "difference": 109162.0
+        },
+        {
+          "band_number": 684,
+          "band_name": "Adams Lake",
+          "fiscal_year": "2021-2022",
+          "name": "Cory Sampson",
+          "position": "Councillor",
+          "salary": 2186.0,
+          "honorarium": null,
+          "travel": null,
+          "contract": null,
+          "other": null,
+          "total_remuneration": 5668.0,
+          "calculated_total": 2186.0,
+          "difference": 3482.0
+        },
+        {
+          "band_number": 684,
+          "band_name": "Adams Lake",
+          "fiscal_year": "2021-2022",
+          "name": "Joyce Howard Kenoras Nordquist",
+          "position": "Councillor",
+          "salary": null,
+          "honorarium": null,
+          "travel": null,
+          "contract": null,
+          "other": null,
+          "total_remuneration": 6733.0,
+          "calculated_total": 0,
+          "difference": 6733.0
+        },
+        {
+          "band_number": 684,
+          "band_name": "Adams Lake",
+          "fiscal_year": "2023-2024",
+          "name": "Lynn Kenoras-Duck Individual Position Number Salary Travel",
+          "position": "Chief",
+          "salary": 140711.0,
+          "honorarium": null,
+          "travel": null,
+          "contract": null,
+          "other": null,
+          "total_remuneration": 15613.0,
+          "calculated_total": 140711.0,
+          "difference": 125098.0
+        }
+      ]
+    },
+    "check_confidence_scores": {
+      "status": "warning",
+      "financial_statements": {
+        "avg_confidence": 0.5207999999999999,
+        "min_confidence": 0.0,
+        "max_confidence": 1.0,
+        "total": 25,
+        "high_confidence": 10,
+        "low_confidence": 9
+      },
+      "remuneration": {
+        "avg_confidence": 0.6,
+        "min_confidence": 0.6,
+        "max_confidence": 0.6,
+        "total": 11,
+        "high_confidence": 0,
+        "low_confidence": 0
+      }
+    },
+    "check_fiscal_year_coverage": {
+      "status": "passed",
+      "bands_with_incomplete_coverage": 0,
+      "examples": []
+    },
+    "check_duplicate_records": {
+      "status": "passed",
+      "financial_statement_duplicates": []
+    },
+    "check_outliers": {
+      "status": "passed",
+      "revenue_outliers": [],
+      "remuneration_outliers": []
+    },
+    "check_null_rates": {
+      "status": "warning",
+      "total_records": 25,
+      "null_rates": {
+        "total_revenue": {
+          "null_count": 16,
+          "null_rate": 64.0
+        },
+        "total_expenditures": {
+          "null_count": 11,
+          "null_rate": 44.0
+        },
+        "net_revenue": {
+          "null_count": 9,
+          "null_rate": 36.0
+        },
+        "total_liabilities": {
+          "null_count": 14,
+          "null_rate": 56.0
+        },
+        "net_assets": {
+          "null_count": 9,
+          "null_rate": 36.0
+        },
+        "cash_and_equivalents": {
+          "null_count": 14,
+          "null_rate": 56.0
+        }
+      },
+      "high_null_fields": [
+        "total_revenue"
+      ]
+    }
+  },
+  "summary": {
+    "passed": 4,
+    "failed": 0,
+    "warnings": 4
+  }
+}
