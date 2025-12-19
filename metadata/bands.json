@@ -1,0 +1,3812 @@
+[
+  {
+    "number": 172,
+    "name": "Aamjiwnaang",
+    "address": "978 TASHMOO AVENUE, SARNIA, ON, N7T 7H5",
+    "province": null
+  },
+  {
+    "number": 1,
+    "name": "Abegweit",
+    "address": "PO Box 36, 11222 St. Peters Road, Scotchfort, PE, C0A 1T0",
+    "province": null
+  },
+  {
+    "number": 758,
+    "name": "Acho Dene Koe First Nation",
+    "address": "GENERAL DELIVERY, FORT LIARD, NT, X0E 0A0",
+    "province": null
+  },
+  {
+    "number": 684,
+    "name": "Adams Lake",
+    "address": "PO BOX 588, CHASE, BC, V0E 1M0",
+    "province": null
+  },
+  {
+    "number": 659,
+    "name": "Ahousaht",
+    "address": "GENERAL DELIVERY, AHOUSAHT, BC, V0R 1A0",
+    "province": null
+  },
+  {
+    "number": 406,
+    "name": "Ahtahkakoop",
+    "address": "PO BOX 220, SHELL LAKE, SK, S0J 2G0",
+    "province": null
+  },
+  {
+    "number": 490,
+    "name": "Aishihik",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 558,
+    "name": "Aitchelitz",
+    "address": "7256 CHILLIWACK RIVER ROAD, CHILLIWACK, BC, V2R 4L9",
+    "province": null
+  },
+  {
+    "number": 755,
+    "name": "Aklavik",
+    "address": "PO BOX 118, AKLAVIK, NT, X0E 0A0",
+    "province": null
+  },
+  {
+    "number": 142,
+    "name": "Albany",
+    "address": "PO BOX 1, FORT ALBANY, ON, P0L 1H0",
+    "province": null
+  },
+  {
+    "number": 160,
+    "name": "Alderville First Nation",
+    "address": "11696 Second Line Road, ROSENEATH, ON, K0K 2X0",
+    "province": null
+  },
+  {
+    "number": 438,
+    "name": "Alexander",
+    "address": "PO BOX 3419, MORINVILLE, AB, T8R 1S3",
+    "province": null
+  },
+  {
+    "number": 437,
+    "name": "Alexis Nakota Sioux Nation",
+    "address": "PO BOX 7, GLENEVIS, AB, T0E 0X0",
+    "province": null
+  },
+  {
+    "number": 74,
+    "name": "Algonquins of Barriere Lake",
+    "address": "Parc de la Vérendrye, P.O Box 74, General Delivery, Rapid Lake, QC, J0W 2C0",
+    "province": null
+  },
+  {
+    "number": 163,
+    "name": "Algonquins of Pikwakanagan First Nation",
+    "address": "1657A Mishomis Inamo, Pikwakanagan, ON, K0J 1X0",
+    "province": null
+  },
+  {
+    "number": 152,
+    "name": "Animakee Wa Zhing #37",
+    "address": "PO BOX 267, SIOUX NARROWS, ON, P0X 1N0",
+    "province": null
+  },
+  {
+    "number": 194,
+    "name": "Animbiigoo Zaagi'igan Anishinaabek",
+    "address": "PO BOX 120, BEARDMORE, ON, P0T 1G0",
+    "province": null
+  },
+  {
+    "number": 153,
+    "name": "Anishinabe of Wauzhushk Onigum",
+    "address": "PO BOX 1850, KENORA, ON, P9N 3X8",
+    "province": null
+  },
+  {
+    "number": 125,
+    "name": "Anishnaabeg of Naongashiing",
+    "address": "PO BOX 335, MORSON, ON, P0W 1J0",
+    "province": null
+  },
+  {
+    "number": 20,
+    "name": "Annapolis Valley",
+    "address": "29 Toney Boulevard, Cambridge 32, NS, B0P 1G0",
+    "province": null
+  },
+  {
+    "number": 233,
+    "name": "Apitipi Anicinapek Nation",
+    "address": "RR 3, MATHESON, ON, P0K 1N0",
+    "province": null
+  },
+  {
+    "number": 242,
+    "name": "Aroland",
+    "address": "PO BOX 10, AROLAND, ON, P0T 1B0",
+    "province": null
+  },
+  {
+    "number": 685,
+    "name": "Ashcroft",
+    "address": "PO BOX 440, ASHCROFT, BC, V0K 1A0",
+    "province": null
+  },
+  {
+    "number": 463,
+    "name": "Athabasca Chipewyan First Nation",
+    "address": "PO BOX 366, FORT CHIPEWYAN, AB, T0P 1B0",
+    "province": null
+  },
+  {
+    "number": 224,
+    "name": "Atikameksheng Anishnawbek",
+    "address": "25 RESERVE ROAD, NAUGHTON, ON, P0M 2M0",
+    "province": null
+  },
+  {
+    "number": 79,
+    "name": "Atikamekw d'Opitciwan",
+    "address": "22, rue Amisk, CP 135, Obedjiwan, QC, G0W 3B0",
+    "province": null
+  },
+  {
+    "number": 143,
+    "name": "Attawapiskat",
+    "address": "PO BOX 248, ATTAWAPISKAT, ON, P0L 1A0",
+    "province": null
+  },
+  {
+    "number": 180,
+    "name": "Aundeck-Omni-Kaning",
+    "address": "RR 1, COMP 21, LITTLE CURRENT, ON, P0P 1K0",
+    "province": null
+  },
+  {
+    "number": 85,
+    "name": "Bande des Innus de Pessamit",
+    "address": "4, rue Metshteu, CP 40, Pessamit, QC, G0H 1B0",
+    "province": null
+  },
+  {
+    "number": 308,
+    "name": "Barren Lands",
+    "address": "PO BOX 40, BROCHET, MB, R0B 0B0",
+    "province": null
+  },
+  {
+    "number": 198,
+    "name": "Batchewana First Nation",
+    "address": "236 FRONTENAC STREET, SAULT STE MARIE, ON, P6A 5K9",
+    "province": null
+  },
+  {
+    "number": 244,
+    "name": "Bay of Quinte Mohawk",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 21,
+    "name": "Bear River",
+    "address": "PO Box 210, Bear River, NS, B0S 1B0",
+    "province": null
+  },
+  {
+    "number": 369,
+    "name": "Beardy's and Okemasis",
+    "address": "PO BOX 340, DUCK LAKE, SK, S0K 1J0",
+    "province": null
+  },
+  {
+    "number": 248,
+    "name": "Bearfoot Onondaga",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 207,
+    "name": "Bearskin Lake",
+    "address": "PO BOX 25, BEARSKIN LAKE, ON, P0V 1E0",
+    "province": null
+  },
+  {
+    "number": 473,
+    "name": "Bearspaw",
+    "address": "PO BOX 40, Mînî Thnî, AB, T0L 1N0",
+    "province": null
+  },
+  {
+    "number": 141,
+    "name": "Beausoleil",
+    "address": "GENERAL DELIVERY, CEDAR POINT, ON, L0K 1C0",
+    "province": null
+  },
+  {
+    "number": 445,
+    "name": "Beaver First Nation",
+    "address": "PO BOX 270, HIGH LEVEL, AB, T0H 1Z0",
+    "province": null
+  },
+  {
+    "number": 460,
+    "name": "Beaver Lake Cree Nation",
+    "address": "PO BOX 960, LAC LA BICHE, AB, T0A 2C0",
+    "province": null
+  },
+  {
+    "number": 640,
+    "name": "Beecher Bay",
+    "address": "4901B EAST SOOKE ROAD, SOOKE, BC, V9Z 1B6",
+    "province": null
+  },
+  {
+    "number": 771,
+    "name": "Behdzi Ahda\" First Nation",
+    "address": "PO BOX 53, COLVILLE LAKE, NT, X0E 0L0",
+    "province": null
+  },
+  {
+    "number": 266,
+    "name": "Berens River",
+    "address": "PO BOX 131, BERENS RIVER, MB, R0B 0A0",
+    "province": null
+  },
+  {
+    "number": 399,
+    "name": "Big Island Lake Cree Nation",
+    "address": "PO BOX 309, PIERCELAND, SK, S0M 2K0",
+    "province": null
+  },
+  {
+    "number": 404,
+    "name": "Big River",
+    "address": "PO BOX 519, DEBDEN, SK, S0J 0S0",
+    "province": null
+  },
+  {
+    "number": 458,
+    "name": "Bigstone Cree Nation",
+    "address": "PO BOX 960, WABASCA, AB, T0G 2K0",
+    "province": null
+  },
+  {
+    "number": 192,
+    "name": "Biigtigong Nishnaabeg",
+    "address": "PO BOX 193, HERON BAY, ON, P0T 1R0",
+    "province": null
+  },
+  {
+    "number": 197,
+    "name": "Biinjitiwaabik Zaaging Anishinaabek",
+    "address": "GENERAL DELIVERY, MACDIARMID, ON, P0T 2B0",
+    "province": null
+  },
+  {
+    "number": 11,
+    "name": "Bilijk",
+    "address": "77 French Village Road, Kingsclear First Nation, NB, E3E 1K3",
+    "province": null
+  },
+  {
+    "number": 730,
+    "name": "Binche Whut'en",
+    "address": "204 Mandine Drive, PO Box 2039, Fort St. James, BC, V0J 1P0",
+    "province": null
+  },
+  {
+    "number": 196,
+    "name": "Bingwi Neyaashi Anishinaabek",
+    "address": "292 Court Street South, Thunder Bay, ON, P7B 6C6",
+    "province": null
+  },
+  {
+    "number": 403,
+    "name": "Birch Narrows First Nation",
+    "address": "GENERAL DELIVERY, TURNOR LAKE, SK, S0M 3E0",
+    "province": null
+  },
+  {
+    "number": 284,
+    "name": "Birdtail Sioux",
+    "address": "PO BOX 22, BEULAH, MB, R0M 0B0",
+    "province": null
+  },
+  {
+    "number": 359,
+    "name": "Black Lake",
+    "address": "PO BOX 27, BLACK LAKE, SK, S0J 0H0",
+    "province": null
+  },
+  {
+    "number": 260,
+    "name": "Black River First Nation",
+    "address": "GENERAL DELIVERY, O'HANLEY, MB, R0E 1K0",
+    "province": null
+  },
+  {
+    "number": 435,
+    "name": "Blood",
+    "address": "PO BOX 60, STANDOFF, AB, T0L 1Y0",
+    "province": null
+  },
+  {
+    "number": 267,
+    "name": "Bloodvein",
+    "address": "GENERAL DELIVERY, BLOODVEIN, MB, R0C 0J0",
+    "province": null
+  },
+  {
+    "number": 547,
+    "name": "Blueberry River First Nations",
+    "address": "PO BOX 3009, BUICK CREEK, BC, V0C 2R0",
+    "province": null
+  },
+  {
+    "number": 686,
+    "name": "Bonaparte First Nation",
+    "address": "PO BOX 669, CACHE CREEK, BC, V0K 1H0",
+    "province": null
+  },
+  {
+    "number": 700,
+    "name": "Boothroyd",
+    "address": "PO BOX 70, BOSTON BAR, BC, V0K 1C0",
+    "province": null
+  },
+  {
+    "number": 701,
+    "name": "Boston Bar First Nation",
+    "address": "PO BOX 369, BOSTON BAR, BC, V0K 1C0",
+    "province": null
+  },
+  {
+    "number": 590,
+    "name": "Bridge River",
+    "address": "PO BOX 190, LILLOOET, BC, V0K 1V0",
+    "province": null
+  },
+  {
+    "number": 261,
+    "name": "Brokenhead Ojibway Nation",
+    "address": "GENERAL DELIVERY, SCANTERBURY, MB, R0E 1W0",
+    "province": null
+  },
+  {
+    "number": 228,
+    "name": "Brunswick House",
+    "address": "PO BOX 1178, CHAPLEAU, ON, P0M 1K0",
+    "province": null
+  },
+  {
+    "number": 4,
+    "name": "Buctouche MicMac",
+    "address": "9 Reserve Road, Buctouche Reserve, NB, E4S 4G2",
+    "province": null
+  },
+  {
+    "number": 265,
+    "name": "Buffalo Point First Nation",
+    "address": "PO BOX 1037, BUFFALO POINT, MB, R0A 2W0",
+    "province": null
+  },
+  {
+    "number": 398,
+    "name": "Buffalo River Dene Nation",
+    "address": "GENERAL DELIVERY, DILLON, SK, S0M 0S0",
+    "province": null
+  },
+  {
+    "number": 301,
+    "name": "Bunibonibee Cree Nation",
+    "address": "GENERAL DELIVERY, OXFORD HOUSE, MB, R0B 1C0",
+    "province": null
+  },
+  {
+    "number": 165,
+    "name": "Caldwell",
+    "address": "14 ORANGE STREET, LEAMINGTON, ON, N8H 1P5",
+    "province": null
+  },
+  {
+    "number": 622,
+    "name": "Campbell River",
+    "address": "1650 OLD SPIT ROAD, CAMPBELL RIVER, BC, V9W 3E8",
+    "province": null
+  },
+  {
+    "number": 394,
+    "name": "Canoe Lake Cree First Nation",
+    "address": "GENERAL DELIVERY, CANOE NARROWS, SK, S0M 0K0",
+    "province": null
+  },
+  {
+    "number": 289,
+    "name": "Canupawakpa Dakota First Nation",
+    "address": "PO BOX 146, PIPESTONE, MB, R0M 1T0",
+    "province": null
+  },
+  {
+    "number": 491,
+    "name": "Carcross/Tagish First Nation",
+    "address": "PO BOX 130, CARCROSS, YT, Y0B 1B0",
+    "province": null
+  },
+  {
+    "number": 378,
+    "name": "Carry The Kettle",
+    "address": "PO BOX 57, SINTALUTA, SK, S0G 4N0",
+    "province": null
+  },
+  {
+    "number": 216,
+    "name": "Cat Lake",
+    "address": "PO BOX 81, CAT LAKE, ON, P0V 1J0",
+    "province": null
+  },
+  {
+    "number": 591,
+    "name": "Cayoose Creek",
+    "address": "PO BOX 484, LILLOOET, BC, V0K 1V0",
+    "province": null
+  },
+  {
+    "number": 493,
+    "name": "Champagne",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 507,
+    "name": "Champagne and Aishihik First Nations",
+    "address": "1 Allen Place, PO BOX 5310, HAINES JUNCTION, YT, Y0B 1L0",
+    "province": null
+  },
+  {
+    "number": 221,
+    "name": "Chapleau Cree First Nation",
+    "address": "PO BOX 400, CHAPLEAU, ON, P0M 1K0",
+    "province": null
+  },
+  {
+    "number": 229,
+    "name": "Chapleau Ojibway",
+    "address": "85 Northern Avenue East, Sault Ste. Marie, ON, P6B 4H5",
+    "province": null
+  },
+  {
+    "number": 583,
+    "name": "Chawathil",
+    "address": "4-60814 LOUGHEED HIGHWAY, HOPE, BC, V0X 1L3",
+    "province": null
+  },
+  {
+    "number": 584,
+    "name": "Cheam First Nation",
+    "address": "52161 Victor Drive, Rosedale, BC, V0X 1X1",
+    "province": null
+  },
+  {
+    "number": 309,
+    "name": "Chemawawin Cree Nation",
+    "address": "PO BOX 9, EASTERVILLE, MB, R0C 0V0",
+    "province": null
+  },
+  {
+    "number": 620,
+    "name": "Cheslatta Carrier Nation",
+    "address": "PO BOX 909, BURNS LAKE, BC, V0J 1E0",
+    "province": null
+  },
+  {
+    "number": 433,
+    "name": "Chiniki",
+    "address": "PO BOX 40, Mînî Thnî, AB, T0L 1N0",
+    "province": null
+  },
+  {
+    "number": 470,
+    "name": "Chipewyan Prairie First Nation",
+    "address": "GENERAL DELIVERY, CHARD, AB, T0P 1G0",
+    "province": null
+  },
+  {
+    "number": 138,
+    "name": "Chippewas of Georgina Island",
+    "address": "RR 2, PO BOX 13, SUTTON WEST, ON, L0E 1R0",
+    "province": null
+  },
+  {
+    "number": 171,
+    "name": "Chippewas of Kettle and Stony Point",
+    "address": "6247 INDIAN LANE, KETTLE AND STONY POINT FIRST NATION, ON, N0N 1J1",
+    "province": null
+  },
+  {
+    "number": 122,
+    "name": "Chippewas of Nawash First Nation",
+    "address": "135 Lakeshore Blvd, Neyaashiinigmiing, ON, N0H 2T0",
+    "province": null
+  },
+  {
+    "number": 139,
+    "name": "Chippewas of Rama First Nation",
+    "address": "200 - 5884 RAMA ROAD, RAMA, ON, L3V 6H6",
+    "province": null
+  },
+  {
+    "number": 166,
+    "name": "Chippewas of the Thames First Nation",
+    "address": "RR 1, MUNCEY, ON, N0L 1Y0",
+    "province": null
+  },
+  {
+    "number": 401,
+    "name": "Clearwater River Dene",
+    "address": "PO BOX 5050, CLEARWATER RIVER, SK, S0M 3H0",
+    "province": null
+  },
+  {
+    "number": 464,
+    "name": "Cold Lake First Nations",
+    "address": "PO BOX 1769, COLD LAKE, AB, T9M 1P4",
+    "province": null
+  },
+  {
+    "number": 693,
+    "name": "Coldwater",
+    "address": "PO BOX 4600, MERRITT, BC, V1K 1B8",
+    "province": null
+  },
+  {
+    "number": 62,
+    "name": "Communauté anicinape de Kitcisakik",
+    "address": "Boîte postale 5206 - Kitcisakik, Kitcisakik, QC, J9P 7C6",
+    "province": null
+  },
+  {
+    "number": 55,
+    "name": "Conseil de la Première Nation Abitibiwinni",
+    "address": "45, Rue Migwan, Pikogan, QC, J9T 3A3",
+    "province": null
+  },
+  {
+    "number": 77,
+    "name": "Conseil des Atikamekw de Wemotaci",
+    "address": "36, Rue Kenosi, CP 221, Wemotaci, QC, G0X 3R0",
+    "province": null
+  },
+  {
+    "number": 182,
+    "name": "Constance Lake",
+    "address": "P.O. Box 4000, CONSTANCE LAKE, ON, P0L 1B0",
+    "province": null
+  },
+  {
+    "number": 694,
+    "name": "Cook's Ferry",
+    "address": "PO BOX 130, SPENCES BRIDGE, BC, V0K 2L0",
+    "province": null
+  },
+  {
+    "number": 366,
+    "name": "Cote First Nation 366",
+    "address": "PO BOX 1659, KAMSACK, SK, S0A 1S0",
+    "province": null
+  },
+  {
+    "number": 126,
+    "name": "Couchiching First Nation",
+    "address": "RR 2 RMB 2027, FORT FRANCES, ON, P9A 3M3",
+    "province": null
+  },
+  {
+    "number": 361,
+    "name": "Cowessess",
+    "address": "PO BOX 100, COWESSESS, SK, S0G 5L0",
+    "province": null
+  },
+  {
+    "number": 642,
+    "name": "Cowichan",
+    "address": "5760 ALLENBY ROAD, DUNCAN, BC, V9L 5J1",
+    "province": null
+  },
+  {
+    "number": 58,
+    "name": "Cree Nation of Chisasibi",
+    "address": "1, Riverside Drive, P.O. Box 150, Chisasibi, QC, J0M 1E0",
+    "province": null
+  },
+  {
+    "number": 75,
+    "name": "Cree Nation of Mistissini",
+    "address": "187, Main Street, Mistissini, QC, G0W 1C0",
+    "province": null
+  },
+  {
+    "number": 59,
+    "name": "Cree Nation of Nemaska",
+    "address": "32, Machishteewyaau Trail, Nemaska, QC, J0Y 3B0",
+    "province": null
+  },
+  {
+    "number": 60,
+    "name": "Cree Nation of Wemindji",
+    "address": "16 BEAVER ROAD, PO BOX 60, WEMINDJI, QC, J0M 1L0",
+    "province": null
+  },
+  {
+    "number": 276,
+    "name": "Cross Lake Band of Indians",
+    "address": "PO BOX 10, CROSS LAKE, MB, R0B 0J0",
+    "province": null
+  },
+  {
+    "number": 350,
+    "name": "Cumberland House Cree Nation",
+    "address": "PO BOX 220, CUMBERLAND HOUSE, SK, S0E 0S0",
+    "province": null
+  },
+  {
+    "number": 161,
+    "name": "Curve Lake",
+    "address": "GENERAL DELIVERY, CURVE LAKE, ON, K0L 1R0",
+    "province": null
+  },
+  {
+    "number": 635,
+    "name": "Da'naxda'xw First Nation",
+    "address": "PO BOX 330, ALERT BAY, BC, V0N 1A0",
+    "province": null
+  },
+  {
+    "number": 288,
+    "name": "Dakota Plains",
+    "address": "PO BOX 1246, PORTAGE LA PRAIRIE, MB, R1N 3J9",
+    "province": null
+  },
+  {
+    "number": 295,
+    "name": "Dakota Tipi",
+    "address": "2020 DAKOTA DRIVE, DAKOTA TIPI, MB, R1N 3X6",
+    "province": null
+  },
+  {
+    "number": 316,
+    "name": "Dauphin River",
+    "address": "PO BOX 58, GYPSUMVILLE, MB, R0C 1J0",
+    "province": null
+  },
+  {
+    "number": 389,
+    "name": "Day Star",
+    "address": "PO BOX 277, PUNNICHY, SK, S0A 3C0",
+    "province": null
+  },
+  {
+    "number": 504,
+    "name": "Dease River",
+    "address": "PO BOX 79, GOOD HOPE LAKE, BC, V0C 2Z0",
+    "province": null
+  },
+  {
+    "number": 774,
+    "name": "Dechi Laot'i First Nations",
+    "address": "PO BOX 34, WEKWETI, NT, X0E 1W0",
+    "province": null
+  },
+  {
+    "number": 237,
+    "name": "Deer Lake",
+    "address": "GENERAL DELIVERY, DEER LAKE, ON, P0V 1N0",
+    "province": null
+  },
+  {
+    "number": 760,
+    "name": "Deh Gáh Got'ie Dene First Nation",
+    "address": "PO BOX 200, FORT PROVIDENCE, NT, X0E 0L0",
+    "province": null
+  },
+  {
+    "number": 253,
+    "name": "Delaware",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 754,
+    "name": "Deline First Nation",
+    "address": "PO BOX 156, DELINE, NT, X0E 0G0",
+    "province": null
+  },
+  {
+    "number": 448,
+    "name": "Dene Tha'",
+    "address": "PO BOX 120, CHATEH, AB, T0H 0S0",
+    "province": null
+  },
+  {
+    "number": 762,
+    "name": "Deninu K'ue First Nation",
+    "address": "PO BOX 1899, FORT RESOLUTION, NT, X0E 0M0",
+    "province": null
+  },
+  {
+    "number": 662,
+    "name": "Ditidaht",
+    "address": "PO BOX 340, PORT ALBERNI, BC, V9Y 7M8",
+    "province": null
+  },
+  {
+    "number": 765,
+    "name": "Dog Rib Rae",
+    "address": "PO BOX 412, BEHCHOKO, NT, X0E 0Y0",
+    "province": null
+  },
+  {
+    "number": 548,
+    "name": "Doig River First Nation",
+    "address": "PO BOX 56, ROSE PRAIRIE, BC, V0C 2H0",
+    "province": null
+  },
+  {
+    "number": 218,
+    "name": "Dokis",
+    "address": "948 MAIN STREET, DOKIS FIRST NATION, ON, P0M 2N1",
+    "province": null
+  },
+  {
+    "number": 561,
+    "name": "Douglas",
+    "address": "PO BOX 606, MOUNT CURRIE, BC, V0N 2K0",
+    "province": null
+  },
+  {
+    "number": 450,
+    "name": "Driftpile Cree Nation",
+    "address": "PO BOX 30, DRIFTPILE, AB, T0G 0V0",
+    "province": null
+  },
+  {
+    "number": 451,
+    "name": "Duncan's First Nation",
+    "address": "PO BOX 148, BROWNVALE, AB, T0H 0L0",
+    "province": null
+  },
+  {
+    "number": 636,
+    "name": "Dzawada'enuxw First Nation",
+    "address": "GENERAL DELIVERY, KINGCOME INLET, BC, V0N 2B0",
+    "province": null
+  },
+  {
+    "number": 183,
+    "name": "Eabametoong First Nation",
+    "address": "PO BOX 298, FORT HOPE, ON, P0T 1L0",
+    "province": null
+  },
+  {
+    "number": 148,
+    "name": "Eagle Lake",
+    "address": "PO BOX 1001, MIGISI SAHGAIGAN, ON, P0V 3H0",
+    "province": null
+  },
+  {
+    "number": 57,
+    "name": "Eastmain",
+    "address": "76, Nouchimi, P.O. Box 90, Eastmain, QC, J0M 1W0",
+    "province": null
+  },
+  {
+    "number": 280,
+    "name": "Ebb and Flow",
+    "address": "PO BOX 159, EBB AND FLOW, MB, R0L 0R0",
+    "province": null
+  },
+  {
+    "number": 8,
+    "name": "Eel River Bar First Nation",
+    "address": "11 Main Street, Unit 201, Eel River Bar, NB, E8C 1A1",
+    "province": null
+  },
+  {
+    "number": 634,
+    "name": "Ehattesaht",
+    "address": "PO BOX 59, ZEBALLOS, BC, V0P 2A0",
+    "province": null
+  },
+  {
+    "number": 3,
+    "name": "Elsipogtog First Nation",
+    "address": "373 Big Cove Road, Elsipogtog First Nation, NB, E4W 2S3",
+    "province": null
+  },
+  {
+    "number": 400,
+    "name": "English River First Nation",
+    "address": "GENERAL DELIVERY, PATUANAK, SK, S0M 2H0",
+    "province": null
+  },
+  {
+    "number": 440,
+    "name": "Enoch Cree Nation #440",
+    "address": "PO BOX 29, ENOCH, AB, T7X 3Y3",
+    "province": null
+  },
+  {
+    "number": 443,
+    "name": "Ermineskin Tribe",
+    "address": "PO BOX 219, MASKWACIS, AB, T0C 1N0",
+    "province": null
+  },
+  {
+    "number": 5,
+    "name": "Esgenoopetitj First Nation",
+    "address": "621 Bayview Drive, Burnt Church First Nation, NB, E9G 2A5",
+    "province": null
+  },
+  {
+    "number": 711,
+    "name": "Esk'etemc",
+    "address": "PO BOX 157, ALKALI LAKE, BC, V0L 1B0",
+    "province": null
+  },
+  {
+    "number": 23,
+    "name": "Eskasoni",
+    "address": "PO Box 7040, 63 Mini Mall Drive, Eskasoni, NS, B1W 1A6",
+    "province": null
+  },
+  {
+    "number": 644,
+    "name": "Esquimalt",
+    "address": "1189 KOSAPSUM CRESCENT, VICTORIA, BC, V9A 7K7",
+    "province": null
+  },
+  {
+    "number": 495,
+    "name": "First Nation of Nacho Nyak Dun",
+    "address": "PO BOX 220, MAYO, YT, Y0B 1M0",
+    "province": null
+  },
+  {
+    "number": 264,
+    "name": "Fisher River",
+    "address": "PO BOX 367, KOOSTATAK, MB, R0C 1S0",
+    "province": null
+  },
+  {
+    "number": 390,
+    "name": "Fishing Lake First Nation",
+    "address": "PO BOX 508, WADENA, SK, S0A 4J0",
+    "province": null
+  },
+  {
+    "number": 395,
+    "name": "Flying Dust First Nation",
+    "address": "8001 FLYING DUST RESERVE, MEADOW LAKE, SK, S9X 1T8",
+    "province": null
+  },
+  {
+    "number": 227,
+    "name": "Flying Post",
+    "address": "PO BOX 1027, NIPIGON, ON, P0T 2J0",
+    "province": null
+  },
+  {
+    "number": 351,
+    "name": "Fond du Lac",
+    "address": "PO BOX 211, FOND DU LAC, SK, S0J 0W0",
+    "province": null
+  },
+  {
+    "number": 262,
+    "name": "Fort Alexander",
+    "address": "PO BOX 3, FORT ALEXANDER, MB, R0E 0P0",
+    "province": null
+  },
+  {
+    "number": 9,
+    "name": "Fort Folly",
+    "address": "PO Box 1007, Dorchester, NB, E4K 3V5",
+    "province": null
+  },
+  {
+    "number": 752,
+    "name": "Fort Good Hope",
+    "address": "PO BOX 80, FORT GOOD HOPE, NT, X0E 0H0",
+    "province": null
+  },
+  {
+    "number": 467,
+    "name": "Fort McKay First Nation",
+    "address": "PO BOX 5360, FORT MCMURRAY, AB, T9H 3G4",
+    "province": null
+  },
+  {
+    "number": 468,
+    "name": "Fort McMurray #468 First Nation",
+    "address": "PO BOX 6130, STN MAIN, FORT MCMURRAY, AB, T9H 4W1",
+    "province": null
+  },
+  {
+    "number": 543,
+    "name": "Fort Nelson First Nation",
+    "address": "MILE 295 ALASKA HWY, RR 1, FORT NELSON, BC, V0C 1R0",
+    "province": null
+  },
+  {
+    "number": 215,
+    "name": "Fort Severn",
+    "address": "GENERAL DELIVERY, FORT SEVERN, ON, P0V 1W0",
+    "province": null
+  },
+  {
+    "number": 187,
+    "name": "Fort William",
+    "address": "100 Little Lake Road, Suite 201, FORT WILLIAM FIRST NATION, ON, P7J 0L2",
+    "province": null
+  },
+  {
+    "number": 305,
+    "name": "Fox Lake",
+    "address": "PO BOX 369, GILLAM, MB, R0B 0L0",
+    "province": null
+  },
+  {
+    "number": 465,
+    "name": "Frog Lake",
+    "address": "GENERAL DELIVERY, FROG LAKE, AB, T0A 1M0",
+    "province": null
+  },
+  {
+    "number": 127,
+    "name": "Gakijiwanong Anishinaabe Nation",
+    "address": "PO BOX 640, FORT FRANCES, ON, P9A 3M9",
+    "province": null
+  },
+  {
+    "number": 294,
+    "name": "Gambler First Nation",
+    "address": "PO BOX 250, BINSCARTH, MB, R0J 0G0",
+    "province": null
+  },
+  {
+    "number": 773,
+    "name": "Gameti First Nation",
+    "address": "PO BOX 104, GAMETI, NT, X0E 1R0",
+    "province": null
+  },
+  {
+    "number": 297,
+    "name": "Garden Hill First Nations",
+    "address": "GENERAL DELIVERY, ISLAND LAKE, MB, R0B 0T0",
+    "province": null
+  },
+  {
+    "number": 199,
+    "name": "Garden River First Nation",
+    "address": "7 SHINGWAUK STREET, RR 4, GARDEN RIVER, ON, P6A 6Z8",
+    "province": null
+  },
+  {
+    "number": 391,
+    "name": "George Gordon First Nation",
+    "address": "PO BOX 248, PUNNICHY, SK, S0A 3C0",
+    "province": null
+  },
+  {
+    "number": 185,
+    "name": "Ginoogaming First Nation",
+    "address": "PO BOX 89, LONGLAC, ON, P0T 2A0",
+    "province": null
+  },
+  {
+    "number": 531,
+    "name": "Gitanmaax",
+    "address": "PO BOX 440, HAZELTON, BC, V0J 1Y0",
+    "province": null
+  },
+  {
+    "number": 537,
+    "name": "Gitanyow",
+    "address": "PO BOX 340, KITWANGA, BC, V0J 2A0",
+    "province": null
+  },
+  {
+    "number": 675,
+    "name": "Gitga'at First Nation",
+    "address": "GENERAL DELIVERY, 445 HAYIMIISAXAA WAY, HARTLEY BAY, BC, V0V 1A0",
+    "province": null
+  },
+  {
+    "number": 535,
+    "name": "Gitsegukla",
+    "address": "710 RAY CHARLES AVE, GITSEGUKLA, BC, V0J 2J3",
+    "province": null
+  },
+  {
+    "number": 536,
+    "name": "Gitwangak",
+    "address": "PO BOX 400, KITWANGA, BC, V0J 2A0",
+    "province": null
+  },
+  {
+    "number": 672,
+    "name": "Gitxaala Nation",
+    "address": "PO BOX 149, KITKATLA, BC, V0V 1C0",
+    "province": null
+  },
+  {
+    "number": 533,
+    "name": "Glen Vowell",
+    "address": "7900 SIK-E-DAKH ROAD, SIK-E-DAKH, BC, V0J 1Y3",
+    "province": null
+  },
+  {
+    "number": 30,
+    "name": "Glooscap First Nation",
+    "address": "159 Smith Road, Glooscap 35, NS, B0P 1P0",
+    "province": null
+  },
+  {
+    "number": 296,
+    "name": "God's Lake First Nation",
+    "address": "PO BOX 258, GOD'S LAKE NARROWS, MB, R0B 0M0",
+    "province": null
+  },
+  {
+    "number": 475,
+    "name": "Goodstoney",
+    "address": "PO BOX 40, Mînî Thnî, AB, T0L 1N0",
+    "province": null
+  },
+  {
+    "number": 149,
+    "name": "Grassy Narrows First Nation",
+    "address": "GENERAL DELIVERY, GRASSY NARROWS, ON, P0X 1B0",
+    "province": null
+  },
+  {
+    "number": 188,
+    "name": "Gull Bay",
+    "address": "1186 MEMORIAL AVENUE, PO BOX 29100, MCINTYRE CENTRE, THUNDER BAY, ON, P7B 6P9",
+    "province": null
+  },
+  {
+    "number": 724,
+    "name": "Gwa'Sala-Nakwaxda'xw",
+    "address": "PO BOX 998, PORT HARDY, BC, V0N 2P0",
+    "province": null
+  },
+  {
+    "number": 627,
+    "name": "Gwawaenuk Tribe",
+    "address": "PO BOX 344, PORT MCNEIL, BC, V0N 2R0",
+    "province": null
+  },
+  {
+    "number": 753,
+    "name": "Gwichya Gwich'in",
+    "address": "PO BOX 4, TSIIGEHTCHIC, NT, X0E 0B0",
+    "province": null
+  },
+  {
+    "number": 534,
+    "name": "Hagwilget Village Council",
+    "address": "PO BOX 460, NEW HAZELTON, BC, V0J 2J0",
+    "province": null
+  },
+  {
+    "number": 676,
+    "name": "Haisla Nation",
+    "address": "PO BOX 1101, HAISLA, BC, V0T 2B0",
+    "province": null
+  },
+  {
+    "number": 645,
+    "name": "Halalt",
+    "address": "7973 CHEMAINUS ROAD, RR 5, CHEMAINUS, BC, V0R 1K5",
+    "province": null
+  },
+  {
+    "number": 546,
+    "name": "Halfway River First Nation",
+    "address": "PO BOX 59, WONOWON, BC, V0C 2N0",
+    "province": null
+  },
+  {
+    "number": 352,
+    "name": "Hatchet Lake",
+    "address": "GENERAL DELIVERY, WOLLASTON LAKE, SK, S0J 3C0",
+    "province": null
+  },
+  {
+    "number": 469,
+    "name": "Heart Lake",
+    "address": "PO BOX 447, LAC LA BICHE, AB, T0A 2C0",
+    "province": null
+  },
+  {
+    "number": 538,
+    "name": "Heiltsuk",
+    "address": "PO BOX 880, BELLA BELLA, BC, V0T 1Z0",
+    "province": null
+  },
+  {
+    "number": 231,
+    "name": "Henvey Inlet First Nation",
+    "address": "295 PICKEREL RIVER RD, PICKEREL, ON, P0G 1J0",
+    "province": null
+  },
+  {
+    "number": 661,
+    "name": "Hesquiaht",
+    "address": "PO BOX 2000, TOFINO, BC, V0R 2Z0",
+    "province": null
+  },
+  {
+    "number": 162,
+    "name": "Hiawatha First Nation",
+    "address": "123 Paudash Street, HIAWATHA FIRST NATION, ON, K9J 0E6",
+    "province": null
+  },
+  {
+    "number": 703,
+    "name": "High Bar",
+    "address": "PO BOX 458, CLINTON, BC, V0K 1K0",
+    "province": null
+  },
+  {
+    "number": 263,
+    "name": "Hollow Water",
+    "address": "PO BOX 2561, WANIPIGOW, MB, R0E 2E0",
+    "province": null
+  },
+  {
+    "number": 552,
+    "name": "Homalco",
+    "address": "1218 BUTE CRESCENT, CAMPBELL RIVER, BC, V9H 1G5",
+    "province": null
+  },
+  {
+    "number": 449,
+    "name": "Horse Lake First Nation",
+    "address": "PO BOX 303, HYTHE, AB, T0H 2C0",
+    "province": null
+  },
+  {
+    "number": 664,
+    "name": "Hupacasath First Nation",
+    "address": "PO BOX 211, PORT ALBERNI, BC, V9Y 7M7",
+    "province": null
+  },
+  {
+    "number": 663,
+    "name": "Huu-ay-aht First Nations",
+    "address": "HUU-AY-AHT TREATY OFFICE, 4644 Adelaide Street, Port Alberni, BC, V9Y 6M4",
+    "province": null
+  },
+  {
+    "number": 10,
+    "name": "Indian Island",
+    "address": "61 Indian Island Drive, Indian Island, NB, E4W 1S9",
+    "province": null
+  },
+  {
+    "number": 80,
+    "name": "Innu Takuaikan Uashat Mak Mani-Utenam",
+    "address": "265, boulevard des Montagnais, CP 8000, Uashat, QC, G4R 4L9",
+    "province": null
+  },
+  {
+    "number": 86,
+    "name": "Innue Essipit",
+    "address": "32, rue de la Réserve, CP 820, Essipit, QC, G0T 1K0",
+    "province": null
+  },
+  {
+    "number": 780,
+    "name": "Inuvik Native",
+    "address": "PO BOX 2570, INUVIK, NT, X0E 0T0",
+    "province": null
+  },
+  {
+    "number": 154,
+    "name": "Iskatewizaagegan #39 Independent First Nation",
+    "address": "GENERAL DELIVERY, KEJICK, ON, P0X 1E0",
+    "province": null
+  },
+  {
+    "number": 683,
+    "name": "Iskut",
+    "address": "PO BOX 30, ISKUT, BC, V0J 1K0",
+    "province": null
+  },
+  {
+    "number": 370,
+    "name": "James Smith",
+    "address": "PO BOX 1059, MELFORT, SK, S0E 1A0",
+    "province": null
+  },
+  {
+    "number": 770,
+    "name": "Jean Marie River First Nation",
+    "address": "GENERAL DELIVERY, JEAN MARIE RIVER, NT, X0E 0N0",
+    "province": null
+  },
+  {
+    "number": 761,
+    "name": "K'atlodeeche First Nation",
+    "address": "PO BOX 3060, HAY RIVER RESERVE, NT, X0E 1G4",
+    "province": null
+  },
+  {
+    "number": 624,
+    "name": "K'ómoks First Nation",
+    "address": "3330 COMOX ROAD, COURTENAY, BC, V9N 3P8",
+    "province": null
+  },
+  {
+    "number": 768,
+    "name": "Ka'a'gee Tu First Nation",
+    "address": "PO BOX 4428, HAY RIVER, NT, X0E 1G3",
+    "province": null
+  },
+  {
+    "number": 638,
+    "name": "Ka:'yu:'k't'h'/Che:k'tles7et'h' First Nations",
+    "address": "1250C Ironwood Street, Campbell River, BC, V9W 6H5",
+    "province": null
+  },
+  {
+    "number": 362,
+    "name": "Kahkewistahaw",
+    "address": "PO BOX 609, BROADVIEW, SK, S0G 0K0",
+    "province": null
+  },
+  {
+    "number": 704,
+    "name": "Kanaka Bar",
+    "address": "PO BOX 610, 2693 SIWASH ROAD, LYTTON, BC, V0K 1Z0",
+    "province": null
+  },
+  {
+    "number": 452,
+    "name": "Kapawe'no First Nation",
+    "address": "PO BOX 10, GROUARD, AB, T0G 1C0",
+    "province": null
+  },
+  {
+    "number": 210,
+    "name": "Kasabonika Lake",
+    "address": "PO BOX 124, KASABONIKA LAKE, ON, P0V 1Y0",
+    "province": null
+  },
+  {
+    "number": 243,
+    "name": "Kashechewan",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 563,
+    "name": "Katzie",
+    "address": "10946 KATZIE ROAD, PITT MEADOWS, BC, V3Y 2G6",
+    "province": null
+  },
+  {
+    "number": 393,
+    "name": "Kawacatoose",
+    "address": "PO BOX 640, RAYMORE, SK, S0A 3J0",
+    "province": null
+  },
+  {
+    "number": 65,
+    "name": "Kebaowek First Nation",
+    "address": "110, Ogima Street, Kebaowek, QC, J0Z 3R1",
+    "province": null
+  },
+  {
+    "number": 325,
+    "name": "Kee-Way-Win",
+    "address": "GENERAL DELIVERY, KEEWAYWIN, ON, P0V 3G0",
+    "province": null
+  },
+  {
+    "number": 367,
+    "name": "Keeseekoose",
+    "address": "PO BOX 1120, KAMSACK, SK, S0A 1S0",
+    "province": null
+  },
+  {
+    "number": 286,
+    "name": "Keeseekoowenin",
+    "address": "PO BOX 100, ELPHINSTONE, MB, R0J 0N0",
+    "province": null
+  },
+  {
+    "number": 466,
+    "name": "Kehewin Cree Nation",
+    "address": "PO BOX 220, KEHEWIN, AB, T0A 1C0",
+    "province": null
+  },
+  {
+    "number": 212,
+    "name": "Kingfisher",
+    "address": "PO BOX 57, KINGFISHER LAKE, ON, P0V 1Z0",
+    "province": null
+  },
+  {
+    "number": 377,
+    "name": "Kinistin Saulteaux Nation",
+    "address": "PO BOX 2590, TISDALE, SK, S0E 1T0",
+    "province": null
+  },
+  {
+    "number": 268,
+    "name": "Kinonjeoshtegon First Nation",
+    "address": "PO BOX 210, DALLAS, MB, R0C 0S0",
+    "province": null
+  },
+  {
+    "number": 532,
+    "name": "Kispiox",
+    "address": "1336 KISPIOX VALLEY ROAD, KISPIOX, BC, V0J 1Y4",
+    "province": null
+  },
+  {
+    "number": 540,
+    "name": "Kitasoo Xai'xais Nation",
+    "address": "GENERAL DELIVERY, KLEMTU, BC, V0T 1L0",
+    "province": null
+  },
+  {
+    "number": 209,
+    "name": "Kitchenuhmaykoosib Inninuwug",
+    "address": "PO BOX 329, BIG TROUT LAKE, ON, P0V 1G0",
+    "province": null
+  },
+  {
+    "number": 73,
+    "name": "Kitigan Zibi Anishinabeg",
+    "address": "1, Paganakomin Mikan Street, P.O. Box 309, Maniwaki, QC, J9E 3C9",
+    "province": null
+  },
+  {
+    "number": 680,
+    "name": "Kitselas",
+    "address": "2225 GITAUS ROAD, TERRACE, BC, V8G 0A9",
+    "province": null
+  },
+  {
+    "number": 681,
+    "name": "Kitsumkalum",
+    "address": "PO BOX 544, TERRACE, BC, V8G 4B5",
+    "province": null
+  },
+  {
+    "number": 553,
+    "name": "Klahoose First Nation",
+    "address": "PO BOX 9, 1790 Tork Rd, SQUIRREL COVE, BC, V0P 1T0",
+    "province": null
+  },
+  {
+    "number": 503,
+    "name": "Kluane First Nation",
+    "address": "PO BOX 20, BURWASH LANDING, YT, Y0B 1V0",
+    "province": null
+  },
+  {
+    "number": 251,
+    "name": "Konadaha Seneca",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 610,
+    "name": "Kwadacha Nation",
+    "address": "497 - 3RD AVENUE, PRINCE GEORGE, BC, V2L 3C1",
+    "province": null
+  },
+  {
+    "number": 626,
+    "name": "Kwakiutl",
+    "address": "PO BOX 1440, PORT HARDY, BC, V0N 2P0",
+    "province": null
+  },
+  {
+    "number": 500,
+    "name": "Kwanlin Dun First Nation",
+    "address": "35 McIntyre Drive, WHITEHORSE, YT, Y1A 6H6",
+    "province": null
+  },
+  {
+    "number": 564,
+    "name": "Kwantlen First Nation",
+    "address": "23690 GABRIEL LANE, PO BOX 108, FORT LANGLEY, BC, V1M 2R4",
+    "province": null
+  },
+  {
+    "number": 580,
+    "name": "Kwaw-kwaw-Apilt",
+    "address": "7256 CHILLIWACK RIVER ROAD, CHILLIWACK, BC, V2R 4L9",
+    "province": null
+  },
+  {
+    "number": 628,
+    "name": "Kwiakah",
+    "address": "PO BOX 437, STATION A, CAMPBELL RIVER, BC, V9W 5B6",
+    "province": null
+  },
+  {
+    "number": 625,
+    "name": "Kwikwasut'inuxw Haxwa'mis",
+    "address": "PO BOX 10, ALERT BAY, BC, V0N 1A0",
+    "province": null
+  },
+  {
+    "number": 560,
+    "name": "Kwikwetlem First Nation",
+    "address": "2 - 65 COLONY FARM ROAD, COQUITLAM, BC, V3C 5X9",
+    "province": null
+  },
+  {
+    "number": 87,
+    "name": "La Nation Innu Matimekush-Lac John",
+    "address": "170, rue Pearce Lake, Schefferville, QC, G0G 2T0",
+    "province": null
+  },
+  {
+    "number": 53,
+    "name": "La Nation Micmac de Gespeg",
+    "address": "34, Montée de Corte-Real, C.P. 69 Succ. Fontenelle, Gaspé, QC, G4X 6V2",
+    "province": null
+  },
+  {
+    "number": 189,
+    "name": "Lac Des Mille Lacs",
+    "address": "328 - 1100 MEMORIAL AVENUE, THUNDER BAY, ON, P7B 4A3",
+    "province": null
+  },
+  {
+    "number": 353,
+    "name": "Lac La Ronge",
+    "address": "PO BOX 480, LA RONGE, SK, S0J 1L0",
+    "province": null
+  },
+  {
+    "number": 205,
+    "name": "Lac Seul",
+    "address": "PO BOX 100, HUDSON, ON, P0V 1X0",
+    "province": null
+  },
+  {
+    "number": 607,
+    "name": "Lake Babine Nation",
+    "address": "PO BOX 879, BURNS LAKE, BC, V0J 1E0",
+    "province": null
+  },
+  {
+    "number": 271,
+    "name": "Lake Manitoba",
+    "address": "PO BOX 1250, LAKE MANITOBA FIRST NATION, MB, R0C 3K0",
+    "province": null
+  },
+  {
+    "number": 275,
+    "name": "Lake St. Martin",
+    "address": "550 BERRY ST, WINNIPEG, MB, R3H 0R9",
+    "province": null
+  },
+  {
+    "number": 674,
+    "name": "Lax Kw'alaams",
+    "address": "206 SHASHAAK STREET, LAX KW'ALAAMS, BC, V0V 1H0",
+    "province": null
+  },
+  {
+    "number": 2,
+    "name": "Lennox Island",
+    "address": "2 Eagle Feather Trail, Lennox Island, PE, C0B 1J0",
+    "province": null
+  },
+  {
+    "number": 579,
+    "name": "Leq'á:mel First Nation",
+    "address": "43101 LEQ'A: MEL WAY, DEROCHE, BC, V0M 1G0",
+    "province": null
+  },
+  {
+    "number": 78,
+    "name": "Les Atikamekw de Manawan",
+    "address": "135, Rue Kicik, Manawan, QC, J0K 1M0",
+    "province": null
+  },
+  {
+    "number": 82,
+    "name": "Les Innus de Ekuanitshit",
+    "address": "35, rue Manitou, Ekuanitshit, QC, G0G 1V0",
+    "province": null
+  },
+  {
+    "number": 611,
+    "name": "Lheidli T'enneh",
+    "address": "1041 WHENUN ROAD, PRINCE GEORGE, BC, V2K 5X8",
+    "province": null
+  },
+  {
+    "number": 721,
+    "name": "Lhoosk'uz Dene Nation",
+    "address": "PO BOX 4339, QUESNEL, BC, V2J 3J8",
+    "province": null
+  },
+  {
+    "number": 715,
+    "name": "Lhtako Dene Nation",
+    "address": "PO BOX 4069, 1515 Arbutus Road, QUESNEL, BC, V2J 3J2",
+    "province": null
+  },
+  {
+    "number": 502,
+    "name": "Liard First Nation",
+    "address": "PO BOX 328, WATSON LAKE, YT, Y0A 1C0",
+    "province": null
+  },
+  {
+    "number": 757,
+    "name": "Liidlii Kue First Nation",
+    "address": "PO BOX 469, FORT SIMPSON, NT, X0E 0N0",
+    "province": null
+  },
+  {
+    "number": 557,
+    "name": "Lil'wat Nation",
+    "address": "PO BOX 602, MOUNT CURRIE, BC, V0N 2K0",
+    "province": null
+  },
+  {
+    "number": 51,
+    "name": "Listuguj Mi'gmaq Government",
+    "address": "17, Riverside Street West, P.O. Box 298, Listuguj, QC, G0C 2R0",
+    "province": null
+  },
+  {
+    "number": 379,
+    "name": "Little Black Bear",
+    "address": "PO BOX 40, GOODEVE, SK, S0A 1C0",
+    "province": null
+  },
+  {
+    "number": 270,
+    "name": "Little Grand Rapids",
+    "address": "PO BOX 129, LITTLE GRAND RAPIDS, MB, R0B 0V0",
+    "province": null
+  },
+  {
+    "number": 340,
+    "name": "Little Pine",
+    "address": "PO BOX 70, PAYNTON, SK, S0M 2J0",
+    "province": null
+  },
+  {
+    "number": 447,
+    "name": "Little Red River Cree Nation",
+    "address": "PO BOX 30, JOHN D'OR PRAIRIE, AB, T0H 3X0",
+    "province": null
+  },
+  {
+    "number": 492,
+    "name": "Little Salmon/Carmacks First Nation",
+    "address": "PO BOX 135, CARMACKS, YT, Y0B 1C0",
+    "province": null
+  },
+  {
+    "number": 274,
+    "name": "Little Saskatchewan",
+    "address": "PO BOX 98, GYPSUMVILLE, MB, R0C 1J0",
+    "province": null
+  },
+  {
+    "number": 184,
+    "name": "Long Lake No.58 First Nation",
+    "address": "PO BOX 609, LONGLAC, ON, P0T 2A0",
+    "province": null
+  },
+  {
+    "number": 287,
+    "name": "Long Plain",
+    "address": "PO BOX 430, PORTAGE LA PRAIRIE, MB, R1N 3B7",
+    "province": null
+  },
+  {
+    "number": 67,
+    "name": "Long Point First Nation",
+    "address": "112, Kakinwawigak Mikana, P.O. Box 1, Winneway, QC, J0Z 2J0",
+    "province": null
+  },
+  {
+    "number": 476,
+    "name": "Loon River Cree",
+    "address": "PO BOX 189, RED EARTH CREEK, AB, T0G 1X0",
+    "province": null
+  },
+  {
+    "number": 439,
+    "name": "Louis Bull Tribe",
+    "address": "PO BOX 130, MASKWACIS, AB, T0C 1N0",
+    "province": null
+  },
+  {
+    "number": 250,
+    "name": "Lower Cayuga",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 606,
+    "name": "Lower Kootenay",
+    "address": "830 SIMON ROAD, CRESTON, BC, V0B 1G2",
+    "province": null
+  },
+  {
+    "number": 254,
+    "name": "Lower Mohawk",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 695,
+    "name": "Lower Nicola",
+    "address": "181 NAWISHASKIN LANE, MERRITT, BC, V1K 0A7",
+    "province": null
+  },
+  {
+    "number": 598,
+    "name": "Lower Similkameen",
+    "address": "PO Box 100, Keremeos, BC, V0X 1N3",
+    "province": null
+  },
+  {
+    "number": 453,
+    "name": "Lubicon Lake Band No. 453",
+    "address": "PO BOX1351, ISIDORE, AB, T0H 3B0",
+    "province": null
+  },
+  {
+    "number": 341,
+    "name": "Lucky Man",
+    "address": "Suite 820-606 Spadina Cresent East, SASKATOON, SK, S7N 3H1",
+    "province": null
+  },
+  {
+    "number": 764,
+    "name": "Lutsel K'e Dene First Nation",
+    "address": "PO BOX 28, LUTSEL K'E, NT, X0E 1A0",
+    "province": null
+  },
+  {
+    "number": 646,
+    "name": "Lyackson",
+    "address": "8017 Chemainus Road, CHEMAINUS, BC, V0R 1K5",
+    "province": null
+  },
+  {
+    "number": 705,
+    "name": "Lytton",
+    "address": "PO BOX 20, LYTTON, BC, V0K 1Z0",
+    "province": null
+  },
+  {
+    "number": 181,
+    "name": "M'Chigeeng First Nation",
+    "address": "PO BOX 333, 53 HWY 551, M'CHIGEENG, ON, P0P 1G0",
+    "province": null
+  },
+  {
+    "number": 6,
+    "name": "Madawaska Maliseet First Nation",
+    "address": "1771 Principlae Street, Madawaska Maliseet First Nation, NB, E7C 1W9",
+    "province": null
+  },
+  {
+    "number": 174,
+    "name": "Magnetawan",
+    "address": "10 HWY 529, BRITT, ON, P0G 1A0",
+    "province": null
+  },
+  {
+    "number": 396,
+    "name": "Makwa Sahgaiehcan First Nation",
+    "address": "PO BOX 340, LOON LAKE, SK, S0M 1L0",
+    "province": null
+  },
+  {
+    "number": 647,
+    "name": "Malahat Nation",
+    "address": "110 THUNDER ROAD, RR 4, MILL BAY, BC, V0R 2P4",
+    "province": null
+  },
+  {
+    "number": 629,
+    "name": "Mamalilikulla First Nation",
+    "address": "168-1436 Island Highway, CAMPBELL RIVER, BC, V9W 8C9",
+    "province": null
+  },
+  {
+    "number": 302,
+    "name": "Manto Sipi Cree Nation",
+    "address": "PO BOX 97, GOD'S RIVER, MB, R0B 0N0",
+    "province": null
+  },
+  {
+    "number": 328,
+    "name": "Marcel Colomb First Nation",
+    "address": "PO BOX 1150, LYNN LAKE, MB, R0B 0W0",
+    "province": null
+  },
+  {
+    "number": 186,
+    "name": "Martin Falls",
+    "address": "GENERAL DELIVERY, OGOKI POST, ON, P0T 2L0",
+    "province": null
+  },
+  {
+    "number": 219,
+    "name": "Matachewan",
+    "address": "PO BOX 160, MATACHEWAN, ON, P0K 1M0",
+    "province": null
+  },
+  {
+    "number": 311,
+    "name": "Mathias Colomb",
+    "address": "PO BOX 135, PUKATAWAGAN, MB, R0B 1G0",
+    "province": null
+  },
+  {
+    "number": 565,
+    "name": "Matsqui First Nation",
+    "address": "PO BOX 10, MATSQUI, BC, V4X 3R2",
+    "province": null
+  },
+  {
+    "number": 226,
+    "name": "Mattagami",
+    "address": "PO BOX 99, GOGAMA, ON, P0M 1W0",
+    "province": null
+  },
+  {
+    "number": 326,
+    "name": "McDowell Lake",
+    "address": "PO BOX 321, RED LAKE, ON, P0V 2M0",
+    "province": null
+  },
+  {
+    "number": 618,
+    "name": "McLeod Lake",
+    "address": "GENERAL DELIVERY, MCLEOD LAKE, BC, V0J 2G0",
+    "province": null
+  },
+  {
+    "number": 26,
+    "name": "Membertou",
+    "address": "111 Membertou Street, Sydney, NS, B1S 2M9",
+    "province": null
+  },
+  {
+    "number": 14,
+    "name": "Metepenagiag Mi'kmaq Nation",
+    "address": "PO Box 293, Metepenagiag Mi'kmaq Nation, NB, E9E 2P2",
+    "province": null
+  },
+  {
+    "number": 673,
+    "name": "Metlakatla First Nation",
+    "address": "PO BOX 459, PRINCE RUPERT, BC, V8J 3R2",
+    "province": null
+  },
+  {
+    "number": 47,
+    "name": "Miawpukek",
+    "address": "PO Box10, 50 Miawpueke Drive, Conne River, NL, A0H 1J0",
+    "province": null
+  },
+  {
+    "number": 225,
+    "name": "Michipicoten",
+    "address": "PO BOX 1, SITE 8, RR 1, WAWA, ON, P0S 1K0",
+    "province": null
+  },
+  {
+    "number": 52,
+    "name": "Micmacs of Gesgapegiag",
+    "address": "100 PERRON BLVD, GESGAPEGIAG, QC, G0C 1Y0",
+    "province": null
+  },
+  {
+    "number": 461,
+    "name": "Mikisew Cree First Nation",
+    "address": "PO BOX 90, FORT CHIPEWYAN, AB, T0P 1B0",
+    "province": null
+  },
+  {
+    "number": 27,
+    "name": "Millbrook",
+    "address": "PO Box 634, TRURO, NS, B2N 5E5",
+    "province": null
+  },
+  {
+    "number": 282,
+    "name": "Minegoziibe Anishinabe",
+    "address": "PO BOX 70, CAMPERVILLE, MB, R0L 0J0",
+    "province": null
+  },
+  {
+    "number": 397,
+    "name": "Ministikwan Lake Cree Nation",
+    "address": "PO BOX 240, ISLAND LAKE, SK, S0M 3G0",
+    "province": null
+  },
+  {
+    "number": 203,
+    "name": "Mishkeegogamang",
+    "address": "GENERAL DELIVERY, OSNABURGH, ON, P0V 2H0",
+    "province": null
+  },
+  {
+    "number": 310,
+    "name": "Misipawistik Cree Nation",
+    "address": "PO BOX 500, GRAND RAPIDS, MB, R0C 1E0",
+    "province": null
+  },
+  {
+    "number": 223,
+    "name": "Missanabie Cree",
+    "address": "174B HWY 17B, GARDEN RIVER, ON, P6A 6Z1",
+    "province": null
+  },
+  {
+    "number": 200,
+    "name": "Mississauga",
+    "address": "PO BOX 1299, BLIND RIVER, ON, P0R 1B0",
+    "province": null
+  },
+  {
+    "number": 140,
+    "name": "Mississaugas of Scugog Island First Nation",
+    "address": "22521 ISLAND ROAD, PORT PERRY, ON, L9L 1B6",
+    "province": null
+  },
+  {
+    "number": 120,
+    "name": "Mississaugas of the Credit",
+    "address": "2789 MISSISSAUGA ROAD, RR 6, HAGERSVILLE, ON, N0A 1H0",
+    "province": null
+  },
+  {
+    "number": 374,
+    "name": "Mistawasis Nêhiyawak",
+    "address": "PO BOX 250, LEASK, SK, S0J 1M0",
+    "province": null
+  },
+  {
+    "number": 133,
+    "name": "Mitaanjigamiing First Nation",
+    "address": "PO BOX 609, FORT FRANCES, ON, P9A 3M9",
+    "province": null
+  },
+  {
+    "number": 159,
+    "name": "Mohawks of Akwesasne",
+    "address": "PO BOX 90, AKWESASNE, QC, H0M 1A0",
+    "province": null
+  },
+  {
+    "number": 70,
+    "name": "Mohawks of Kahnawá:ke",
+    "address": "P.O. Box 720, Kahnawake, QC, J0L 1B0",
+    "province": null
+  },
+  {
+    "number": 69,
+    "name": "Mohawks of Kanesatake",
+    "address": "681, Ste-Philomene Street, Kanesatake, QC, J0N 1E0",
+    "province": null
+  },
+  {
+    "number": 164,
+    "name": "Mohawks of the Bay of Quinte",
+    "address": "24 MEADOW DRIVE, TYENDINAGA MOHAWK TERRITORY, ON, K0K 1X0",
+    "province": null
+  },
+  {
+    "number": 88,
+    "name": "Montagnais de Pakua Shipi",
+    "address": "CP 178, St-Augustin-Saguenay, QC, G0G 2R0",
+    "province": null
+  },
+  {
+    "number": 84,
+    "name": "Montagnais de Unamen Shipu",
+    "address": "90, rue du Large, La Romaine, QC, G0G 1M0",
+    "province": null
+  },
+  {
+    "number": 442,
+    "name": "Montana",
+    "address": "PO BOX 70, MASKWACIS, AB, TOC 1N0",
+    "province": null
+  },
+  {
+    "number": 354,
+    "name": "Montreal Lake",
+    "address": "PO BOX 106, MONTREAL LAKE, SK, S0J 1Y0",
+    "province": null
+  },
+  {
+    "number": 144,
+    "name": "Moose Cree First Nation",
+    "address": "PO BOX 190, MOOSE FACTORY, ON, P0L 1W0",
+    "province": null
+  },
+  {
+    "number": 135,
+    "name": "Moose Deer Point",
+    "address": "PO BOX 119, MACTIER, ON, P0C 1H0",
+    "province": null
+  },
+  {
+    "number": 342,
+    "name": "Moosomin",
+    "address": "PO BOX 98, COCHIN, SK, S0M 0L0",
+    "province": null
+  },
+  {
+    "number": 167,
+    "name": "Moravian of the Thames",
+    "address": "14760 Schoolhouse Line, RR 3, THAMESVILLE, ON, N0P 2K0",
+    "province": null
+  },
+  {
+    "number": 312,
+    "name": "Mosakahiken Cree Nation",
+    "address": "GENERAL DELIVERY, MOOSE LAKE, MB, R0B 0Y0",
+    "province": null
+  },
+  {
+    "number": 343,
+    "name": "Mosquito, Grizzly Bear's Head, Lean Man First Nations",
+    "address": "PO BOX 177, CANDO, SK, S0K 0V0",
+    "province": null
+  },
+  {
+    "number": 630,
+    "name": "Mowachaht/Muchalaht",
+    "address": "PO BOX 459, GOLD RIVER, BC, V0P 1G0",
+    "province": null
+  },
+  {
+    "number": 168,
+    "name": "Munsee-Delaware Nation",
+    "address": "RR 1, MUNCEY, ON, N0L 1Y0",
+    "province": null
+  },
+  {
+    "number": 381,
+    "name": "Muscowpetung",
+    "address": "PO BOX 1310, FORT QU'APPELLE, SK, S0G 1S0",
+    "province": null
+  },
+  {
+    "number": 32,
+    "name": "Mushuau Innu First Nation",
+    "address": "PO BOX 190, Natuashish, NL, A0P 1A0",
+    "province": null
+  },
+  {
+    "number": 124,
+    "name": "Musk-kosiminiziibing",
+    "address": "PO BOX 414, MORSON, ON, P0W 1J0",
+    "province": null
+  },
+  {
+    "number": 375,
+    "name": "Muskeg Lake Cree Nation #102",
+    "address": "PO BOX 248, MARCELIN, SK, S0J 1R0",
+    "province": null
+  },
+  {
+    "number": 371,
+    "name": "Muskoday First Nation",
+    "address": "PO BOX 99, MUSKODAY, SK, S0J 3H0",
+    "province": null
+  },
+  {
+    "number": 392,
+    "name": "Muskowekwan",
+    "address": "PO BOX 249, LESTOCK, SK, S0A 2G0",
+    "province": null
+  },
+  {
+    "number": 213,
+    "name": "Muskrat Dam Lake",
+    "address": "PO BOX 140, MUSKRAT DAM, ON, P0V 3B0",
+    "province": null
+  },
+  {
+    "number": 550,
+    "name": "Musqueam",
+    "address": "6735 SALISH DRIVE, VANCOUVER, BC, V6N 4C4",
+    "province": null
+  },
+  {
+    "number": 556,
+    "name": "N'Quatqua",
+    "address": "PO BOX 88, D'ARCY, BC, V0N 1L0",
+    "province": null
+  },
+  {
+    "number": 612,
+    "name": "Nadleh Whuten",
+    "address": "PO BOX 36, FORT FRASER, BC, V0J 1N0",
+    "province": null
+  },
+  {
+    "number": 766,
+    "name": "Nahanni Butte",
+    "address": "GENERAL DELIVERY, NAHANNI BUTTE, NT, X0E 0N0",
+    "province": null
+  },
+  {
+    "number": 128,
+    "name": "Naicatchewenin",
+    "address": "PO BOX 15, RR 1, DEVLIN, ON, P0W 1C0",
+    "province": null
+  },
+  {
+    "number": 614,
+    "name": "Nak'azdli Whut'en",
+    "address": "PO BOX 1329, FORT ST. JAMES, BC, V0J 1P0",
+    "province": null
+  },
+  {
+    "number": 631,
+    "name": "Namgis First Nation",
+    "address": "PO BOX 210, ALERT BAY, BC, V0N 1A0",
+    "province": null
+  },
+  {
+    "number": 649,
+    "name": "Nanoose First Nation",
+    "address": "209 MALLARD WAY, LANTZVILLE, BC, V0R 2H0",
+    "province": null
+  },
+  {
+    "number": 158,
+    "name": "Naotkamegwanning",
+    "address": "1800 PAWITIK STREET, PAWITIK, ON, P0X 1L0",
+    "province": null
+  },
+  {
+    "number": 81,
+    "name": "Naskapi Nation of Kawawachikamach",
+    "address": "P.O. Box 5111, Kawawachikamach, QC, G0G 2Z0",
+    "province": null
+  },
+  {
+    "number": 63,
+    "name": "Nation Anishnabe du Lac Simon",
+    "address": "1026, Boulevard Cicip, CP 139, Lac Simon, QC, J0Y 3M0",
+    "province": null
+  },
+  {
+    "number": 50,
+    "name": "Nation Wendat",
+    "address": "255, place Chef-Michel-Laveau, Wendake, QC, G0A 4V0",
+    "province": null
+  },
+  {
+    "number": 7,
+    "name": "Natoaganeg",
+    "address": "47 Church Road, Eel Ground, NB, E1V 4E6",
+    "province": null
+  },
+  {
+    "number": 720,
+    "name": "Nazko First Nation",
+    "address": "PO BOX 4129, QUESNEL, BC, V2J 3J2",
+    "province": null
+  },
+  {
+    "number": 726,
+    "name": "Nee-Tahi-Buhn",
+    "address": "47805 OLSON ROAD, BURNS LAKE, BC, V0J 1E4",
+    "province": null
+  },
+  {
+    "number": 380,
+    "name": "Nekaneet",
+    "address": "PO BOX 548, MAPLE CREEK, SK, S0N 1N0",
+    "province": null
+  },
+  {
+    "number": 239,
+    "name": "Neskantaga First Nation",
+    "address": "PO BOX 105, LANSDOWNE HOUSE, ON, P0T 1Z0",
+    "province": null
+  },
+  {
+    "number": 690,
+    "name": "Neskonlith",
+    "address": "PO BOX 318, CHASE, BC, V0E 1M0",
+    "province": null
+  },
+  {
+    "number": 195,
+    "name": "Netmizaaggamig Nishnaabeg",
+    "address": "PO BOX 717, MOBERT, ON, P0M 2J0",
+    "province": null
+  },
+  {
+    "number": 566,
+    "name": "New Westminster",
+    "address": "105 - 3680 RAE AVENUE, VANCOUVER, BC, V5R 2P5",
+    "province": null
+  },
+  {
+    "number": 241,
+    "name": "Nibinamik First Nation",
+    "address": "GENERAL DELIVERY, SUMMER BEAVER, ON, P0T 3B0",
+    "province": null
+  },
+  {
+    "number": 696,
+    "name": "Nicomen",
+    "address": "PO BOX 670, LYTTON, BC, V0K 1Z0",
+    "province": null
+  },
+  {
+    "number": 129,
+    "name": "Nigigoonsiminikaaning First Nation",
+    "address": "PO BOX 68, FORT FRANCES, ON, P9A 3M5",
+    "province": null
+  },
+  {
+    "number": 252,
+    "name": "Niharondasa Seneca",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 147,
+    "name": "Niisaachewan Anishinaabe Nation",
+    "address": "22 BAND OFFICE RD., DALLES, ON, P9N 0J2",
+    "province": null
+  },
+  {
+    "number": 220,
+    "name": "Nipissing First Nation",
+    "address": "36 SEMO ROAD, GARDEN VILLAGE, ON, P2B 3K2",
+    "province": null
+  },
+  {
+    "number": 671,
+    "name": "Nisga'a Village of Gingolx",
+    "address": "607 FRONT ST, GINGOLX, BC, V0V 1B0",
+    "province": null
+  },
+  {
+    "number": 679,
+    "name": "Nisga'a Village of Gitwinksihlkw",
+    "address": "PO BOX 1, 3004 TS'OOHL TS'AP AVE, GITWINKSIHLKW, BC, V0J 3T0",
+    "province": null
+  },
+  {
+    "number": 678,
+    "name": "Nisga'a Village of Laxgalt'sap",
+    "address": "PO BOX 200, 416 NORTH RD, GREENVILLE, BC, V0J 1X0",
+    "province": null
+  },
+  {
+    "number": 677,
+    "name": "Nisga'a Village of New Aiyansh",
+    "address": "PO BOX 233, 5200 SKATEEN DR, NEW AIYANSH, BC, V0J 1A0",
+    "province": null
+  },
+  {
+    "number": 313,
+    "name": "Nisichawayasihk Cree Nation",
+    "address": "GENERAL DELIVERY, NELSON HOUSE, MB, R0B 1A0",
+    "province": null
+  },
+  {
+    "number": 699,
+    "name": "Nooaitch",
+    "address": "2954 SHACKELLY ROAD, MERRITT, BC, V1K 1N9",
+    "province": null
+  },
+  {
+    "number": 204,
+    "name": "North Caribou Lake",
+    "address": "PO Box 154, 30 Band Office Road, WEAGAMOW LAKE, ON, P0V 2Y0",
+    "province": null
+  },
+  {
+    "number": 238,
+    "name": "North Spirit Lake",
+    "address": "GENERAL DELIVERY, NORTH SPIRIT LAKE, ON, P0V 2G0",
+    "province": null
+  },
+  {
+    "number": 317,
+    "name": "Northlands Denesuline First Nation",
+    "address": "PO BOX 120, LAC BROCHET, MB, R0B 2E0",
+    "province": null
+  },
+  {
+    "number": 151,
+    "name": "Northwest Angle No.33",
+    "address": "BOX 1490, KENORA, ON, P9N 3X7",
+    "province": null
+  },
+  {
+    "number": 278,
+    "name": "Norway House Cree Nation",
+    "address": "PO BOX 250, NORWAY HOUSE, MB, R0B 1B0",
+    "province": null
+  },
+  {
+    "number": 639,
+    "name": "Nuchatlaht",
+    "address": "PO BOX 40, ZEBALLOS, BC, V0P 2A0",
+    "province": null
+  },
+  {
+    "number": 539,
+    "name": "Nuxalk Nation",
+    "address": "PO BOX 65, BELLA COOLA, BC, V0T 1C0",
+    "province": null
+  },
+  {
+    "number": 431,
+    "name": "O'Chiese",
+    "address": "PO BOX 1570, ROCKY MOUNTAIN HOUSE, AB, T4T 1B2",
+    "province": null
+  },
+  {
+    "number": 279,
+    "name": "O-Chi-Chak-Ko-Sipi First Nation",
+    "address": "PO BOX 103, CRANE RIVER, MB, R0L 0M0",
+    "province": null
+  },
+  {
+    "number": 318,
+    "name": "O-Pipon-Na-Piwin Cree Nation",
+    "address": "PO BOX 139, SOUTH INDIAN LAKE, MB, R0B 1N0",
+    "province": null
+  },
+  {
+    "number": 408,
+    "name": "Ocean Man",
+    "address": "PO BOX 157, STOUGHTON, SK, S0G 4T0",
+    "province": null
+  },
+  {
+    "number": 363,
+    "name": "Ochapowace",
+    "address": "PO BOX 550, WHITEWOOD, SK, S0G 5C0",
+    "province": null
+  },
+  {
+    "number": 72,
+    "name": "Odanak",
+    "address": "104, Rue Sibosis, Odanak, QC, J0G 1H0",
+    "province": null
+  },
+  {
+    "number": 258,
+    "name": "Ojibway Nation of Saugeen",
+    "address": "GENERAL DELIVERY, SAVANT LAKE, ON, P0V 2S0",
+    "province": null
+  },
+  {
+    "number": 131,
+    "name": "Ojibways of Onigaming First Nation",
+    "address": "PO BOX 160, NESTOR FALLS, ON, P0X 1K0",
+    "province": null
+  },
+  {
+    "number": 616,
+    "name": "Okanagan",
+    "address": "12420 WESTSIDE RD, VERNON, BC, V1H 2A4",
+    "province": null
+  },
+  {
+    "number": 382,
+    "name": "Okanese",
+    "address": "PO BOX 759, BALCARRES, SK, S0G 0C0",
+    "province": null
+  },
+  {
+    "number": 669,
+    "name": "Old Massett Village Council",
+    "address": "PO BOX 189, OLD MASSET, BC, V0T 1M0",
+    "province": null
+  },
+  {
+    "number": 373,
+    "name": "One Arrow First Nation",
+    "address": "PO BOX 147, BELLEVUE, SK, S0K 3Y0",
+    "province": null
+  },
+  {
+    "number": 246,
+    "name": "Oneida",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 169,
+    "name": "Oneida Nation of the Thames",
+    "address": "RR 2, SOUTHWOLD, ON, N0L 2G0",
+    "province": null
+  },
+  {
+    "number": 344,
+    "name": "Onion Lake Cree Nation",
+    "address": "PO BOX 100, ONION LAKE, SK, S0M 2E0",
+    "province": null
+  },
+  {
+    "number": 247,
+    "name": "Onondaga Clear Sky",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 315,
+    "name": "Opaskwayak Cree Nation",
+    "address": "PO BOX 10880, OPASKWAYAK, MB, R0B 2J0",
+    "province": null
+  },
+  {
+    "number": 692,
+    "name": "Oregon Jack Creek",
+    "address": "PO BOX 940, ASHCROFT, BC, V0K 1A0",
+    "province": null
+  },
+  {
+    "number": 12,
+    "name": "Oromocto First Nation",
+    "address": "PO Box 417, 4 Hiawatha Avenue, Oromocto, NB, E2V 2J2",
+    "province": null
+  },
+  {
+    "number": 596,
+    "name": "Osoyoos",
+    "address": "1155 SEN POK CHIN BLVD, OLIVER, BC, V0H 1T8",
+    "province": null
+  },
+  {
+    "number": 89,
+    "name": "Oujé-Bougoumou Cree Nation",
+    "address": "203, Opemiska Meskino Street, P.O. Box 1169, Oujé-Bougoumou, QC, G0W 3C0",
+    "province": null
+  },
+  {
+    "number": 13,
+    "name": "Pabineau",
+    "address": "1290 Pabineau Falls Road, Pabineau First Nation, NB, E2A 7M3",
+    "province": null
+  },
+  {
+    "number": 658,
+    "name": "Pacheedaht First Nation",
+    "address": "350 Kalaid Street, Box 170, PORT RENFREW, BC, V0S 1K0",
+    "province": null
+  },
+  {
+    "number": 19,
+    "name": "Paqtnkek Mi'kmaw Nation",
+    "address": "7 Dillon Street, Afton Station, NS, B0H 1A0",
+    "province": null
+  },
+  {
+    "number": 383,
+    "name": "Pasqua First Nation #79",
+    "address": "PO BOX 79, PASQUA, SK, S0G 5M0",
+    "province": null
+  },
+  {
+    "number": 327,
+    "name": "Pauingassi First Nation",
+    "address": "PO BOX 60, PAUINGASSI, MB, R0B 2G0",
+    "province": null
+  },
+  {
+    "number": 441,
+    "name": "Paul",
+    "address": "PO BOX 89, DUFFIELD, AB, T0E 0N0",
+    "province": null
+  },
+  {
+    "number": 652,
+    "name": "Pauquachin",
+    "address": "9010 WEST SAANICH ROAD, SIDNEY, BC, V8L 5W4",
+    "province": null
+  },
+  {
+    "number": 191,
+    "name": "Pays Plat",
+    "address": "10 CENTRAL PLACE, PAYS PLAT, ON, P0T 3C0",
+    "province": null
+  },
+  {
+    "number": 384,
+    "name": "Peepeekisis Cree Nation No.81",
+    "address": "PO BOX 518, BALCARRES, SK, S0G 0C0",
+    "province": null
+  },
+  {
+    "number": 478,
+    "name": "Peerless Trout First Nation",
+    "address": "PO BOX 128, PEERLESS LAKE, AB, T0G 2W0",
+    "province": null
+  },
+  {
+    "number": 269,
+    "name": "Peguis",
+    "address": "PO BOX 10, PEGUIS RESERVE, MB, R0C 3J0",
+    "province": null
+  },
+  {
+    "number": 756,
+    "name": "Pehdzeh Ki First Nation",
+    "address": "GENERAL DELIVERY, WRIGLEY, NT, X0E 1E0",
+    "province": null
+  },
+  {
+    "number": 405,
+    "name": "Pelican Lake",
+    "address": "PO BOX 399, LEOVILLE, SK, S0J 1N0",
+    "province": null
+  },
+  {
+    "number": 650,
+    "name": "Penelakut Tribe",
+    "address": "11330 Clam Nay Road N, Penelakut Island, BC, V0R 5K0",
+    "province": null
+  },
+  {
+    "number": 597,
+    "name": "Penticton",
+    "address": "841 Westhills Drive, Penticton, BC, V2A 0E8",
+    "province": null
+  },
+  {
+    "number": 355,
+    "name": "Peter Ballantyne Cree Nation",
+    "address": "Opawikoscikan Reserve, PO Box 2320, 2300-10th Avenue West, Prince Albert, SK, S6V 6Z1",
+    "province": null
+  },
+  {
+    "number": 586,
+    "name": "Peters First Nation",
+    "address": "16870 PETERS ROAD, HOPE, BC, V0X 1L2",
+    "province": null
+  },
+  {
+    "number": 409,
+    "name": "Pheasant Rump Nakota",
+    "address": "PO BOX 238, KISBEY, SK, S0C 1L0",
+    "province": null
+  },
+  {
+    "number": 385,
+    "name": "Piapot",
+    "address": "GENERAL DELIVERY, ZEHNER, SK, S0G 5K0",
+    "province": null
+  },
+  {
+    "number": 24,
+    "name": "Pictou Landing",
+    "address": "6533 Pictou Landing Road, Fisher's Grant, NS, B0K 1X0",
+    "province": null
+  },
+  {
+    "number": 436,
+    "name": "Piikani Nation",
+    "address": "PO BOX 70, BROCKET, AB, T0K 0H0",
+    "province": null
+  },
+  {
+    "number": 208,
+    "name": "Pikangikum",
+    "address": "PO BOX 323, PIKANGIKUM, ON, P0V 2L0",
+    "province": null
+  },
+  {
+    "number": 272,
+    "name": "Pinaymootang First Nation",
+    "address": "General Delivery, FAIRFORD, MB, R0C 0X0",
+    "province": null
+  },
+  {
+    "number": 585,
+    "name": "Popkum First Nation",
+    "address": "54941 JULSETH ROAD, POPKUM, BC, V0X 1X1",
+    "province": null
+  },
+  {
+    "number": 236,
+    "name": "Poplar Hill",
+    "address": "PO BOX 1, POPLAR HILL, ON, P0V 3E0",
+    "province": null
+  },
+  {
+    "number": 277,
+    "name": "Poplar River First Nation",
+    "address": "PO BOX 90, NEGGINAN, MB, R0B 0Z0",
+    "province": null
+  },
+  {
+    "number": 22,
+    "name": "Potlotek First Nation",
+    "address": "12004 Highway 4, Chapel Island, NS, B0E 3B0",
+    "province": null
+  },
+  {
+    "number": 345,
+    "name": "Poundmaker",
+    "address": "PO BOX 610, CUTKNIFE, SK, S0M 0N0",
+    "province": null
+  },
+  {
+    "number": 54,
+    "name": "Première Nation Wolastoqiyik (Malécite) Wahsipekuk",
+    "address": "217, rue de la Grève, Cacouna, QC, G0L 1G0",
+    "province": null
+  },
+  {
+    "number": 71,
+    "name": "Première Nation des Abénakis de Wôlinak",
+    "address": "10120, Rue Kolipaïo, Wôlinak, QC, G0X 1B0",
+    "province": null
+  },
+  {
+    "number": 83,
+    "name": "Première Nation des Innus de Nutashkuan",
+    "address": "78, rue Mashkush, Natashquan, QC, G0G 2E0",
+    "province": null
+  },
+  {
+    "number": 76,
+    "name": "Première Nation des Pekuakamiulnuatsh",
+    "address": "1671, rue Ouiatchouan, Mashteuiatsh, QC, G0W 2H0",
+    "province": null
+  },
+  {
+    "number": 95,
+    "name": "Première nation de Whapmagoostui",
+    "address": "P.O. Box 390, Whapmagoostui, QC, J0M 1G0",
+    "province": null
+  },
+  {
+    "number": 544,
+    "name": "Prophet River First Nation",
+    "address": "PO BOX 3250, FORT NELSON, BC, V0C 1R0",
+    "province": null
+  },
+  {
+    "number": 34,
+    "name": "Qalipu Mi'kmaq First Nation",
+    "address": "3 Church Street, Corner Brook, NL, A2H 2Z4",
+    "province": null
+  },
+  {
+    "number": 651,
+    "name": "Qualicum First Nation",
+    "address": "5850 RIVER ROAD, QUALICUM BEACH, BC, V9K 1Z5",
+    "province": null
+  },
+  {
+    "number": 633,
+    "name": "Quatsino",
+    "address": "305 QUATTISHE ROAD, COAL HARBOUR, BC, V0N 1K0",
+    "province": null
+  },
+  {
+    "number": 130,
+    "name": "Rainy River First Nations",
+    "address": "PO BOX 450, EMO, ON, P0W 1E0",
+    "province": null
+  },
+  {
+    "number": 356,
+    "name": "Red Earth",
+    "address": "PO BOX 109, RED EARTH, SK, S0E 1K0",
+    "province": null
+  },
+  {
+    "number": 346,
+    "name": "Red Pheasant",
+    "address": "PO BOX 70, CANDO, SK, S0K 0V0",
+    "province": null
+  },
+  {
+    "number": 193,
+    "name": "Red Rock",
+    "address": "PO BOX 1030, NIPIGON, ON, P0T 2J0",
+    "province": null
+  },
+  {
+    "number": 300,
+    "name": "Red Sucker Lake",
+    "address": "GENERAL DELIVERY, RED SUCKER LAKE, MB, R0B 1H0",
+    "province": null
+  },
+  {
+    "number": 291,
+    "name": "Rolling River",
+    "address": "PO BOX 145, ERICKSON, MB, R0J 0P0",
+    "province": null
+  },
+  {
+    "number": 273,
+    "name": "Roseau River Anishinabe First Nation Government",
+    "address": "PO BOX 30, GINEW, MB, R0A 2R0",
+    "province": null
+  },
+  {
+    "number": 497,
+    "name": "Ross River Dena Council",
+    "address": "GENERAL DELIVERY, ROSS RIVER, YT, Y0B 1S0",
+    "province": null
+  },
+  {
+    "number": 25,
+    "name": "SIPEKNE'KATIK",
+    "address": "522 Church Street, Indian Brook, NS, B0N 2H0",
+    "province": null
+  },
+  {
+    "number": 214,
+    "name": "Sachigo Lake",
+    "address": "PO BOX 51, SACHIGO LAKE, ON, P0V 2P0",
+    "province": null
+  },
+  {
+    "number": 462,
+    "name": "Saddle Lake Cree Nation",
+    "address": "PO BOX 100, SADDLE LAKE, AB, T0A 3T0",
+    "province": null
+  },
+  {
+    "number": 179,
+    "name": "Sagamok Anishnawbek",
+    "address": "PO BOX 2230, SAGAMOK, ON, P0P 2L0",
+    "province": null
+  },
+  {
+    "number": 615,
+    "name": "Saik'uz First Nation",
+    "address": "135 JOSEPH STREET, VANDERHOOF, BC, V0J 3A1",
+    "province": null
+  },
+  {
+    "number": 15,
+    "name": "Saint Mary's",
+    "address": "150 Cliffe Street, Fredericton, NB, E3A 0A1",
+    "province": null
+  },
+  {
+    "number": 759,
+    "name": "Salt River First Nation #195",
+    "address": "PO BOX 960, FORT SMITH, NT, X0E 0P0",
+    "province": null
+  },
+  {
+    "number": 567,
+    "name": "Samahquam",
+    "address": "PO BOX 610, MOUNT CURRIE, BC, V0N 2K0",
+    "province": null
+  },
+  {
+    "number": 767,
+    "name": "Sambaa K'e First Nation",
+    "address": "PO BOX 10, VIA FORT SIMPSON, TROUT LAKE, NT, X0E 0N0",
+    "province": null
+  },
+  {
+    "number": 444,
+    "name": "Samson",
+    "address": "PO BOX 159, MASKWACIS, AB, TOC 1NO",
+    "province": null
+  },
+  {
+    "number": 283,
+    "name": "Sandy Bay",
+    "address": "PO BOX 109, MARIUS, MB, R0H 0T0",
+    "province": null
+  },
+  {
+    "number": 211,
+    "name": "Sandy Lake",
+    "address": "PO BOX 12, SANDY LAKE, ON, P0V 1V0",
+    "province": null
+  },
+  {
+    "number": 314,
+    "name": "Sapotaweyak Cree Nation",
+    "address": "GENERAL DELIVERY, VIA PELICAN RAPIDS, PELICAN RAPIDS, MB, R0L 1L0",
+    "province": null
+  },
+  {
+    "number": 123,
+    "name": "Saugeen",
+    "address": "6493 Hwy 21, Saugeen First Nation # 29, ON, N0H 2L0",
+    "province": null
+  },
+  {
+    "number": 542,
+    "name": "Saulteau First Nations",
+    "address": "PO BOX 1020, CHETWYND, BC, V0C 1J0",
+    "province": null
+  },
+  {
+    "number": 347,
+    "name": "Saulteaux",
+    "address": "PO BOX 159, COCHIN, SK, S0M 0L0",
+    "province": null
+  },
+  {
+    "number": 454,
+    "name": "Sawridge First Nation",
+    "address": "PO BOX 326, SLAVE LAKE, AB, T0G 2A0",
+    "province": null
+  },
+  {
+    "number": 303,
+    "name": "Sayisi Dene First Nation",
+    "address": "GENERAL DELIVERY, TADOULE LAKE, MB, R0B 2C0",
+    "province": null
+  },
+  {
+    "number": 581,
+    "name": "Seabird Island",
+    "address": "PO BOX 650, AGASSIZ, BC, V0M 1A0",
+    "province": null
+  },
+  {
+    "number": 132,
+    "name": "Seine River First Nation",
+    "address": "PO BOX 124, MINE CENTRE, ON, P0W 1H0",
+    "province": null
+  },
+  {
+    "number": 498,
+    "name": "Selkirk First Nation",
+    "address": "PO BOX 40, PELLY CROSSING, YT, Y0B 1P0",
+    "province": null
+  },
+  {
+    "number": 569,
+    "name": "Semiahmoo",
+    "address": "16049 BEACH ROAD, SURREY, BC, V3S 9R6",
+    "province": null
+  },
+  {
+    "number": 201,
+    "name": "Serpent River",
+    "address": "PO BOX 14, 195 VILLAGE ROAD, CUTLER, ON, P0P 1B0",
+    "province": null
+  },
+  {
+    "number": 698,
+    "name": "Shackan",
+    "address": "PO BOX 1360, 2099 GRANITE AVENUE, MERRITT, BC, V1K 1B8",
+    "province": null
+  },
+  {
+    "number": 307,
+    "name": "Shamattawa First Nation",
+    "address": "PO BOX 210, SHAMATTAWA, MB, R0B 1K0",
+    "province": null
+  },
+  {
+    "number": 137,
+    "name": "Shawanaga First Nation",
+    "address": "RR1, 2 VILLAGE ROAD, NOBEL, ON, P0G 1G0",
+    "province": null
+  },
+  {
+    "number": 176,
+    "name": "Sheguiandah",
+    "address": "PO BOX 101, SHEGUIANDAH, ON, P0P 1W0",
+    "province": null
+  },
+  {
+    "number": 33,
+    "name": "Sheshatshiu Innu First Nation",
+    "address": "PO Box 1187, Sheshatshiu First Nation, NL, A0P 1T0",
+    "province": null
+  },
+  {
+    "number": 178,
+    "name": "Sheshegwaning",
+    "address": "1079A SHESHEGWANING ROAD, SHESHEGWANING, ON, P0P 1X0",
+    "province": null
+  },
+  {
+    "number": 357,
+    "name": "Shoal Lake Cree Nation",
+    "address": "PO BOX 51, PAKWAW, SK, S0E 1G0",
+    "province": null
+  },
+  {
+    "number": 155,
+    "name": "Shoal Lake No.40",
+    "address": "GENERAL DELIVERY, KEJICK, ON, P0X 1E0",
+    "province": null
+  },
+  {
+    "number": 605,
+    "name": "Shuswap Band",
+    "address": "RR#2, 3A - 492 Arrow Road, INVERMERE, BC, V0A 1K2",
+    "province": null
+  },
+  {
+    "number": 587,
+    "name": "Shxw'ow'hamel First Nation",
+    "address": "58700A ST. ELMO ROAD, HOPE, BC, V0X 1L2",
+    "province": null
+  },
+  {
+    "number": 570,
+    "name": "Shxwhá:y Village",
+    "address": "44680 SCHWEYEY ROAD, CHILLIWACK, BC, V2R 5M5",
+    "province": null
+  },
+  {
+    "number": 430,
+    "name": "Siksika Nation",
+    "address": "PO BOX 1100, SIKSIKA, AB, T0J 3W0",
+    "province": null
+  },
+  {
+    "number": 691,
+    "name": "Simpcw First Nation",
+    "address": "PO BOX 220, BARRIERE, BC, V0E 1E0",
+    "province": null
+  },
+  {
+    "number": 290,
+    "name": "Sioux Valley Dakota Nation",
+    "address": "PO BOX 38, GRISWOLD, MB, R0M 0S0",
+    "province": null
+  },
+  {
+    "number": 706,
+    "name": "Siska",
+    "address": "PO BOX 519, LYTTON, BC, V0K 1Z0",
+    "province": null
+  },
+  {
+    "number": 121,
+    "name": "Six Nations of the Grand River",
+    "address": "PO BOX 5000, OHSWEKEN, ON, N0A 1M0",
+    "province": null
+  },
+  {
+    "number": 562,
+    "name": "Skatin",
+    "address": "PO Box 478, Mount Currie, BC, V0N 2K0",
+    "province": null
+  },
+  {
+    "number": 582,
+    "name": "Skawahlook First Nation",
+    "address": "58611A LOUGHEED HWY, AGASSIZ, BC, V0M 1A2",
+    "province": null
+  },
+  {
+    "number": 687,
+    "name": "Skeetchestn",
+    "address": "PO BOX 178, SAVONA, BC, V0K 2J0",
+    "province": null
+  },
+  {
+    "number": 670,
+    "name": "Skidegate",
+    "address": "PO BOX 1301, SKIDEGATE, BC, V0T 1S1",
+    "province": null
+  },
+  {
+    "number": 729,
+    "name": "Skin Tyee",
+    "address": "PO BOX 131, SOUTHBANK, BC, V0J 2P0",
+    "province": null
+  },
+  {
+    "number": 571,
+    "name": "Skowkale",
+    "address": "7256 CHILLIWACK RIVER ROAD, CHILLIWACK, BC, V2R 4L9",
+    "province": null
+  },
+  {
+    "number": 281,
+    "name": "Skownan First Nation",
+    "address": "GENERAL DELIVERY, SKOWNAN, MB, R0L 1Y0",
+    "province": null
+  },
+  {
+    "number": 707,
+    "name": "Skuppah",
+    "address": "PO BOX 548, LYTTON, BC, V0K 1Z0",
+    "province": null
+  },
+  {
+    "number": 573,
+    "name": "Skwah",
+    "address": "PO BOX 178, CHILLIWACK, BC, V2P 6H7",
+    "province": null
+  },
+  {
+    "number": 689,
+    "name": "Skwlax te Secwepemculecw",
+    "address": "1886 LITTLE SHUSWAP LAKE ROAD, CHASE, BC, V0E 1M2",
+    "province": null
+  },
+  {
+    "number": 259,
+    "name": "Slate Falls Nation",
+    "address": "48 LAKEVIEW DR, SLATE FALLS, ON, P0V 3C0",
+    "province": null
+  },
+  {
+    "number": 648,
+    "name": "Snuneymuxw First Nation",
+    "address": "668 CENTRE STREET, NANAIMO, BC, V9R 4Z4",
+    "province": null
+  },
+  {
+    "number": 656,
+    "name": "Songhees Nation",
+    "address": "1100 ADMIRALS RD, VICTORIA, BC, V9A 2P6",
+    "province": null
+  },
+  {
+    "number": 572,
+    "name": "Soowahlie",
+    "address": "4393 SOOWAHLIE ROAD, CULTUS LAKE, BC, V2R 4Y2",
+    "province": null
+  },
+  {
+    "number": 600,
+    "name": "Splatsin",
+    "address": "PO BOX 460, ENDERBY, BC, V0E 1V0",
+    "province": null
+  },
+  {
+    "number": 708,
+    "name": "Spuzzum",
+    "address": "SITE 3, C 11, RR 1, YALE, BC, V0K 2S0",
+    "province": null
+  },
+  {
+    "number": 568,
+    "name": "Sq'éwlets",
+    "address": "PO BOX 76, LAKE ERROCK, BC, V0M 1N0",
+    "province": null
+  },
+  {
+    "number": 555,
+    "name": "Squamish",
+    "address": "PO BOX 86131, NORTH VANCOUVER, BC, V7L 4J5",
+    "province": null
+  },
+  {
+    "number": 574,
+    "name": "Squiala First Nation",
+    "address": "45005 SQUIALA ROAD, CHILLIWACK, BC, V2P 7Z9",
+    "province": null
+  },
+  {
+    "number": 298,
+    "name": "St. Theresa Point",
+    "address": "GENERAL DELIVERY, ST THERESA POINT, MB, R0B 1J0",
+    "province": null
+  },
+  {
+    "number": 386,
+    "name": "Standing Buffalo",
+    "address": "PO BOX 128, FORT QU'APPELLE, SK, S0G 1S0",
+    "province": null
+  },
+  {
+    "number": 387,
+    "name": "Star Blanket Cree Nation",
+    "address": "PO BOX 456, BALCARRES, SK, S0G 0C0",
+    "province": null
+  },
+  {
+    "number": 613,
+    "name": "Stellat'en First Nation",
+    "address": "PO BOX 760, FRASER LAKE, BC, V0J 1S0",
+    "province": null
+  },
+  {
+    "number": 471,
+    "name": "Stoney",
+    "address": "PO BOX 40, Mînî Thnî, AB, T0L 1N0",
+    "province": null
+  },
+  {
+    "number": 559,
+    "name": "Sts'ailes",
+    "address": "4690 SALISH WAY, CHEHALIS ROAD, AGASSIZ, BC, V0M 1A1",
+    "province": null
+  },
+  {
+    "number": 723,
+    "name": "Stswecem'c Xget'tem First Nation",
+    "address": "GENERAL DELIVERY, DOG CREEK, BC, V0L 1J0",
+    "province": null
+  },
+  {
+    "number": 455,
+    "name": "Sturgeon Lake Cree Nation",
+    "address": "PO BOX 757, VALLEYVIEW, AB, T0H 3N0",
+    "province": null
+  },
+  {
+    "number": 360,
+    "name": "Sturgeon Lake First Nation",
+    "address": "RR 1 SITE 12, PO BOX 5, SHELLBROOK, SK, S0J 2E0",
+    "province": null
+  },
+  {
+    "number": 641,
+    "name": "Stz'uminus First Nation",
+    "address": "12611-A TRANS CANADA HIGHWAY, LADYSMITH, BC, V9G 1M5",
+    "province": null
+  },
+  {
+    "number": 456,
+    "name": "Sucker Creek",
+    "address": "PO BOX 65, ENILDA, AB, T0G 0W0",
+    "province": null
+  },
+  {
+    "number": 578,
+    "name": "Sumas First Nation",
+    "address": "2788 SUMAS MOUNTAIN ROAD, ABBOTSFORD, BC, V3G 2J2",
+    "province": null
+  },
+  {
+    "number": 434,
+    "name": "Sunchild First Nation",
+    "address": "PO BOX 747, ROCKY MOUNTAIN HOUSE, AB, T4T 1A5",
+    "province": null
+  },
+  {
+    "number": 293,
+    "name": "Swan Lake First Nation",
+    "address": "PO BOX 368, SWAN LAKE, MB, R0G 2S0",
+    "province": null
+  },
+  {
+    "number": 457,
+    "name": "Swan River First Nation",
+    "address": "PO BOX 270, KINUSO, AB, T0G 1K0",
+    "province": null
+  },
+  {
+    "number": 348,
+    "name": "Sweetgrass",
+    "address": "PO BOX 147, GALLIVAN, SK, S0M 0X0",
+    "province": null
+  },
+  {
+    "number": 551,
+    "name": "shishálh Nation",
+    "address": "PO BOX 740, 5555 SUNSHINE COAST HWY, SECHELT, BC, V0N 3A0",
+    "province": null
+  },
+  {
+    "number": 657,
+    "name": "T'Sou-ke First Nation",
+    "address": "PO BOX 307, SOOKE, BC, V9Z 1G1",
+    "province": null
+  },
+  {
+    "number": 593,
+    "name": "T'it'q'et",
+    "address": "PO BOX 615, LILLOOET, BC, V0K 1V0",
+    "province": null
+  },
+  {
+    "number": 508,
+    "name": "Ta'an Kwach'an",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 682,
+    "name": "Tahltan",
+    "address": "PO BOX 46, TELEGRAPH CREEK, BC, V0J 2W0",
+    "province": null
+  },
+  {
+    "number": 608,
+    "name": "Takla Nation",
+    "address": "510 CARNEY ST., PRINCE GEORGE, BC, V2M 2K6",
+    "province": null
+  },
+  {
+    "number": 501,
+    "name": "Taku River Tlingit",
+    "address": "PO BOX 132, ATLIN, BC, V0W 1A0",
+    "province": null
+  },
+  {
+    "number": 446,
+    "name": "Tallcree Tribal Government",
+    "address": "PO BOX 100, FORT VERMILION, AB, T0H 1N0",
+    "province": null
+  },
+  {
+    "number": 306,
+    "name": "Tataskweyak Cree Nation",
+    "address": "PO BOX 250, SPLIT LAKE, MB, R0B 1P0",
+    "province": null
+  },
+  {
+    "number": 145,
+    "name": "Taykwa Tagamou Nation",
+    "address": "PO BOX 3310, RR 2, COCHRANE, ON, P0L 1C0",
+    "province": null
+  },
+  {
+    "number": 751,
+    "name": "Teetl'it Gwich'in Band Council",
+    "address": "PO BOX 30, FORT MCPHERSON, NT, X0E 0J0",
+    "province": null
+  },
+  {
+    "number": 222,
+    "name": "Teme Augama Anishinabek",
+    "address": "GENERAL DELIVERY, BEAR ISLAND, ON, P0H 1C0",
+    "province": null
+  },
+  {
+    "number": 499,
+    "name": "Teslin Tlingit Council",
+    "address": "PO BOX 133, TESLIN, YT, Y0A 1B0",
+    "province": null
+  },
+  {
+    "number": 61,
+    "name": "The Crees of the Waskaganish First Nation",
+    "address": "70, Waskaganish Street, P.O. BOX 60, Waskaganish, QC, J0M 1R0",
+    "province": null
+  },
+  {
+    "number": 368,
+    "name": "The Key First Nation",
+    "address": "PO BOX 70, NORQUAY, SK, S0A 2V0",
+    "province": null
+  },
+  {
+    "number": 202,
+    "name": "Thessalon",
+    "address": "40 SUGARBUSH ROAD, THESSALON, ON, P0R 1L0",
+    "province": null
+  },
+  {
+    "number": 349,
+    "name": "Thunderchild First Nation",
+    "address": "PO BOX 600, TURTLEFORD, SK, S0M 2Y0",
+    "province": null
+  },
+  {
+    "number": 64,
+    "name": "Timiskaming First Nation",
+    "address": "24, Algonquin Avenue, Notre-Dame-du-Nord, QC, J0Z 3B0",
+    "province": null
+  },
+  {
+    "number": 688,
+    "name": "Tk'emlúps te Secwépemc",
+    "address": "200 -  330 CHIEF ALEX THOMAS WAY, KAMLOOPS, BC, V2H 1H1",
+    "province": null
+  },
+  {
+    "number": 617,
+    "name": "Tl'azt'en Nation",
+    "address": "PO BOX 670, FORT ST. JAMES, BC, V0J 1P0",
+    "province": null
+  },
+  {
+    "number": 712,
+    "name": "Tl'etinqox Government",
+    "address": "PO BOX 168, ALEXIS CREEK, BC, V0L 1A0",
+    "province": null
+  },
+  {
+    "number": 554,
+    "name": "Tla'amin Nation",
+    "address": "4779  KLAHANIE ROAD, POWELL RIVER, BC, V8A 0C4",
+    "province": null
+  },
+  {
+    "number": 660,
+    "name": "Tla-o-qui-aht First Nations",
+    "address": "PO BOX 18, TOFINO, BC, V0R 2Z0",
+    "province": null
+  },
+  {
+    "number": 632,
+    "name": "Tlatlasikwala",
+    "address": "PO BOX 339, PORT HARDY, BC, V0N 2P0",
+    "province": null
+  },
+  {
+    "number": 637,
+    "name": "Tlowitsis Tribe",
+    "address": "1345 BUTE CRESCENT, CAMPBELL RIVER, BC, V9H 1G6",
+    "province": null
+  },
+  {
+    "number": 718,
+    "name": "Tl’esqox",
+    "address": "PO BOX 80, RISKE CREEK, BC, V0L 1T0",
+    "province": null
+  },
+  {
+    "number": 16,
+    "name": "Tobique",
+    "address": "13156 Route105, Tobique First Nation, NB, E7H 5M7",
+    "province": null
+  },
+  {
+    "number": 292,
+    "name": "Tootinaowaziibeeng Treaty Reserve",
+    "address": "P.O. Box 1, SHORTDALE, MB, R0L 1W0",
+    "province": null
+  },
+  {
+    "number": 666,
+    "name": "Toquaht",
+    "address": "1971 PENINSULA ROAD, PO BOX 759, UCLUELET, BC, V0R 3A0",
+    "province": null
+  },
+  {
+    "number": 494,
+    "name": "Tr'ondëk Hwëch'in",
+    "address": "PO BOX 599, DAWSON CITY, YT, Y0B 1G0",
+    "province": null
+  },
+  {
+    "number": 619,
+    "name": "Ts'il Kaz Koh",
+    "address": "BAG 9000, BURNS LAKE, BC, V0J 1E0",
+    "province": null
+  },
+  {
+    "number": 594,
+    "name": "Ts'kw'aylaxw First Nation",
+    "address": "PO BOX 2200, LILLOOET, BC, V0K 1V0",
+    "province": null
+  },
+  {
+    "number": 643,
+    "name": "Ts'uubaa-asatx",
+    "address": "313B DEER ROAD, PO BOX 159, LAKE COWICHAN, BC, V0R 2G0",
+    "province": null
+  },
+  {
+    "number": 595,
+    "name": "Tsal'alh",
+    "address": "SITE 3 BOX 76, SHALALTH, BC, V0N 3C0",
+    "province": null
+  },
+  {
+    "number": 653,
+    "name": "Tsartlip",
+    "address": "PO BOX 70, #1 Boatramp Road, BRENTWOOD BAY, BC, V8M 1R3",
+    "province": null
+  },
+  {
+    "number": 654,
+    "name": "Tsawout First Nation",
+    "address": "7728 TETAYUT ROAD, SAANICHTON, BC, V8M 2E4",
+    "province": null
+  },
+  {
+    "number": 577,
+    "name": "Tsawwassen First Nation",
+    "address": "1926 TSAWWASSEN DR. N., DELTA, BC, V4M 4G4",
+    "province": null
+  },
+  {
+    "number": 609,
+    "name": "Tsay Keh Dene",
+    "address": "1940 - 3rd Avenue, Prince George, BC, V2M 1G7",
+    "province": null
+  },
+  {
+    "number": 665,
+    "name": "Tseshaht",
+    "address": "5091 TSUMA-AS DR, PORT ALBERNI, BC, V9Y 8X9",
+    "province": null
+  },
+  {
+    "number": 655,
+    "name": "Tseycum",
+    "address": "1210 TOTEM LANE, NORTH SAANICH, BC, V8L 5S4",
+    "province": null
+  },
+  {
+    "number": 549,
+    "name": "Tsleil-Waututh Nation",
+    "address": "3178 ALDER COURT, NORTH VANCOUVER, BC, V7H 2V6",
+    "province": null
+  },
+  {
+    "number": 713,
+    "name": "Tsq'escen' First Nation",
+    "address": "PO BOX 1030, 100 MILE HOUSE, BC, V0K 2E0",
+    "province": null
+  },
+  {
+    "number": 432,
+    "name": "Tsuut'ina Nation",
+    "address": "200 - 9911 CHIILA BLVD SW, TSUU T'INA, AB, T2W 6H6",
+    "province": null
+  },
+  {
+    "number": 477,
+    "name": "Tthebatthie Denesuliné Nation",
+    "address": "PO BOX 1470, FORT SMITH, NT, X0E 0P0",
+    "province": null
+  },
+  {
+    "number": 750,
+    "name": "Tulita Dene",
+    "address": "PO BOX 118, TULITA, NT, X0E 0K0",
+    "province": null
+  },
+  {
+    "number": 245,
+    "name": "Tuscarora",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 575,
+    "name": "Tzeachten",
+    "address": "45855 PROMONTORY ROAD, CHILLIWACK, BC, V2R 0H3",
+    "province": null
+  },
+  {
+    "number": 710,
+    "name": "Tŝideldel First Nation",
+    "address": "PO BOX 69, CHILANKO FORKS, BC, V0L 1H0",
+    "province": null
+  },
+  {
+    "number": 667,
+    "name": "Uchucklesaht",
+    "address": "5251 ARGYLE STREET, SUITE A, PORT ALBERNI, BC, V9Y 1V1",
+    "province": null
+  },
+  {
+    "number": 668,
+    "name": "Ucluelet First Nation",
+    "address": "PO BOX 699, UCLUELET, BC, V0R 3A0",
+    "province": null
+  },
+  {
+    "number": 722,
+    "name": "Ulkatcho",
+    "address": "PO BOX 3430, ANAHIM LAKE, BC, V0L 1C0",
+    "province": null
+  },
+  {
+    "number": 588,
+    "name": "Union Bar First Nation",
+    "address": "66427 KAWKAWA LAKE RD, HOPE, BC, V0X 1L1",
+    "province": null
+  },
+  {
+    "number": 249,
+    "name": "Upper Cayuga",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 257,
+    "name": "Upper Mohawk",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 697,
+    "name": "Upper Nicola",
+    "address": "2225 Village Road, General Delivery, DOUGLAS LAKE, BC, V0E 1S0",
+    "province": null
+  },
+  {
+    "number": 599,
+    "name": "Upper Similkameen",
+    "address": "PO BOX 220, HEDLEY, BC, V0X 1K0",
+    "province": null
+  },
+  {
+    "number": 496,
+    "name": "Vuntut Gwitchin First Nation",
+    "address": "PO BOX 94, OLD CROW, YT, Y0B 1N0",
+    "province": null
+  },
+  {
+    "number": 150,
+    "name": "Wabaseemoong Independent Nations",
+    "address": "GENERAL DELIVERY, WHITEDOG, ON, P0X 1P0",
+    "province": null
+  },
+  {
+    "number": 156,
+    "name": "Wabauskang First Nation",
+    "address": "PO BOX 339, EAR FALLS, ON, P0V 1T0",
+    "province": null
+  },
+  {
+    "number": 157,
+    "name": "Wabigoon Lake Ojibway Nation",
+    "address": "RR 1, SITE 115, PO BOX 300, DRYDEN, ON, P8N 2Y4",
+    "province": null
+  },
+  {
+    "number": 28,
+    "name": "Wagmatcook",
+    "address": "PO Box 30001, Wagmatcook, NS, B0E 3N0",
+    "province": null
+  },
+  {
+    "number": 232,
+    "name": "Wahnapitae",
+    "address": "259 TAIGHWENINI TRAIL ROAD, CAPREOL, ON, P0M 1H0",
+    "province": null
+  },
+  {
+    "number": 358,
+    "name": "Wahpeton Dakota Nation",
+    "address": "PO BOX 128, PRINCE ALBERT, SK, S6V 5R4",
+    "province": null
+  },
+  {
+    "number": 134,
+    "name": "Wahta Mohawk",
+    "address": "PO BOX 260, BALA, ON, P0C 1A0",
+    "province": null
+  },
+  {
+    "number": 255,
+    "name": "Walker Mohawk",
+    "address": null,
+    "province": null
+  },
+  {
+    "number": 170,
+    "name": "Walpole Island",
+    "address": "RR 3, WALLACEBURG, ON, N8A 4K9",
+    "province": null
+  },
+  {
+    "number": 206,
+    "name": "Wapekeka",
+    "address": "PO BOX 2, WAPEKEKA, ON, P0V 1B0",
+    "province": null
+  },
+  {
+    "number": 323,
+    "name": "War Lake First Nation",
+    "address": "GENERAL DELIVERY, ILFORD, MB, R0B 0S0",
+    "province": null
+  },
+  {
+    "number": 299,
+    "name": "Wasagamack First Nation",
+    "address": "PO BOX 1, WASAGAMACK, MB, R0B 1Z0",
+    "province": null
+  },
+  {
+    "number": 136,
+    "name": "Wasauksing First Nation",
+    "address": "PO BOX 250, PARRY SOUND, ON, P2A 2X4",
+    "province": null
+  },
+  {
+    "number": 235,
+    "name": "Washagamis Bay",
+    "address": "PO BOX 625, KEEWATIN, ON, P0X 1C0",
+    "province": null
+  },
+  {
+    "number": 18,
+    "name": "Wasoqopa’q First Nation",
+    "address": "10526 Highway 3, Yarmouth, NS, B5A 5J7",
+    "province": null
+  },
+  {
+    "number": 56,
+    "name": "Waswanipi",
+    "address": "1, Chief Louis R. Gull Street, Diom Blacksmith Building, P.O. Box 8, Waswapini, QC, J0Y 3C0",
+    "province": null
+  },
+  {
+    "number": 402,
+    "name": "Waterhen Lake",
+    "address": "PO BOX 9, WATERHEN LAKE, SK, S0M 3B0",
+    "province": null
+  },
+  {
+    "number": 234,
+    "name": "Wawakapewin",
+    "address": "PO BOX 477, SIOUX LOOKOUT, ON, P8T 1A8",
+    "province": null
+  },
+  {
+    "number": 285,
+    "name": "Waywayseecappo First Nation Treaty Four - 1874",
+    "address": "PO BOX 9, WAYWAYSEECAPPO, MB, R0J 1S0",
+    "province": null
+  },
+  {
+    "number": 623,
+    "name": "We Wai Kai Nation",
+    "address": "690 HEADSTART CRES, CAMPBELL RIVER, BC, V9H 1P9",
+    "province": null
+  },
+  {
+    "number": 29,
+    "name": "We'koqma'q L’nue’kati",
+    "address": "PO Box 149,  150 Reservation Road, Waycobah, NS, B0E 3M0",
+    "province": null
+  },
+  {
+    "number": 240,
+    "name": "Webequie",
+    "address": "PO BOX 268, WEBEQUIE, ON, P0T 3A0",
+    "province": null
+  },
+  {
+    "number": 146,
+    "name": "Weenusk",
+    "address": "PO BOX 1, PEAWANUCK, ON, P0L 2H0",
+    "province": null
+  },
+  {
+    "number": 545,
+    "name": "West Moberly First Nations",
+    "address": "PO BOX 90, MOBERLY LAKE, BC, V0C 1X0",
+    "province": null
+  },
+  {
+    "number": 772,
+    "name": "West Point First Nation",
+    "address": "1 - 47031 MACKENZIE HWY, HAY RIVER, NT, X0E 0R9",
+    "province": null
+  },
+  {
+    "number": 601,
+    "name": "Westbank First Nation",
+    "address": "201-515 HWY 97 SOUTH, KELOWNA, BC, V1Z 3J2",
+    "province": null
+  },
+  {
+    "number": 725,
+    "name": "Wet'suwet'en First Nation",
+    "address": "PO BOX 760, BURNS LAKE, BC, V0J 1E0",
+    "province": null
+  },
+  {
+    "number": 769,
+    "name": "Wha Ti First Nation",
+    "address": "PO BOX 92, WHA TI, NT, X0E 1P0",
+    "province": null
+  },
+  {
+    "number": 702,
+    "name": "Whispering Pines/Clinton",
+    "address": "615 WHISPERING PINES DRIVE, KAMLOOPS, BC, V2B 8S4",
+    "province": null
+  },
+  {
+    "number": 365,
+    "name": "White Bear",
+    "address": "PO BOX 700, CARLYLE, SK, S0C 0R0",
+    "province": null
+  },
+  {
+    "number": 506,
+    "name": "White River First Nation",
+    "address": "GENERAL DELIVERY, BEAVER CREEK, YT, Y0B 1A0",
+    "province": null
+  },
+  {
+    "number": 372,
+    "name": "Whitecap Dakota Nation",
+    "address": "182 CHIEF WHITECAP TRAIL, WHITECAP, SK, S7K 2L2",
+    "province": null
+  },
+  {
+    "number": 459,
+    "name": "Whitefish Lake",
+    "address": "GENERAL DELIVERY, ATIKAMEG, AB, T0G 0C0",
+    "province": null
+  },
+  {
+    "number": 230,
+    "name": "Whitefish River",
+    "address": "PO BOX A, BIRCH ISLAND, ON, P0P 1A0",
+    "province": null
+  },
+  {
+    "number": 190,
+    "name": "Whitesand",
+    "address": "PO BOX 68, ARMSTRONG, ON, P0T 1A0",
+    "province": null
+  },
+  {
+    "number": 175,
+    "name": "Wikwemikong",
+    "address": "PO BOX 112, WIKWEMIKONG, ON, P0P 2J0",
+    "province": null
+  },
+  {
+    "number": 719,
+    "name": "Williams Lake First Nation",
+    "address": "2561 QUIGLI DRIVE, WILLIAMS LAKE, BC, V2G 0B1",
+    "province": null
+  },
+  {
+    "number": 407,
+    "name": "Witchekan Lake",
+    "address": "PO BOX 879, SPIRITWOOD, SK, S0J 2M0",
+    "province": null
+  },
+  {
+    "number": 530,
+    "name": "Witset First Nation",
+    "address": "3-205 BEAVER ROAD, SMITHERS, BC, V0J 2N1",
+    "province": null
+  },
+  {
+    "number": 68,
+    "name": "Wolf Lake",
+    "address": "5 Riordon Avenue, Temiscaming, QC, J0Z 3R0",
+    "province": null
+  },
+  {
+    "number": 388,
+    "name": "Wood Mountain",
+    "address": "PO BOX 1792, ASSINIBOIA, SK, S0H 0B0",
+    "province": null
+  },
+  {
+    "number": 474,
+    "name": "Woodland Cree First Nation",
+    "address": "GENERAL DELIVERY, CADOTTE LAKE, AB, T0H 0N0",
+    "province": null
+  },
+  {
+    "number": 17,
+    "name": "Woodstock",
+    "address": "3 Wulastook Court, Woodstock First Nation, NB, E7M 4K6",
+    "province": null
+  },
+  {
+    "number": 541,
+    "name": "Wuikinuxv Nation",
+    "address": "WUIKINUXV VILLAGE RIVERS INLET, PO BOX 3500, PORT HARDY, BC, V0N 2P0",
+    "province": null
+  },
+  {
+    "number": 217,
+    "name": "Wunnumin",
+    "address": "PO BOX 105, WUNNUMIN LAKE, ON, P0V 2Z0",
+    "province": null
+  },
+  {
+    "number": 324,
+    "name": "Wuskwi Sipihk First Nation",
+    "address": "PO BOX 220, BIRCH RIVER, MB, R0L 0E0",
+    "province": null
+  },
+  {
+    "number": 716,
+    "name": "Xatsull First Nation",
+    "address": "3405 MOUNTAIN HOUSE ROAD, WILLIAMS LAKE, BC, V2G 5L5",
+    "province": null
+  },
+  {
+    "number": 592,
+    "name": "Xaxli'p",
+    "address": "PO BOX 1330, LILLOOET, BC, V0K 1V0",
+    "province": null
+  },
+  {
+    "number": 714,
+    "name": "Xeni Gwet'in First Nations Government",
+    "address": "GENERAL DELIVERY, NEMIAH VALLEY, BC, V0L 1X0",
+    "province": null
+  },
+  {
+    "number": 576,
+    "name": "Yakweakwioose",
+    "address": "7256 CHILLIWACK RIVER ROAD, CHILLIWACK, BC, V2R 4L9",
+    "province": null
+  },
+  {
+    "number": 589,
+    "name": "Yale First Nation",
+    "address": "PO BOX 1869, HOPE, BC, V0X 1L0",
+    "province": null
+  },
+  {
+    "number": 603,
+    "name": "Yaqit ?a·knuqli‘it First Nation",
+    "address": "PO BOX 76, GRASMERE, BC, V0B 1R0",
+    "province": null
+  },
+  {
+    "number": 728,
+    "name": "Yekooche First Nation",
+    "address": "1890 - 3RD AVENUE, PRINCE GEORGE, BC, V2M 1G4",
+    "province": null
+  },
+  {
+    "number": 376,
+    "name": "Yellow Quill",
+    "address": "PO BOX 40, YELLOW QUILL, SK, S0A 3A0",
+    "province": null
+  },
+  {
+    "number": 763,
+    "name": "Yellowknives Dene First Nation",
+    "address": "PO BOX 2514, YELLOWKNIFE, NT, X1A 2P8",
+    "province": null
+  },
+  {
+    "number": 304,
+    "name": "York Factory First Nation",
+    "address": "GENERAL DELIVERY, YORK LANDING, MB, R0B 2B0",
+    "province": null
+  },
+  {
+    "number": 717,
+    "name": "Yunesit'in Government",
+    "address": "PO BOX 158, HANCEVILLE, BC, V0L 1K0",
+    "province": null
+  },
+  {
+    "number": 364,
+    "name": "Zagime Anishinabek",
+    "address": "PO BOX 339, GRENFELL, SK, S0G 2B0",
+    "province": null
+  },
+  {
+    "number": 173,
+    "name": "Zhiibaahaasing First Nation",
+    "address": "36 SAGON ROAD, ZHIIBAAHAASING, ON, P0P 1X0",
+    "province": null
+  }
+]
